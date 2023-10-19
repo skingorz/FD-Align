@@ -1,0 +1,2366 @@
+{
+    "train": {
+        "data": [
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06227.jpg",
+                "label": 13,
+                "classname": "2012 Audi TTS Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02663.jpg",
+                "label": 2,
+                "classname": "2012 Acura TL Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02448.jpg",
+                "label": 90,
+                "classname": "2007 Dodge Dakota Club Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07988.jpg",
+                "label": 133,
+                "classname": "2012 Hyundai Sonata Hybrid Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02551.jpg",
+                "label": 105,
+                "classname": "2012 Ford F-450 Super Duty Crew Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04667.jpg",
+                "label": 122,
+                "classname": "1993 Geo Metro Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00618.jpg",
+                "label": 88,
+                "classname": "2012 Dodge Journey SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01709.jpg",
+                "label": 95,
+                "classname": "2012 Dodge Charger Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04455.jpg",
+                "label": 166,
+                "classname": "2012 Mitsubishi Lancer Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00999.jpg",
+                "label": 57,
+                "classname": "2012 Chevrolet Traverse SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05468.jpg",
+                "label": 48,
+                "classname": "2012 Buick Verano Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00045.jpg",
+                "label": 185,
+                "classname": "2012 Toyota Sequoia SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06842.jpg",
+                "label": 134,
+                "classname": "2007 Hyundai Elantra Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05721.jpg",
+                "label": 84,
+                "classname": "1997 Dodge Caravan Minivan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03224.jpg",
+                "label": 192,
+                "classname": "2012 Volvo C30 Hatchback"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06365.jpg",
+                "label": 171,
+                "classname": "1999 Plymouth Neon Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07802.jpg",
+                "label": 72,
+                "classname": "2007 Chevrolet Malibu Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07890.jpg",
+                "label": 191,
+                "classname": "2012 Volkswagen Beetle Hatchback"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02667.jpg",
+                "label": 56,
+                "classname": "2007 Chevrolet Corvette Ron Fellows Edition Z06"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05628.jpg",
+                "label": 78,
+                "classname": "2010 Chrysler 300 SRT-8"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03684.jpg",
+                "label": 35,
+                "classname": "2010 BMW M6 Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07757.jpg",
+                "label": 119,
+                "classname": "2012 GMC Yukon Hybrid SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02841.jpg",
+                "label": 169,
+                "classname": "2012 Nissan Juke Hatchback"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01814.jpg",
+                "label": 193,
+                "classname": "1993 Volvo 240 Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01355.jpg",
+                "label": 183,
+                "classname": "2012 Suzuki SX4 Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01070.jpg",
+                "label": 85,
+                "classname": "2010 Dodge Ram Pickup 3500 Crew Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00449.jpg",
+                "label": 179,
+                "classname": "2009 Spyker C8 Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05599.jpg",
+                "label": 153,
+                "classname": "2012 Land Rover Range Rover SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02665.jpg",
+                "label": 138,
+                "classname": "2012 Hyundai Elantra Touring Hatchback"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04246.jpg",
+                "label": 65,
+                "classname": "2010 Chevrolet Cobalt SS"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05248.jpg",
+                "label": 132,
+                "classname": "2012 Hyundai Veracruz SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00036.jpg",
+                "label": 103,
+                "classname": "2012 Ferrari 458 Italia Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02127.jpg",
+                "label": 37,
+                "classname": "2012 BMW Z4 Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07488.jpg",
+                "label": 96,
+                "classname": "2009 Dodge Charger SRT-8"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04367.jpg",
+                "label": 104,
+                "classname": "2012 Fisker Karma Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06930.jpg",
+                "label": 141,
+                "classname": "2011 Infiniti QX56 SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05353.jpg",
+                "label": 12,
+                "classname": "2012 Audi A5 Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00786.jpg",
+                "label": 190,
+                "classname": "1991 Volkswagen Golf Hatchback"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06754.jpg",
+                "label": 118,
+                "classname": "2012 GMC Savana Van"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05647.jpg",
+                "label": 24,
+                "classname": "2012 Audi TT RS Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02045.jpg",
+                "label": 176,
+                "classname": "2012 Rolls-Royce Phantom Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01554.jpg",
+                "label": 172,
+                "classname": "2012 Porsche Panamera Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03413.jpg",
+                "label": 41,
+                "classname": "2012 Bentley Continental GT Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07811.jpg",
+                "label": 147,
+                "classname": "2012 Jeep Grand Cherokee SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04155.jpg",
+                "label": 14,
+                "classname": "2012 Audi R8 Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00364.jpg",
+                "label": 52,
+                "classname": "2007 Cadillac Escalade EXT Crew Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07797.jpg",
+                "label": 43,
+                "classname": "2007 Bentley Continental Flying Spur Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02099.jpg",
+                "label": 64,
+                "classname": "2012 Chevrolet Avalanche Crew Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05653.jpg",
+                "label": 89,
+                "classname": "2010 Dodge Dakota Crew Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00477.jpg",
+                "label": 123,
+                "classname": "2010 HUMMER H3T Crew Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03725.jpg",
+                "label": 113,
+                "classname": "2007 Ford F-150 Regular Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05679.jpg",
+                "label": 189,
+                "classname": "2012 Volkswagen Golf Hatchback"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06887.jpg",
+                "label": 100,
+                "classname": "2012 Ferrari FF Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01225.jpg",
+                "label": 186,
+                "classname": "2012 Toyota Camry Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04247.jpg",
+                "label": 7,
+                "classname": "2012 Aston Martin V8 Vantage Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04380.jpg",
+                "label": 16,
+                "classname": "1994 Audi 100 Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07813.jpg",
+                "label": 110,
+                "classname": "2011 Ford Ranger SuperCab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06446.jpg",
+                "label": 121,
+                "classname": "2012 GMC Canyon Extended Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04338.jpg",
+                "label": 4,
+                "classname": "2012 Acura TSX Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06879.jpg",
+                "label": 28,
+                "classname": "2012 BMW 3 Series Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06398.jpg",
+                "label": 125,
+                "classname": "2012 Honda Odyssey Minivan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05103.jpg",
+                "label": 93,
+                "classname": "2012 Dodge Durango SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/08139.jpg",
+                "label": 187,
+                "classname": "2012 Toyota Corolla Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01812.jpg",
+                "label": 58,
+                "classname": "2012 Chevrolet Camaro Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02375.jpg",
+                "label": 109,
+                "classname": "2012 Ford Edge SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03480.jpg",
+                "label": 42,
+                "classname": "2007 Bentley Continental GT Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06291.jpg",
+                "label": 17,
+                "classname": "1994 Audi 100 Wagon"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05987.jpg",
+                "label": 115,
+                "classname": "2012 Ford E-Series Wagon Van"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05104.jpg",
+                "label": 144,
+                "classname": "2012 Jeep Patriot SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01123.jpg",
+                "label": 19,
+                "classname": "2011 Audi S6 Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04450.jpg",
+                "label": 164,
+                "classname": "2012 Mercedes-Benz S-Class Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02837.jpg",
+                "label": 137,
+                "classname": "2012 Hyundai Sonata Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00655.jpg",
+                "label": 174,
+                "classname": "2012 Rolls-Royce Phantom Drophead Coupe Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06074.jpg",
+                "label": 111,
+                "classname": "2006 Ford GT Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00724.jpg",
+                "label": 50,
+                "classname": "2012 Cadillac CTS-V Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03022.jpg",
+                "label": 36,
+                "classname": "2012 BMW X3 SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06647.jpg",
+                "label": 70,
+                "classname": "2007 Chevrolet Express Van"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03597.jpg",
+                "label": 60,
+                "classname": "2007 Chevrolet Impala Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00104.jpg",
+                "label": 73,
+                "classname": "2012 Chevrolet Silverado 1500 Extended Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02736.jpg",
+                "label": 161,
+                "classname": "2012 Mercedes-Benz C-Class Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04740.jpg",
+                "label": 130,
+                "classname": "2012 Hyundai Santa Fe SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00737.jpg",
+                "label": 87,
+                "classname": "2009 Dodge Sprinter Cargo Van"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01635.jpg",
+                "label": 120,
+                "classname": "2012 GMC Acadia SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07512.jpg",
+                "label": 136,
+                "classname": "2012 Hyundai Genesis Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03012.jpg",
+                "label": 82,
+                "classname": "2012 Dodge Caliber Wagon"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06909.jpg",
+                "label": 146,
+                "classname": "2012 Jeep Liberty SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07914.jpg",
+                "label": 160,
+                "classname": "1993 Mercedes-Benz 300-Class Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02490.jpg",
+                "label": 108,
+                "classname": "2009 Ford Expedition EL SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00598.jpg",
+                "label": 27,
+                "classname": "2012 BMW 1 Series Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01406.jpg",
+                "label": 143,
+                "classname": "2012 Jaguar XK XKR"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01931.jpg",
+                "label": 135,
+                "classname": "2012 Hyundai Accent Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07697.jpg",
+                "label": 142,
+                "classname": "2008 Isuzu Ascender SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04704.jpg",
+                "label": 170,
+                "classname": "1998 Nissan 240SX Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04852.jpg",
+                "label": 177,
+                "classname": "2012 Scion xD Hatchback"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06355.jpg",
+                "label": 55,
+                "classname": "2012 Chevrolet Corvette ZR1"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00141.jpg",
+                "label": 39,
+                "classname": "2009 Bentley Arnage Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07499.jpg",
+                "label": 59,
+                "classname": "2010 Chevrolet HHR SS"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07009.jpg",
+                "label": 154,
+                "classname": "2012 Land Rover LR2 SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02730.jpg",
+                "label": 139,
+                "classname": "2012 Hyundai Azera Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07320.jpg",
+                "label": 75,
+                "classname": "2009 Chrysler Aspen SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01933.jpg",
+                "label": 46,
+                "classname": "2012 Buick Regal GS"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06934.jpg",
+                "label": 29,
+                "classname": "2012 BMW 3 Series Wagon"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01657.jpg",
+                "label": 148,
+                "classname": "2012 Jeep Compass SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06988.jpg",
+                "label": 173,
+                "classname": "2012 Ram C/V Cargo Van Minivan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03153.jpg",
+                "label": 178,
+                "classname": "2009 Spyker C8 Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07889.jpg",
+                "label": 23,
+                "classname": "2007 Audi S4 Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05774.jpg",
+                "label": 175,
+                "classname": "2012 Rolls-Royce Ghost Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05657.jpg",
+                "label": 0,
+                "classname": "2000 AM General Hummer SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04342.jpg",
+                "label": 107,
+                "classname": "2007 Ford Freestar Minivan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00856.jpg",
+                "label": 40,
+                "classname": "2011 Bentley Mulsanne Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05392.jpg",
+                "label": 18,
+                "classname": "2011 Audi TT Hatchback"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03031.jpg",
+                "label": 162,
+                "classname": "2009 Mercedes-Benz SL-Class Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05370.jpg",
+                "label": 53,
+                "classname": "2012 Chevrolet Silverado 1500 Hybrid Crew Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07529.jpg",
+                "label": 49,
+                "classname": "2012 Buick Enclave SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04249.jpg",
+                "label": 67,
+                "classname": "2009 Chevrolet TrailBlazer SS"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02031.jpg",
+                "label": 124,
+                "classname": "2009 HUMMER H2 SUT Crew Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05097.jpg",
+                "label": 159,
+                "classname": "2012 McLaren MP4-12C Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04021.jpg",
+                "label": 92,
+                "classname": "2011 Dodge Challenger SRT8"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04013.jpg",
+                "label": 182,
+                "classname": "2012 Suzuki SX4 Hatchback"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07491.jpg",
+                "label": 44,
+                "classname": "2009 Bugatti Veyron 16.4 Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03794.jpg",
+                "label": 188,
+                "classname": "2012 Toyota 4Runner SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06212.jpg",
+                "label": 47,
+                "classname": "2007 Buick Rainier SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03194.jpg",
+                "label": 76,
+                "classname": "2010 Chrysler Sebring Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06660.jpg",
+                "label": 5,
+                "classname": "2001 Acura Integra Type R"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03981.jpg",
+                "label": 15,
+                "classname": "1994 Audi V8 Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01640.jpg",
+                "label": 11,
+                "classname": "2008 Audi RS 4 Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03783.jpg",
+                "label": 127,
+                "classname": "2012 Honda Accord Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02273.jpg",
+                "label": 22,
+                "classname": "2012 Audi S4 Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00318.jpg",
+                "label": 10,
+                "classname": "2012 Aston Martin Virage Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03666.jpg",
+                "label": 62,
+                "classname": "2012 Chevrolet Sonic Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00564.jpg",
+                "label": 71,
+                "classname": "2007 Chevrolet Monte Carlo Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01739.jpg",
+                "label": 194,
+                "classname": "2007 Volvo XC90 SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05099.jpg",
+                "label": 106,
+                "classname": "2007 Ford Mustang Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00221.jpg",
+                "label": 9,
+                "classname": "2012 Aston Martin Virage Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05119.jpg",
+                "label": 195,
+                "classname": "2012 smart fortwo Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07253.jpg",
+                "label": 98,
+                "classname": "2012 FIAT 500 Abarth"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07691.jpg",
+                "label": 140,
+                "classname": "2012 Infiniti G Coupe IPL"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01262.jpg",
+                "label": 83,
+                "classname": "2007 Dodge Caliber Wagon"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04413.jpg",
+                "label": 131,
+                "classname": "2012 Hyundai Tucson SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05386.jpg",
+                "label": 6,
+                "classname": "2012 Acura ZDX Hatchback"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01890.jpg",
+                "label": 25,
+                "classname": "2012 BMW ActiveHybrid 5 Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04464.jpg",
+                "label": 101,
+                "classname": "2012 Ferrari California Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04710.jpg",
+                "label": 167,
+                "classname": "2012 Nissan Leaf Hatchback"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06641.jpg",
+                "label": 152,
+                "classname": "2001 Lamborghini Diablo Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05150.jpg",
+                "label": 20,
+                "classname": "2012 Audi S5 Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03716.jpg",
+                "label": 30,
+                "classname": "2007 BMW 6 Series Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06003.jpg",
+                "label": 102,
+                "classname": "2012 Ferrari 458 Italia Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03062.jpg",
+                "label": 68,
+                "classname": "2012 Chevrolet Silverado 2500HD Regular Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05499.jpg",
+                "label": 54,
+                "classname": "2012 Chevrolet Corvette Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03278.jpg",
+                "label": 45,
+                "classname": "2009 Bugatti Veyron 16.4 Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01265.jpg",
+                "label": 184,
+                "classname": "2012 Tesla Model S Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04770.jpg",
+                "label": 99,
+                "classname": "2012 FIAT 500 Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02434.jpg",
+                "label": 129,
+                "classname": "2012 Hyundai Veloster Hatchback"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05014.jpg",
+                "label": 155,
+                "classname": "2011 Lincoln Town Car Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03500.jpg",
+                "label": 150,
+                "classname": "2012 Lamborghini Aventador Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00314.jpg",
+                "label": 86,
+                "classname": "2009 Dodge Ram Pickup 3500 Quad Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04299.jpg",
+                "label": 168,
+                "classname": "2012 Nissan NV Passenger Van"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05391.jpg",
+                "label": 126,
+                "classname": "2007 Honda Odyssey Minivan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02197.jpg",
+                "label": 157,
+                "classname": "2012 Maybach Landaulet Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00957.jpg",
+                "label": 74,
+                "classname": "2012 Chevrolet Silverado 1500 Regular Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02995.jpg",
+                "label": 181,
+                "classname": "2012 Suzuki Kizashi Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06862.jpg",
+                "label": 61,
+                "classname": "2012 Chevrolet Tahoe Hybrid SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06472.jpg",
+                "label": 165,
+                "classname": "2012 Mercedes-Benz Sprinter Van"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/08098.jpg",
+                "label": 180,
+                "classname": "2007 Suzuki Aerio Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03427.jpg",
+                "label": 21,
+                "classname": "2012 Audi S5 Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04509.jpg",
+                "label": 8,
+                "classname": "2012 Aston Martin V8 Vantage Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06469.jpg",
+                "label": 66,
+                "classname": "2010 Chevrolet Malibu Hybrid Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07462.jpg",
+                "label": 112,
+                "classname": "2012 Ford F-150 Regular Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04068.jpg",
+                "label": 116,
+                "classname": "2012 Ford Fiesta Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07772.jpg",
+                "label": 114,
+                "classname": "2007 Ford Focus Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01772.jpg",
+                "label": 38,
+                "classname": "2012 Bentley Continental Supersports Conv. Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01921.jpg",
+                "label": 69,
+                "classname": "2007 Chevrolet Silverado 1500 Classic Extended Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02046.jpg",
+                "label": 31,
+                "classname": "2007 BMW X5 SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02819.jpg",
+                "label": 145,
+                "classname": "2012 Jeep Wrangler SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07191.jpg",
+                "label": 3,
+                "classname": "2008 Acura TL Type-S"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00720.jpg",
+                "label": 79,
+                "classname": "2008 Chrysler Crossfire Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04686.jpg",
+                "label": 151,
+                "classname": "2012 Lamborghini Gallardo LP 570-4 Superleggera"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03972.jpg",
+                "label": 163,
+                "classname": "2012 Mercedes-Benz E-Class Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06087.jpg",
+                "label": 63,
+                "classname": "2007 Chevrolet Express Cargo Van"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04438.jpg",
+                "label": 117,
+                "classname": "2012 GMC Terrain SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01082.jpg",
+                "label": 91,
+                "classname": "2008 Dodge Magnum Wagon"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00504.jpg",
+                "label": 128,
+                "classname": "2012 Honda Accord Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04053.jpg",
+                "label": 80,
+                "classname": "2008 Chrysler PT Cruiser Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00843.jpg",
+                "label": 158,
+                "classname": "2011 Mazda Tribute SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01443.jpg",
+                "label": 33,
+                "classname": "2012 BMW M3 Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07091.jpg",
+                "label": 97,
+                "classname": "1998 Eagle Talon Hatchback"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03172.jpg",
+                "label": 81,
+                "classname": "2002 Daewoo Nubira Wagon"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04803.jpg",
+                "label": 32,
+                "classname": "2012 BMW X6 SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/08067.jpg",
+                "label": 149,
+                "classname": "2008 Lamborghini Reventon Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02266.jpg",
+                "label": 51,
+                "classname": "2012 Cadillac SRX SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02777.jpg",
+                "label": 156,
+                "classname": "2012 MINI Cooper Roadster Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03317.jpg",
+                "label": 1,
+                "classname": "2012 Acura RL Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05634.jpg",
+                "label": 26,
+                "classname": "2012 BMW 1 Series Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02070.jpg",
+                "label": 94,
+                "classname": "2007 Dodge Durango SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01675.jpg",
+                "label": 34,
+                "classname": "2010 BMW M5 Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01816.jpg",
+                "label": 77,
+                "classname": "2012 Chrysler Town and Country Minivan"
+            }
+        ],
+        "indices": [
+            15,
+            53,
+            71,
+            122,
+            151,
+            190,
+            205,
+            236,
+            268,
+            303,
+            349,
+            384,
+            416,
+            435,
+            481,
+            534,
+            570,
+            595,
+            614,
+            647,
+            681,
+            724,
+            755,
+            778,
+            830,
+            864,
+            893,
+            925,
+            968,
+            1001,
+            1040,
+            1056,
+            1106,
+            1142,
+            1184,
+            1194,
+            1224,
+            1261,
+            1313,
+            1354,
+            1374,
+            1423,
+            1439,
+            1485,
+            1522,
+            1569,
+            1585,
+            1635,
+            1672,
+            1697,
+            1727,
+            1772,
+            1807,
+            1823,
+            1862,
+            1903,
+            1933,
+            1953,
+            1988,
+            2018,
+            2079,
+            2101,
+            2152,
+            2188,
+            2220,
+            2245,
+            2270,
+            2316,
+            2337,
+            2364,
+            2423,
+            2445,
+            2485,
+            2518,
+            2544,
+            2566,
+            2603,
+            2647,
+            2674,
+            2724,
+            2738,
+            2780,
+            2798,
+            2831,
+            2877,
+            2913,
+            2969,
+            2985,
+            3013,
+            3060,
+            3082,
+            3114,
+            3157,
+            3166,
+            3201,
+            3248,
+            3290,
+            3303,
+            3350,
+            3386,
+            3401,
+            3449,
+            3481,
+            3517,
+            3539,
+            3592,
+            3629,
+            3637,
+            3687,
+            3723,
+            3745,
+            3794,
+            3824,
+            3846,
+            3870,
+            3910,
+            3953,
+            3983,
+            4005,
+            4039,
+            4055,
+            4111,
+            4124,
+            4184,
+            4201,
+            4237,
+            4281,
+            4310,
+            4328,
+            4355,
+            4412,
+            4433,
+            4481,
+            4496,
+            4523,
+            4549,
+            4571,
+            4600,
+            4641,
+            4685,
+            4718,
+            4728,
+            4757,
+            4823,
+            4856,
+            4874,
+            4914,
+            4927,
+            4963,
+            5021,
+            5032,
+            5078,
+            5107,
+            5134,
+            5157,
+            5210,
+            5221,
+            5261,
+            5293,
+            5328,
+            5368,
+            5375,
+            5418,
+            5450,
+            5495,
+            5516,
+            5554,
+            5592,
+            5612,
+            5664,
+            5675,
+            5701,
+            5735,
+            5783,
+            5817,
+            5850,
+            5885,
+            5911,
+            5940,
+            5983,
+            6007,
+            6027,
+            6074,
+            6091,
+            6139,
+            6191,
+            6199,
+            6253,
+            6290,
+            6293,
+            6339,
+            6366,
+            6382,
+            6436,
+            6459,
+            6508
+        ]
+    },
+    "val": {
+        "data": [
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02474.jpg",
+                "label": 13,
+                "classname": "2012 Audi TTS Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01716.jpg",
+                "label": 2,
+                "classname": "2012 Acura TL Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02877.jpg",
+                "label": 90,
+                "classname": "2007 Dodge Dakota Club Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06095.jpg",
+                "label": 133,
+                "classname": "2012 Hyundai Sonata Hybrid Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05062.jpg",
+                "label": 105,
+                "classname": "2012 Ford F-450 Super Duty Crew Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01314.jpg",
+                "label": 122,
+                "classname": "1993 Geo Metro Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02100.jpg",
+                "label": 88,
+                "classname": "2012 Dodge Journey SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03397.jpg",
+                "label": 95,
+                "classname": "2012 Dodge Charger Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06950.jpg",
+                "label": 166,
+                "classname": "2012 Mitsubishi Lancer Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01364.jpg",
+                "label": 57,
+                "classname": "2012 Chevrolet Traverse SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01604.jpg",
+                "label": 48,
+                "classname": "2012 Buick Verano Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00599.jpg",
+                "label": 185,
+                "classname": "2012 Toyota Sequoia SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03705.jpg",
+                "label": 134,
+                "classname": "2007 Hyundai Elantra Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00014.jpg",
+                "label": 84,
+                "classname": "1997 Dodge Caravan Minivan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00885.jpg",
+                "label": 192,
+                "classname": "2012 Volvo C30 Hatchback"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02714.jpg",
+                "label": 171,
+                "classname": "1999 Plymouth Neon Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06273.jpg",
+                "label": 72,
+                "classname": "2007 Chevrolet Malibu Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04780.jpg",
+                "label": 191,
+                "classname": "2012 Volkswagen Beetle Hatchback"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02713.jpg",
+                "label": 56,
+                "classname": "2007 Chevrolet Corvette Ron Fellows Edition Z06"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07502.jpg",
+                "label": 78,
+                "classname": "2010 Chrysler 300 SRT-8"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03734.jpg",
+                "label": 35,
+                "classname": "2010 BMW M6 Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03131.jpg",
+                "label": 119,
+                "classname": "2012 GMC Yukon Hybrid SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00760.jpg",
+                "label": 169,
+                "classname": "2012 Nissan Juke Hatchback"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00025.jpg",
+                "label": 193,
+                "classname": "1993 Volvo 240 Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07929.jpg",
+                "label": 183,
+                "classname": "2012 Suzuki SX4 Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00350.jpg",
+                "label": 85,
+                "classname": "2010 Dodge Ram Pickup 3500 Crew Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03406.jpg",
+                "label": 179,
+                "classname": "2009 Spyker C8 Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03093.jpg",
+                "label": 153,
+                "classname": "2012 Land Rover Range Rover SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06773.jpg",
+                "label": 138,
+                "classname": "2012 Hyundai Elantra Touring Hatchback"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04606.jpg",
+                "label": 65,
+                "classname": "2010 Chevrolet Cobalt SS"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01669.jpg",
+                "label": 132,
+                "classname": "2012 Hyundai Veracruz SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05289.jpg",
+                "label": 103,
+                "classname": "2012 Ferrari 458 Italia Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03620.jpg",
+                "label": 37,
+                "classname": "2012 BMW Z4 Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05765.jpg",
+                "label": 96,
+                "classname": "2009 Dodge Charger SRT-8"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03714.jpg",
+                "label": 104,
+                "classname": "2012 Fisker Karma Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07309.jpg",
+                "label": 141,
+                "classname": "2011 Infiniti QX56 SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06991.jpg",
+                "label": 12,
+                "classname": "2012 Audi A5 Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00931.jpg",
+                "label": 190,
+                "classname": "1991 Volkswagen Golf Hatchback"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05444.jpg",
+                "label": 118,
+                "classname": "2012 GMC Savana Van"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02456.jpg",
+                "label": 24,
+                "classname": "2012 Audi TT RS Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06342.jpg",
+                "label": 176,
+                "classname": "2012 Rolls-Royce Phantom Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04811.jpg",
+                "label": 172,
+                "classname": "2012 Porsche Panamera Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00055.jpg",
+                "label": 41,
+                "classname": "2012 Bentley Continental GT Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/08065.jpg",
+                "label": 147,
+                "classname": "2012 Jeep Grand Cherokee SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03909.jpg",
+                "label": 14,
+                "classname": "2012 Audi R8 Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00365.jpg",
+                "label": 52,
+                "classname": "2007 Cadillac Escalade EXT Crew Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02493.jpg",
+                "label": 43,
+                "classname": "2007 Bentley Continental Flying Spur Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04414.jpg",
+                "label": 64,
+                "classname": "2012 Chevrolet Avalanche Crew Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05989.jpg",
+                "label": 89,
+                "classname": "2010 Dodge Dakota Crew Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01999.jpg",
+                "label": 123,
+                "classname": "2010 HUMMER H3T Crew Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06036.jpg",
+                "label": 113,
+                "classname": "2007 Ford F-150 Regular Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00805.jpg",
+                "label": 189,
+                "classname": "2012 Volkswagen Golf Hatchback"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05513.jpg",
+                "label": 100,
+                "classname": "2012 Ferrari FF Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02621.jpg",
+                "label": 186,
+                "classname": "2012 Toyota Camry Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03379.jpg",
+                "label": 7,
+                "classname": "2012 Aston Martin V8 Vantage Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02887.jpg",
+                "label": 16,
+                "classname": "1994 Audi 100 Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04100.jpg",
+                "label": 110,
+                "classname": "2011 Ford Ranger SuperCab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01266.jpg",
+                "label": 121,
+                "classname": "2012 GMC Canyon Extended Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07450.jpg",
+                "label": 4,
+                "classname": "2012 Acura TSX Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02367.jpg",
+                "label": 28,
+                "classname": "2012 BMW 3 Series Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06497.jpg",
+                "label": 125,
+                "classname": "2012 Honda Odyssey Minivan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07244.jpg",
+                "label": 93,
+                "classname": "2012 Dodge Durango SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05127.jpg",
+                "label": 187,
+                "classname": "2012 Toyota Corolla Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01358.jpg",
+                "label": 58,
+                "classname": "2012 Chevrolet Camaro Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00826.jpg",
+                "label": 109,
+                "classname": "2012 Ford Edge SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06222.jpg",
+                "label": 42,
+                "classname": "2007 Bentley Continental GT Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01591.jpg",
+                "label": 17,
+                "classname": "1994 Audi 100 Wagon"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02721.jpg",
+                "label": 115,
+                "classname": "2012 Ford E-Series Wagon Van"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02072.jpg",
+                "label": 144,
+                "classname": "2012 Jeep Patriot SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03025.jpg",
+                "label": 19,
+                "classname": "2011 Audi S6 Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03067.jpg",
+                "label": 164,
+                "classname": "2012 Mercedes-Benz S-Class Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06562.jpg",
+                "label": 137,
+                "classname": "2012 Hyundai Sonata Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05789.jpg",
+                "label": 174,
+                "classname": "2012 Rolls-Royce Phantom Drophead Coupe Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03524.jpg",
+                "label": 111,
+                "classname": "2006 Ford GT Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00647.jpg",
+                "label": 50,
+                "classname": "2012 Cadillac CTS-V Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06278.jpg",
+                "label": 36,
+                "classname": "2012 BMW X3 SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05334.jpg",
+                "label": 70,
+                "classname": "2007 Chevrolet Express Van"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01062.jpg",
+                "label": 60,
+                "classname": "2007 Chevrolet Impala Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07904.jpg",
+                "label": 73,
+                "classname": "2012 Chevrolet Silverado 1500 Extended Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06543.jpg",
+                "label": 161,
+                "classname": "2012 Mercedes-Benz C-Class Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04964.jpg",
+                "label": 130,
+                "classname": "2012 Hyundai Santa Fe SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04062.jpg",
+                "label": 87,
+                "classname": "2009 Dodge Sprinter Cargo Van"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03348.jpg",
+                "label": 120,
+                "classname": "2012 GMC Acadia SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03663.jpg",
+                "label": 136,
+                "classname": "2012 Hyundai Genesis Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06353.jpg",
+                "label": 82,
+                "classname": "2012 Dodge Caliber Wagon"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07771.jpg",
+                "label": 146,
+                "classname": "2012 Jeep Liberty SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07747.jpg",
+                "label": 160,
+                "classname": "1993 Mercedes-Benz 300-Class Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05229.jpg",
+                "label": 108,
+                "classname": "2009 Ford Expedition EL SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05445.jpg",
+                "label": 27,
+                "classname": "2012 BMW 1 Series Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06021.jpg",
+                "label": 143,
+                "classname": "2012 Jaguar XK XKR"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05296.jpg",
+                "label": 135,
+                "classname": "2012 Hyundai Accent Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00817.jpg",
+                "label": 142,
+                "classname": "2008 Isuzu Ascender SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07333.jpg",
+                "label": 170,
+                "classname": "1998 Nissan 240SX Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02293.jpg",
+                "label": 177,
+                "classname": "2012 Scion xD Hatchback"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02695.jpg",
+                "label": 55,
+                "classname": "2012 Chevrolet Corvette ZR1"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04746.jpg",
+                "label": 39,
+                "classname": "2009 Bentley Arnage Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01071.jpg",
+                "label": 59,
+                "classname": "2010 Chevrolet HHR SS"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03809.jpg",
+                "label": 154,
+                "classname": "2012 Land Rover LR2 SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04932.jpg",
+                "label": 139,
+                "classname": "2012 Hyundai Azera Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01906.jpg",
+                "label": 75,
+                "classname": "2009 Chrysler Aspen SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01770.jpg",
+                "label": 46,
+                "classname": "2012 Buick Regal GS"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06919.jpg",
+                "label": 29,
+                "classname": "2012 BMW 3 Series Wagon"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07629.jpg",
+                "label": 148,
+                "classname": "2012 Jeep Compass SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04859.jpg",
+                "label": 173,
+                "classname": "2012 Ram C/V Cargo Van Minivan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02208.jpg",
+                "label": 178,
+                "classname": "2009 Spyker C8 Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00632.jpg",
+                "label": 23,
+                "classname": "2007 Audi S4 Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05260.jpg",
+                "label": 175,
+                "classname": "2012 Rolls-Royce Ghost Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01832.jpg",
+                "label": 0,
+                "classname": "2000 AM General Hummer SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05655.jpg",
+                "label": 107,
+                "classname": "2007 Ford Freestar Minivan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03506.jpg",
+                "label": 40,
+                "classname": "2011 Bentley Mulsanne Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06011.jpg",
+                "label": 18,
+                "classname": "2011 Audi TT Hatchback"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03213.jpg",
+                "label": 162,
+                "classname": "2009 Mercedes-Benz SL-Class Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04566.jpg",
+                "label": 53,
+                "classname": "2012 Chevrolet Silverado 1500 Hybrid Crew Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06124.jpg",
+                "label": 49,
+                "classname": "2012 Buick Enclave SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05317.jpg",
+                "label": 67,
+                "classname": "2009 Chevrolet TrailBlazer SS"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06578.jpg",
+                "label": 124,
+                "classname": "2009 HUMMER H2 SUT Crew Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07024.jpg",
+                "label": 159,
+                "classname": "2012 McLaren MP4-12C Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02281.jpg",
+                "label": 92,
+                "classname": "2011 Dodge Challenger SRT8"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03487.jpg",
+                "label": 182,
+                "classname": "2012 Suzuki SX4 Hatchback"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01228.jpg",
+                "label": 44,
+                "classname": "2009 Bugatti Veyron 16.4 Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01435.jpg",
+                "label": 188,
+                "classname": "2012 Toyota 4Runner SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02245.jpg",
+                "label": 47,
+                "classname": "2007 Buick Rainier SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02533.jpg",
+                "label": 76,
+                "classname": "2010 Chrysler Sebring Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03670.jpg",
+                "label": 5,
+                "classname": "2001 Acura Integra Type R"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03791.jpg",
+                "label": 15,
+                "classname": "1994 Audi V8 Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/08014.jpg",
+                "label": 11,
+                "classname": "2008 Audi RS 4 Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03407.jpg",
+                "label": 127,
+                "classname": "2012 Honda Accord Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00934.jpg",
+                "label": 22,
+                "classname": "2012 Audi S4 Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00206.jpg",
+                "label": 10,
+                "classname": "2012 Aston Martin Virage Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01190.jpg",
+                "label": 62,
+                "classname": "2012 Chevrolet Sonic Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06880.jpg",
+                "label": 71,
+                "classname": "2007 Chevrolet Monte Carlo Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07683.jpg",
+                "label": 194,
+                "classname": "2007 Volvo XC90 SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04236.jpg",
+                "label": 106,
+                "classname": "2007 Ford Mustang Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04552.jpg",
+                "label": 9,
+                "classname": "2012 Aston Martin Virage Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07895.jpg",
+                "label": 195,
+                "classname": "2012 smart fortwo Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06126.jpg",
+                "label": 98,
+                "classname": "2012 FIAT 500 Abarth"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06699.jpg",
+                "label": 140,
+                "classname": "2012 Infiniti G Coupe IPL"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00232.jpg",
+                "label": 83,
+                "classname": "2007 Dodge Caliber Wagon"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02511.jpg",
+                "label": 131,
+                "classname": "2012 Hyundai Tucson SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00320.jpg",
+                "label": 6,
+                "classname": "2012 Acura ZDX Hatchback"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00399.jpg",
+                "label": 25,
+                "classname": "2012 BMW ActiveHybrid 5 Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02057.jpg",
+                "label": 101,
+                "classname": "2012 Ferrari California Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05504.jpg",
+                "label": 167,
+                "classname": "2012 Nissan Leaf Hatchback"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02613.jpg",
+                "label": 152,
+                "classname": "2001 Lamborghini Diablo Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01202.jpg",
+                "label": 20,
+                "classname": "2012 Audi S5 Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02717.jpg",
+                "label": 30,
+                "classname": "2007 BMW 6 Series Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07654.jpg",
+                "label": 102,
+                "classname": "2012 Ferrari 458 Italia Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05447.jpg",
+                "label": 68,
+                "classname": "2012 Chevrolet Silverado 2500HD Regular Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04979.jpg",
+                "label": 54,
+                "classname": "2012 Chevrolet Corvette Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02970.jpg",
+                "label": 45,
+                "classname": "2009 Bugatti Veyron 16.4 Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05327.jpg",
+                "label": 184,
+                "classname": "2012 Tesla Model S Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06986.jpg",
+                "label": 99,
+                "classname": "2012 FIAT 500 Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00735.jpg",
+                "label": 129,
+                "classname": "2012 Hyundai Veloster Hatchback"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01417.jpg",
+                "label": 155,
+                "classname": "2011 Lincoln Town Car Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04406.jpg",
+                "label": 150,
+                "classname": "2012 Lamborghini Aventador Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01977.jpg",
+                "label": 86,
+                "classname": "2009 Dodge Ram Pickup 3500 Quad Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04730.jpg",
+                "label": 168,
+                "classname": "2012 Nissan NV Passenger Van"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06932.jpg",
+                "label": 126,
+                "classname": "2007 Honda Odyssey Minivan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07135.jpg",
+                "label": 157,
+                "classname": "2012 Maybach Landaulet Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05984.jpg",
+                "label": 74,
+                "classname": "2012 Chevrolet Silverado 1500 Regular Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07403.jpg",
+                "label": 181,
+                "classname": "2012 Suzuki Kizashi Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04051.jpg",
+                "label": 61,
+                "classname": "2012 Chevrolet Tahoe Hybrid SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05677.jpg",
+                "label": 165,
+                "classname": "2012 Mercedes-Benz Sprinter Van"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03148.jpg",
+                "label": 180,
+                "classname": "2007 Suzuki Aerio Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07115.jpg",
+                "label": 21,
+                "classname": "2012 Audi S5 Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03454.jpg",
+                "label": 8,
+                "classname": "2012 Aston Martin V8 Vantage Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01731.jpg",
+                "label": 66,
+                "classname": "2010 Chevrolet Malibu Hybrid Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02628.jpg",
+                "label": 112,
+                "classname": "2012 Ford F-150 Regular Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03229.jpg",
+                "label": 116,
+                "classname": "2012 Ford Fiesta Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02707.jpg",
+                "label": 114,
+                "classname": "2007 Ford Focus Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05346.jpg",
+                "label": 38,
+                "classname": "2012 Bentley Continental Supersports Conv. Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05810.jpg",
+                "label": 69,
+                "classname": "2007 Chevrolet Silverado 1500 Classic Extended Cab"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03534.jpg",
+                "label": 31,
+                "classname": "2007 BMW X5 SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07667.jpg",
+                "label": 145,
+                "classname": "2012 Jeep Wrangler SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05324.jpg",
+                "label": 3,
+                "classname": "2008 Acura TL Type-S"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00948.jpg",
+                "label": 79,
+                "classname": "2008 Chrysler Crossfire Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04765.jpg",
+                "label": 151,
+                "classname": "2012 Lamborghini Gallardo LP 570-4 Superleggera"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02653.jpg",
+                "label": 163,
+                "classname": "2012 Mercedes-Benz E-Class Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07498.jpg",
+                "label": 63,
+                "classname": "2007 Chevrolet Express Cargo Van"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01697.jpg",
+                "label": 117,
+                "classname": "2012 GMC Terrain SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07573.jpg",
+                "label": 91,
+                "classname": "2008 Dodge Magnum Wagon"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07230.jpg",
+                "label": 128,
+                "classname": "2012 Honda Accord Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07429.jpg",
+                "label": 80,
+                "classname": "2008 Chrysler PT Cruiser Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04254.jpg",
+                "label": 158,
+                "classname": "2011 Mazda Tribute SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07187.jpg",
+                "label": 33,
+                "classname": "2012 BMW M3 Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07482.jpg",
+                "label": 97,
+                "classname": "1998 Eagle Talon Hatchback"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/00574.jpg",
+                "label": 81,
+                "classname": "2002 Daewoo Nubira Wagon"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/02999.jpg",
+                "label": 32,
+                "classname": "2012 BMW X6 SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04159.jpg",
+                "label": 149,
+                "classname": "2008 Lamborghini Reventon Coupe"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05881.jpg",
+                "label": 51,
+                "classname": "2012 Cadillac SRX SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/01633.jpg",
+                "label": 156,
+                "classname": "2012 MINI Cooper Roadster Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/04244.jpg",
+                "label": 1,
+                "classname": "2012 Acura RL Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/03990.jpg",
+                "label": 26,
+                "classname": "2012 BMW 1 Series Convertible"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/06750.jpg",
+                "label": 94,
+                "classname": "2007 Dodge Durango SUV"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/05087.jpg",
+                "label": 34,
+                "classname": "2010 BMW M5 Sedan"
+            },
+            {
+                "impath": "data/CoOp/stanford_cars/cars_train/07104.jpg",
+                "label": 77,
+                "classname": "2012 Chrysler Town and Country Minivan"
+            }
+        ],
+        "indices": [
+            2,
+            14,
+            22,
+            31,
+            40,
+            46,
+            56,
+            62,
+            71,
+            82,
+            92,
+            101,
+            103,
+            114,
+            122,
+            127,
+            142,
+            147,
+            158,
+            162,
+            174,
+            187,
+            196,
+            204,
+            213,
+            218,
+            224,
+            236,
+            244,
+            251,
+            263,
+            268,
+            282,
+            290,
+            295,
+            305,
+            308,
+            319,
+            327,
+            344,
+            355,
+            363,
+            369,
+            379,
+            381,
+            391,
+            399,
+            409,
+            424,
+            429,
+            435,
+            442,
+            456,
+            460,
+            476,
+            477,
+            489,
+            498,
+            502,
+            510,
+            525,
+            532,
+            538,
+            548,
+            559,
+            565,
+            578,
+            586,
+            589,
+            598,
+            607,
+            620,
+            627,
+            635,
+            644,
+            654,
+            655,
+            665,
+            675,
+            687,
+            695,
+            698,
+            713,
+            716,
+            728,
+            733,
+            742,
+            752,
+            764,
+            774,
+            778,
+            785,
+            797,
+            798,
+            808,
+            815,
+            828,
+            834,
+            840,
+            855,
+            856,
+            870,
+            878,
+            881,
+            896,
+            900,
+            912,
+            918,
+            928,
+            933,
+            941,
+            953,
+            954,
+            962,
+            975,
+            986,
+            994,
+            1000,
+            1011,
+            1016,
+            1026,
+            1033,
+            1038,
+            1048,
+            1058,
+            1067,
+            1074,
+            1079,
+            1091,
+            1094,
+            1104,
+            1113,
+            1124,
+            1131,
+            1139,
+            1148,
+            1156,
+            1162,
+            1166,
+            1175,
+            1185,
+            1191,
+            1202,
+            1210,
+            1219,
+            1224,
+            1235,
+            1239,
+            1247,
+            1263,
+            1265,
+            1278,
+            1284,
+            1288,
+            1297,
+            1306,
+            1320,
+            1322,
+            1329,
+            1337,
+            1351,
+            1358,
+            1363,
+            1372,
+            1382,
+            1388,
+            1400,
+            1404,
+            1414,
+            1424,
+            1429,
+            1440,
+            1451,
+            1458,
+            1467,
+            1474,
+            1480,
+            1492,
+            1497,
+            1500,
+            1512,
+            1518,
+            1532,
+            1536,
+            1548,
+            1554,
+            1564,
+            1573,
+            1579,
+            1582,
+            1591,
+            1601,
+            1603,
+            1617,
+            1624,
+            1631
+        ]
+    }
+}

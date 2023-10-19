@@ -1,0 +1,2414 @@
+{
+    "train": {
+        "data": [
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/Faces/image_0016.jpg",
+                "label": 0,
+                "classname": "face"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/Faces/image_0095.jpg",
+                "label": 0,
+                "classname": "face"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/Leopards/image_0030.jpg",
+                "label": 1,
+                "classname": "leopard"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/Leopards/image_0131.jpg",
+                "label": 1,
+                "classname": "leopard"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/Motorbikes/image_0164.jpg",
+                "label": 2,
+                "classname": "motorbike"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/Motorbikes/image_0333.jpg",
+                "label": 2,
+                "classname": "motorbike"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/accordion/image_0036.jpg",
+                "label": 3,
+                "classname": "accordion"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/accordion/image_0005.jpg",
+                "label": 3,
+                "classname": "accordion"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/airplanes/image_0503.jpg",
+                "label": 4,
+                "classname": "airplane"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/airplanes/image_0283.jpg",
+                "label": 4,
+                "classname": "airplane"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/anchor/image_0028.jpg",
+                "label": 5,
+                "classname": "anchor"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/anchor/image_0005.jpg",
+                "label": 5,
+                "classname": "anchor"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/ant/image_0025.jpg",
+                "label": 6,
+                "classname": "ant"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/ant/image_0026.jpg",
+                "label": 6,
+                "classname": "ant"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/barrel/image_0024.jpg",
+                "label": 7,
+                "classname": "barrel"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/barrel/image_0012.jpg",
+                "label": 7,
+                "classname": "barrel"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/bass/image_0042.jpg",
+                "label": 8,
+                "classname": "bass"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/bass/image_0038.jpg",
+                "label": 8,
+                "classname": "bass"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/beaver/image_0016.jpg",
+                "label": 9,
+                "classname": "beaver"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/beaver/image_0020.jpg",
+                "label": 9,
+                "classname": "beaver"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/binocular/image_0023.jpg",
+                "label": 10,
+                "classname": "binocular"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/binocular/image_0009.jpg",
+                "label": 10,
+                "classname": "binocular"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/bonsai/image_0009.jpg",
+                "label": 11,
+                "classname": "bonsai"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/bonsai/image_0099.jpg",
+                "label": 11,
+                "classname": "bonsai"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/brain/image_0010.jpg",
+                "label": 12,
+                "classname": "brain"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/brain/image_0045.jpg",
+                "label": 12,
+                "classname": "brain"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/brontosaurus/image_0022.jpg",
+                "label": 13,
+                "classname": "brontosaurus"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/brontosaurus/image_0009.jpg",
+                "label": 13,
+                "classname": "brontosaurus"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/buddha/image_0058.jpg",
+                "label": 14,
+                "classname": "buddha"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/buddha/image_0024.jpg",
+                "label": 14,
+                "classname": "buddha"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/butterfly/image_0074.jpg",
+                "label": 15,
+                "classname": "butterfly"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/butterfly/image_0062.jpg",
+                "label": 15,
+                "classname": "butterfly"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/camera/image_0024.jpg",
+                "label": 16,
+                "classname": "camera"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/camera/image_0022.jpg",
+                "label": 16,
+                "classname": "camera"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/cannon/image_0019.jpg",
+                "label": 17,
+                "classname": "cannon"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/cannon/image_0042.jpg",
+                "label": 17,
+                "classname": "cannon"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/car_side/image_0116.jpg",
+                "label": 18,
+                "classname": "car_side"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/car_side/image_0100.jpg",
+                "label": 18,
+                "classname": "car_side"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/ceiling_fan/image_0028.jpg",
+                "label": 19,
+                "classname": "ceiling_fan"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/ceiling_fan/image_0025.jpg",
+                "label": 19,
+                "classname": "ceiling_fan"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/cellphone/image_0026.jpg",
+                "label": 20,
+                "classname": "cellphone"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/cellphone/image_0051.jpg",
+                "label": 20,
+                "classname": "cellphone"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/chair/image_0026.jpg",
+                "label": 21,
+                "classname": "chair"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/chair/image_0059.jpg",
+                "label": 21,
+                "classname": "chair"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/chandelier/image_0025.jpg",
+                "label": 22,
+                "classname": "chandelier"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/chandelier/image_0099.jpg",
+                "label": 22,
+                "classname": "chandelier"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/cougar_body/image_0018.jpg",
+                "label": 23,
+                "classname": "cougar_body"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/cougar_body/image_0029.jpg",
+                "label": 23,
+                "classname": "cougar_body"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/cougar_face/image_0033.jpg",
+                "label": 24,
+                "classname": "cougar_face"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/cougar_face/image_0054.jpg",
+                "label": 24,
+                "classname": "cougar_face"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/crab/image_0014.jpg",
+                "label": 25,
+                "classname": "crab"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/crab/image_0045.jpg",
+                "label": 25,
+                "classname": "crab"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/crayfish/image_0051.jpg",
+                "label": 26,
+                "classname": "crayfish"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/crayfish/image_0035.jpg",
+                "label": 26,
+                "classname": "crayfish"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/crocodile/image_0025.jpg",
+                "label": 27,
+                "classname": "crocodile"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/crocodile/image_0043.jpg",
+                "label": 27,
+                "classname": "crocodile"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/crocodile_head/image_0048.jpg",
+                "label": 28,
+                "classname": "crocodile_head"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/crocodile_head/image_0024.jpg",
+                "label": 28,
+                "classname": "crocodile_head"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/cup/image_0035.jpg",
+                "label": 29,
+                "classname": "cup"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/cup/image_0022.jpg",
+                "label": 29,
+                "classname": "cup"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/dalmatian/image_0039.jpg",
+                "label": 30,
+                "classname": "dalmatian"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/dalmatian/image_0016.jpg",
+                "label": 30,
+                "classname": "dalmatian"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/dollar_bill/image_0010.jpg",
+                "label": 31,
+                "classname": "dollar_bill"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/dollar_bill/image_0046.jpg",
+                "label": 31,
+                "classname": "dollar_bill"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/dolphin/image_0015.jpg",
+                "label": 32,
+                "classname": "dolphin"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/dolphin/image_0038.jpg",
+                "label": 32,
+                "classname": "dolphin"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/dragonfly/image_0031.jpg",
+                "label": 33,
+                "classname": "dragonfly"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/dragonfly/image_0004.jpg",
+                "label": 33,
+                "classname": "dragonfly"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/electric_guitar/image_0021.jpg",
+                "label": 34,
+                "classname": "electric_guitar"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/electric_guitar/image_0055.jpg",
+                "label": 34,
+                "classname": "electric_guitar"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/elephant/image_0030.jpg",
+                "label": 35,
+                "classname": "elephant"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/elephant/image_0063.jpg",
+                "label": 35,
+                "classname": "elephant"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/emu/image_0001.jpg",
+                "label": 36,
+                "classname": "emu"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/emu/image_0033.jpg",
+                "label": 36,
+                "classname": "emu"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/euphonium/image_0038.jpg",
+                "label": 37,
+                "classname": "euphonium"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/euphonium/image_0054.jpg",
+                "label": 37,
+                "classname": "euphonium"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/ewer/image_0070.jpg",
+                "label": 38,
+                "classname": "ewer"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/ewer/image_0038.jpg",
+                "label": 38,
+                "classname": "ewer"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/ferry/image_0020.jpg",
+                "label": 39,
+                "classname": "ferry"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/ferry/image_0044.jpg",
+                "label": 39,
+                "classname": "ferry"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/flamingo/image_0025.jpg",
+                "label": 40,
+                "classname": "flamingo"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/flamingo/image_0036.jpg",
+                "label": 40,
+                "classname": "flamingo"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/flamingo_head/image_0022.jpg",
+                "label": 41,
+                "classname": "flamingo_head"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/flamingo_head/image_0029.jpg",
+                "label": 41,
+                "classname": "flamingo_head"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/garfield/image_0004.jpg",
+                "label": 42,
+                "classname": "garfield"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/garfield/image_0023.jpg",
+                "label": 42,
+                "classname": "garfield"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/gerenuk/image_0014.jpg",
+                "label": 43,
+                "classname": "gerenuk"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/gerenuk/image_0023.jpg",
+                "label": 43,
+                "classname": "gerenuk"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/gramophone/image_0008.jpg",
+                "label": 44,
+                "classname": "gramophone"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/gramophone/image_0037.jpg",
+                "label": 44,
+                "classname": "gramophone"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/grand_piano/image_0005.jpg",
+                "label": 45,
+                "classname": "grand_piano"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/grand_piano/image_0090.jpg",
+                "label": 45,
+                "classname": "grand_piano"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/hawksbill/image_0078.jpg",
+                "label": 46,
+                "classname": "hawksbill"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/hawksbill/image_0095.jpg",
+                "label": 46,
+                "classname": "hawksbill"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/headphone/image_0023.jpg",
+                "label": 47,
+                "classname": "headphone"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/headphone/image_0024.jpg",
+                "label": 47,
+                "classname": "headphone"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/hedgehog/image_0052.jpg",
+                "label": 48,
+                "classname": "hedgehog"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/hedgehog/image_0041.jpg",
+                "label": 48,
+                "classname": "hedgehog"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/helicopter/image_0064.jpg",
+                "label": 49,
+                "classname": "helicopter"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/helicopter/image_0046.jpg",
+                "label": 49,
+                "classname": "helicopter"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/ibis/image_0061.jpg",
+                "label": 50,
+                "classname": "ibis"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/ibis/image_0039.jpg",
+                "label": 50,
+                "classname": "ibis"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/inline_skate/image_0003.jpg",
+                "label": 51,
+                "classname": "inline_skate"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/inline_skate/image_0005.jpg",
+                "label": 51,
+                "classname": "inline_skate"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/joshua_tree/image_0003.jpg",
+                "label": 52,
+                "classname": "joshua_tree"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/joshua_tree/image_0011.jpg",
+                "label": 52,
+                "classname": "joshua_tree"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/kangaroo/image_0039.jpg",
+                "label": 53,
+                "classname": "kangaroo"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/kangaroo/image_0047.jpg",
+                "label": 53,
+                "classname": "kangaroo"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/ketch/image_0100.jpg",
+                "label": 54,
+                "classname": "ketch"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/ketch/image_0077.jpg",
+                "label": 54,
+                "classname": "ketch"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/lamp/image_0037.jpg",
+                "label": 55,
+                "classname": "lamp"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/lamp/image_0010.jpg",
+                "label": 55,
+                "classname": "lamp"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/laptop/image_0066.jpg",
+                "label": 56,
+                "classname": "laptop"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/laptop/image_0050.jpg",
+                "label": 56,
+                "classname": "laptop"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/llama/image_0066.jpg",
+                "label": 57,
+                "classname": "llama"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/llama/image_0019.jpg",
+                "label": 57,
+                "classname": "llama"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/lobster/image_0032.jpg",
+                "label": 58,
+                "classname": "lobster"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/lobster/image_0033.jpg",
+                "label": 58,
+                "classname": "lobster"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/lotus/image_0001.jpg",
+                "label": 59,
+                "classname": "lotus"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/lotus/image_0040.jpg",
+                "label": 59,
+                "classname": "lotus"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/mandolin/image_0014.jpg",
+                "label": 60,
+                "classname": "mandolin"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/mandolin/image_0009.jpg",
+                "label": 60,
+                "classname": "mandolin"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/mayfly/image_0020.jpg",
+                "label": 61,
+                "classname": "mayfly"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/mayfly/image_0028.jpg",
+                "label": 61,
+                "classname": "mayfly"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/menorah/image_0036.jpg",
+                "label": 62,
+                "classname": "menorah"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/menorah/image_0078.jpg",
+                "label": 62,
+                "classname": "menorah"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/metronome/image_0015.jpg",
+                "label": 63,
+                "classname": "metronome"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/metronome/image_0018.jpg",
+                "label": 63,
+                "classname": "metronome"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/minaret/image_0052.jpg",
+                "label": 64,
+                "classname": "minaret"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/minaret/image_0005.jpg",
+                "label": 64,
+                "classname": "minaret"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/nautilus/image_0012.jpg",
+                "label": 65,
+                "classname": "nautilus"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/nautilus/image_0055.jpg",
+                "label": 65,
+                "classname": "nautilus"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/octopus/image_0014.jpg",
+                "label": 66,
+                "classname": "octopus"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/octopus/image_0004.jpg",
+                "label": 66,
+                "classname": "octopus"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/okapi/image_0018.jpg",
+                "label": 67,
+                "classname": "okapi"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/okapi/image_0008.jpg",
+                "label": 67,
+                "classname": "okapi"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/pagoda/image_0019.jpg",
+                "label": 68,
+                "classname": "pagoda"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/pagoda/image_0010.jpg",
+                "label": 68,
+                "classname": "pagoda"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/panda/image_0036.jpg",
+                "label": 69,
+                "classname": "panda"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/panda/image_0023.jpg",
+                "label": 69,
+                "classname": "panda"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/pigeon/image_0015.jpg",
+                "label": 70,
+                "classname": "pigeon"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/pigeon/image_0026.jpg",
+                "label": 70,
+                "classname": "pigeon"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/pizza/image_0017.jpg",
+                "label": 71,
+                "classname": "pizza"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/pizza/image_0029.jpg",
+                "label": 71,
+                "classname": "pizza"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/platypus/image_0023.jpg",
+                "label": 72,
+                "classname": "platypus"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/platypus/image_0009.jpg",
+                "label": 72,
+                "classname": "platypus"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/pyramid/image_0035.jpg",
+                "label": 73,
+                "classname": "pyramid"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/pyramid/image_0049.jpg",
+                "label": 73,
+                "classname": "pyramid"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/revolver/image_0024.jpg",
+                "label": 74,
+                "classname": "revolver"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/revolver/image_0051.jpg",
+                "label": 74,
+                "classname": "revolver"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/rhino/image_0001.jpg",
+                "label": 75,
+                "classname": "rhino"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/rhino/image_0015.jpg",
+                "label": 75,
+                "classname": "rhino"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/rooster/image_0036.jpg",
+                "label": 76,
+                "classname": "rooster"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/rooster/image_0035.jpg",
+                "label": 76,
+                "classname": "rooster"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/saxophone/image_0007.jpg",
+                "label": 77,
+                "classname": "saxophone"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/saxophone/image_0014.jpg",
+                "label": 77,
+                "classname": "saxophone"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/schooner/image_0020.jpg",
+                "label": 78,
+                "classname": "schooner"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/schooner/image_0036.jpg",
+                "label": 78,
+                "classname": "schooner"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/scissors/image_0002.jpg",
+                "label": 79,
+                "classname": "scissors"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/scissors/image_0023.jpg",
+                "label": 79,
+                "classname": "scissors"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/scorpion/image_0080.jpg",
+                "label": 80,
+                "classname": "scorpion"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/scorpion/image_0050.jpg",
+                "label": 80,
+                "classname": "scorpion"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/sea_horse/image_0042.jpg",
+                "label": 81,
+                "classname": "sea_horse"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/sea_horse/image_0006.jpg",
+                "label": 81,
+                "classname": "sea_horse"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/snoopy/image_0002.jpg",
+                "label": 82,
+                "classname": "snoopy"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/snoopy/image_0011.jpg",
+                "label": 82,
+                "classname": "snoopy"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/soccer_ball/image_0045.jpg",
+                "label": 83,
+                "classname": "soccer_ball"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/soccer_ball/image_0058.jpg",
+                "label": 83,
+                "classname": "soccer_ball"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/stapler/image_0026.jpg",
+                "label": 84,
+                "classname": "stapler"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/stapler/image_0015.jpg",
+                "label": 84,
+                "classname": "stapler"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/starfish/image_0083.jpg",
+                "label": 85,
+                "classname": "starfish"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/starfish/image_0071.jpg",
+                "label": 85,
+                "classname": "starfish"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/stegosaurus/image_0058.jpg",
+                "label": 86,
+                "classname": "stegosaurus"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/stegosaurus/image_0009.jpg",
+                "label": 86,
+                "classname": "stegosaurus"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/stop_sign/image_0007.jpg",
+                "label": 87,
+                "classname": "stop_sign"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/stop_sign/image_0059.jpg",
+                "label": 87,
+                "classname": "stop_sign"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/strawberry/image_0029.jpg",
+                "label": 88,
+                "classname": "strawberry"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/strawberry/image_0034.jpg",
+                "label": 88,
+                "classname": "strawberry"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/sunflower/image_0048.jpg",
+                "label": 89,
+                "classname": "sunflower"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/sunflower/image_0041.jpg",
+                "label": 89,
+                "classname": "sunflower"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/tick/image_0036.jpg",
+                "label": 90,
+                "classname": "tick"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/tick/image_0026.jpg",
+                "label": 90,
+                "classname": "tick"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/trilobite/image_0080.jpg",
+                "label": 91,
+                "classname": "trilobite"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/trilobite/image_0058.jpg",
+                "label": 91,
+                "classname": "trilobite"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/umbrella/image_0040.jpg",
+                "label": 92,
+                "classname": "umbrella"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/umbrella/image_0029.jpg",
+                "label": 92,
+                "classname": "umbrella"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/watch/image_0182.jpg",
+                "label": 93,
+                "classname": "watch"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/watch/image_0010.jpg",
+                "label": 93,
+                "classname": "watch"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/water_lilly/image_0013.jpg",
+                "label": 94,
+                "classname": "water_lilly"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/water_lilly/image_0011.jpg",
+                "label": 94,
+                "classname": "water_lilly"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/wheelchair/image_0046.jpg",
+                "label": 95,
+                "classname": "wheelchair"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/wheelchair/image_0044.jpg",
+                "label": 95,
+                "classname": "wheelchair"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/wild_cat/image_0022.jpg",
+                "label": 96,
+                "classname": "wild_cat"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/wild_cat/image_0025.jpg",
+                "label": 96,
+                "classname": "wild_cat"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/windsor_chair/image_0040.jpg",
+                "label": 97,
+                "classname": "windsor_chair"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/windsor_chair/image_0008.jpg",
+                "label": 97,
+                "classname": "windsor_chair"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/wrench/image_0021.jpg",
+                "label": 98,
+                "classname": "wrench"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/wrench/image_0015.jpg",
+                "label": 98,
+                "classname": "wrench"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/yin_yang/image_0055.jpg",
+                "label": 99,
+                "classname": "yin_yang"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/yin_yang/image_0027.jpg",
+                "label": 99,
+                "classname": "yin_yang"
+            }
+        ],
+        "indices": [
+            159,
+            65,
+            312,
+            263,
+            671,
+            696,
+            737,
+            733,
+            759,
+            983,
+            1152,
+            1146,
+            1171,
+            1169,
+            1198,
+            1202,
+            1218,
+            1223,
+            1255,
+            1241,
+            1268,
+            1261,
+            1304,
+            1329,
+            1358,
+            1352,
+            1402,
+            1395,
+            1416,
+            1420,
+            1493,
+            1482,
+            1504,
+            1500,
+            1525,
+            1531,
+            1596,
+            1560,
+            1614,
+            1618,
+            1643,
+            1639,
+            1680,
+            1691,
+            1737,
+            1734,
+            1754,
+            1753,
+            1784,
+            1796,
+            1825,
+            1807,
+            1865,
+            1868,
+            1882,
+            1881,
+            1910,
+            1904,
+            1938,
+            1937,
+            1956,
+            1977,
+            1992,
+            1999,
+            2038,
+            2035,
+            2078,
+            2068,
+            2093,
+            2112,
+            2150,
+            2131,
+            2153,
+            2160,
+            2179,
+            2200,
+            2235,
+            2211,
+            2278,
+            2275,
+            2310,
+            2286,
+            2334,
+            2321,
+            2347,
+            2348,
+            2362,
+            2366,
+            2390,
+            2387,
+            2434,
+            2424,
+            2485,
+            2468,
+            2516,
+            2505,
+            2541,
+            2546,
+            2573,
+            2568,
+            2596,
+            2621,
+            2636,
+            2637,
+            2671,
+            2673,
+            2691,
+            2703,
+            2742,
+            2769,
+            2799,
+            2784,
+            2831,
+            2832,
+            2871,
+            2863,
+            2893,
+            2895,
+            2930,
+            2941,
+            2949,
+            2945,
+            2968,
+            2983,
+            3011,
+            2988,
+            3037,
+            3041,
+            3068,
+            3062,
+            3098,
+            3104,
+            3125,
+            3116,
+            3131,
+            3149,
+            3165,
+            3160,
+            3180,
+            3178,
+            3211,
+            3197,
+            3235,
+            3240,
+            3254,
+            3244,
+            3263,
+            3271,
+            3309,
+            3295,
+            3328,
+            3354,
+            3370,
+            3366,
+            3385,
+            3395,
+            3411,
+            3430,
+            3448,
+            3443,
+            3483,
+            3470,
+            3504,
+            3510,
+            3535,
+            3527,
+            3548,
+            3565,
+            3590,
+            3578,
+            3635,
+            3626,
+            3665,
+            3648,
+            3679,
+            3673,
+            3715,
+            3708,
+            3750,
+            3753,
+            3776,
+            3771,
+            3788,
+            3806,
+            3864,
+            3829,
+            3962,
+            3904,
+            3996,
+            3993,
+            4029,
+            4018,
+            4041,
+            4042,
+            4060,
+            4070,
+            4083,
+            4096,
+            4125,
+            4098
+        ]
+    },
+    "val": {
+        "data": [
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/Faces/image_0071.jpg",
+                "label": 0,
+                "classname": "face"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/Faces/image_0070.jpg",
+                "label": 0,
+                "classname": "face"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/Leopards/image_0147.jpg",
+                "label": 1,
+                "classname": "leopard"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/Leopards/image_0084.jpg",
+                "label": 1,
+                "classname": "leopard"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/Motorbikes/image_0462.jpg",
+                "label": 2,
+                "classname": "motorbike"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/Motorbikes/image_0632.jpg",
+                "label": 2,
+                "classname": "motorbike"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/accordion/image_0026.jpg",
+                "label": 3,
+                "classname": "accordion"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/accordion/image_0031.jpg",
+                "label": 3,
+                "classname": "accordion"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/airplanes/image_0620.jpg",
+                "label": 4,
+                "classname": "airplane"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/airplanes/image_0685.jpg",
+                "label": 4,
+                "classname": "airplane"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/anchor/image_0036.jpg",
+                "label": 5,
+                "classname": "anchor"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/anchor/image_0021.jpg",
+                "label": 5,
+                "classname": "anchor"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/ant/image_0017.jpg",
+                "label": 6,
+                "classname": "ant"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/ant/image_0007.jpg",
+                "label": 6,
+                "classname": "ant"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/barrel/image_0039.jpg",
+                "label": 7,
+                "classname": "barrel"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/barrel/image_0041.jpg",
+                "label": 7,
+                "classname": "barrel"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/bass/image_0040.jpg",
+                "label": 8,
+                "classname": "bass"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/bass/image_0052.jpg",
+                "label": 8,
+                "classname": "bass"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/beaver/image_0035.jpg",
+                "label": 9,
+                "classname": "beaver"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/beaver/image_0007.jpg",
+                "label": 9,
+                "classname": "beaver"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/binocular/image_0004.jpg",
+                "label": 10,
+                "classname": "binocular"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/binocular/image_0017.jpg",
+                "label": 10,
+                "classname": "binocular"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/bonsai/image_0050.jpg",
+                "label": 11,
+                "classname": "bonsai"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/bonsai/image_0121.jpg",
+                "label": 11,
+                "classname": "bonsai"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/brain/image_0081.jpg",
+                "label": 12,
+                "classname": "brain"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/brain/image_0048.jpg",
+                "label": 12,
+                "classname": "brain"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/brontosaurus/image_0006.jpg",
+                "label": 13,
+                "classname": "brontosaurus"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/brontosaurus/image_0017.jpg",
+                "label": 13,
+                "classname": "brontosaurus"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/buddha/image_0070.jpg",
+                "label": 14,
+                "classname": "buddha"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/buddha/image_0085.jpg",
+                "label": 14,
+                "classname": "buddha"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/butterfly/image_0010.jpg",
+                "label": 15,
+                "classname": "butterfly"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/butterfly/image_0042.jpg",
+                "label": 15,
+                "classname": "butterfly"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/camera/image_0030.jpg",
+                "label": 16,
+                "classname": "camera"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/camera/image_0037.jpg",
+                "label": 16,
+                "classname": "camera"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/cannon/image_0005.jpg",
+                "label": 17,
+                "classname": "cannon"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/cannon/image_0022.jpg",
+                "label": 17,
+                "classname": "cannon"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/car_side/image_0113.jpg",
+                "label": 18,
+                "classname": "car_side"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/car_side/image_0093.jpg",
+                "label": 18,
+                "classname": "car_side"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/ceiling_fan/image_0023.jpg",
+                "label": 19,
+                "classname": "ceiling_fan"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/ceiling_fan/image_0032.jpg",
+                "label": 19,
+                "classname": "ceiling_fan"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/cellphone/image_0036.jpg",
+                "label": 20,
+                "classname": "cellphone"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/cellphone/image_0028.jpg",
+                "label": 20,
+                "classname": "cellphone"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/chair/image_0012.jpg",
+                "label": 21,
+                "classname": "chair"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/chair/image_0045.jpg",
+                "label": 21,
+                "classname": "chair"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/chandelier/image_0096.jpg",
+                "label": 22,
+                "classname": "chandelier"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/chandelier/image_0024.jpg",
+                "label": 22,
+                "classname": "chandelier"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/cougar_body/image_0011.jpg",
+                "label": 23,
+                "classname": "cougar_body"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/cougar_body/image_0025.jpg",
+                "label": 23,
+                "classname": "cougar_body"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/cougar_face/image_0069.jpg",
+                "label": 24,
+                "classname": "cougar_face"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/cougar_face/image_0058.jpg",
+                "label": 24,
+                "classname": "cougar_face"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/crab/image_0003.jpg",
+                "label": 25,
+                "classname": "crab"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/crab/image_0048.jpg",
+                "label": 25,
+                "classname": "crab"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/crayfish/image_0067.jpg",
+                "label": 26,
+                "classname": "crayfish"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/crayfish/image_0042.jpg",
+                "label": 26,
+                "classname": "crayfish"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/crocodile/image_0006.jpg",
+                "label": 27,
+                "classname": "crocodile"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/crocodile/image_0002.jpg",
+                "label": 27,
+                "classname": "crocodile"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/crocodile_head/image_0017.jpg",
+                "label": 28,
+                "classname": "crocodile_head"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/crocodile_head/image_0012.jpg",
+                "label": 28,
+                "classname": "crocodile_head"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/cup/image_0021.jpg",
+                "label": 29,
+                "classname": "cup"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/cup/image_0013.jpg",
+                "label": 29,
+                "classname": "cup"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/dalmatian/image_0006.jpg",
+                "label": 30,
+                "classname": "dalmatian"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/dalmatian/image_0015.jpg",
+                "label": 30,
+                "classname": "dalmatian"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/dollar_bill/image_0049.jpg",
+                "label": 31,
+                "classname": "dollar_bill"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/dollar_bill/image_0041.jpg",
+                "label": 31,
+                "classname": "dollar_bill"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/dolphin/image_0048.jpg",
+                "label": 32,
+                "classname": "dolphin"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/dolphin/image_0060.jpg",
+                "label": 32,
+                "classname": "dolphin"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/dragonfly/image_0008.jpg",
+                "label": 33,
+                "classname": "dragonfly"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/dragonfly/image_0011.jpg",
+                "label": 33,
+                "classname": "dragonfly"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/electric_guitar/image_0049.jpg",
+                "label": 34,
+                "classname": "electric_guitar"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/electric_guitar/image_0027.jpg",
+                "label": 34,
+                "classname": "electric_guitar"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/elephant/image_0005.jpg",
+                "label": 35,
+                "classname": "elephant"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/elephant/image_0015.jpg",
+                "label": 35,
+                "classname": "elephant"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/emu/image_0022.jpg",
+                "label": 36,
+                "classname": "emu"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/emu/image_0039.jpg",
+                "label": 36,
+                "classname": "emu"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/euphonium/image_0049.jpg",
+                "label": 37,
+                "classname": "euphonium"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/euphonium/image_0064.jpg",
+                "label": 37,
+                "classname": "euphonium"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/ewer/image_0021.jpg",
+                "label": 38,
+                "classname": "ewer"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/ewer/image_0030.jpg",
+                "label": 38,
+                "classname": "ewer"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/ferry/image_0061.jpg",
+                "label": 39,
+                "classname": "ferry"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/ferry/image_0024.jpg",
+                "label": 39,
+                "classname": "ferry"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/flamingo/image_0049.jpg",
+                "label": 40,
+                "classname": "flamingo"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/flamingo/image_0054.jpg",
+                "label": 40,
+                "classname": "flamingo"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/flamingo_head/image_0017.jpg",
+                "label": 41,
+                "classname": "flamingo_head"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/flamingo_head/image_0009.jpg",
+                "label": 41,
+                "classname": "flamingo_head"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/garfield/image_0032.jpg",
+                "label": 42,
+                "classname": "garfield"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/garfield/image_0008.jpg",
+                "label": 42,
+                "classname": "garfield"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/gerenuk/image_0017.jpg",
+                "label": 43,
+                "classname": "gerenuk"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/gerenuk/image_0015.jpg",
+                "label": 43,
+                "classname": "gerenuk"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/gramophone/image_0031.jpg",
+                "label": 44,
+                "classname": "gramophone"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/gramophone/image_0041.jpg",
+                "label": 44,
+                "classname": "gramophone"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/grand_piano/image_0034.jpg",
+                "label": 45,
+                "classname": "grand_piano"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/grand_piano/image_0097.jpg",
+                "label": 45,
+                "classname": "grand_piano"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/hawksbill/image_0029.jpg",
+                "label": 46,
+                "classname": "hawksbill"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/hawksbill/image_0049.jpg",
+                "label": 46,
+                "classname": "hawksbill"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/headphone/image_0022.jpg",
+                "label": 47,
+                "classname": "headphone"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/headphone/image_0015.jpg",
+                "label": 47,
+                "classname": "headphone"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/hedgehog/image_0036.jpg",
+                "label": 48,
+                "classname": "hedgehog"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/hedgehog/image_0026.jpg",
+                "label": 48,
+                "classname": "hedgehog"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/helicopter/image_0002.jpg",
+                "label": 49,
+                "classname": "helicopter"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/helicopter/image_0067.jpg",
+                "label": 49,
+                "classname": "helicopter"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/ibis/image_0038.jpg",
+                "label": 50,
+                "classname": "ibis"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/ibis/image_0066.jpg",
+                "label": 50,
+                "classname": "ibis"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/inline_skate/image_0015.jpg",
+                "label": 51,
+                "classname": "inline_skate"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/inline_skate/image_0009.jpg",
+                "label": 51,
+                "classname": "inline_skate"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/joshua_tree/image_0027.jpg",
+                "label": 52,
+                "classname": "joshua_tree"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/joshua_tree/image_0033.jpg",
+                "label": 52,
+                "classname": "joshua_tree"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/kangaroo/image_0067.jpg",
+                "label": 53,
+                "classname": "kangaroo"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/kangaroo/image_0049.jpg",
+                "label": 53,
+                "classname": "kangaroo"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/ketch/image_0017.jpg",
+                "label": 54,
+                "classname": "ketch"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/ketch/image_0071.jpg",
+                "label": 54,
+                "classname": "ketch"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/lamp/image_0007.jpg",
+                "label": 55,
+                "classname": "lamp"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/lamp/image_0028.jpg",
+                "label": 55,
+                "classname": "lamp"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/laptop/image_0021.jpg",
+                "label": 56,
+                "classname": "laptop"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/laptop/image_0058.jpg",
+                "label": 56,
+                "classname": "laptop"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/llama/image_0011.jpg",
+                "label": 57,
+                "classname": "llama"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/llama/image_0027.jpg",
+                "label": 57,
+                "classname": "llama"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/lobster/image_0004.jpg",
+                "label": 58,
+                "classname": "lobster"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/lobster/image_0023.jpg",
+                "label": 58,
+                "classname": "lobster"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/lotus/image_0051.jpg",
+                "label": 59,
+                "classname": "lotus"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/lotus/image_0058.jpg",
+                "label": 59,
+                "classname": "lotus"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/mandolin/image_0027.jpg",
+                "label": 60,
+                "classname": "mandolin"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/mandolin/image_0039.jpg",
+                "label": 60,
+                "classname": "mandolin"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/mayfly/image_0024.jpg",
+                "label": 61,
+                "classname": "mayfly"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/mayfly/image_0005.jpg",
+                "label": 61,
+                "classname": "mayfly"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/menorah/image_0007.jpg",
+                "label": 62,
+                "classname": "menorah"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/menorah/image_0040.jpg",
+                "label": 62,
+                "classname": "menorah"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/metronome/image_0005.jpg",
+                "label": 63,
+                "classname": "metronome"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/metronome/image_0022.jpg",
+                "label": 63,
+                "classname": "metronome"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/minaret/image_0037.jpg",
+                "label": 64,
+                "classname": "minaret"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/minaret/image_0046.jpg",
+                "label": 64,
+                "classname": "minaret"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/nautilus/image_0036.jpg",
+                "label": 65,
+                "classname": "nautilus"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/nautilus/image_0024.jpg",
+                "label": 65,
+                "classname": "nautilus"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/octopus/image_0019.jpg",
+                "label": 66,
+                "classname": "octopus"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/octopus/image_0023.jpg",
+                "label": 66,
+                "classname": "octopus"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/okapi/image_0016.jpg",
+                "label": 67,
+                "classname": "okapi"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/okapi/image_0024.jpg",
+                "label": 67,
+                "classname": "okapi"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/pagoda/image_0037.jpg",
+                "label": 68,
+                "classname": "pagoda"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/pagoda/image_0013.jpg",
+                "label": 68,
+                "classname": "pagoda"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/panda/image_0025.jpg",
+                "label": 69,
+                "classname": "panda"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/panda/image_0010.jpg",
+                "label": 69,
+                "classname": "panda"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/pigeon/image_0029.jpg",
+                "label": 70,
+                "classname": "pigeon"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/pigeon/image_0024.jpg",
+                "label": 70,
+                "classname": "pigeon"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/pizza/image_0052.jpg",
+                "label": 71,
+                "classname": "pizza"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/pizza/image_0010.jpg",
+                "label": 71,
+                "classname": "pizza"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/platypus/image_0011.jpg",
+                "label": 72,
+                "classname": "platypus"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/platypus/image_0008.jpg",
+                "label": 72,
+                "classname": "platypus"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/pyramid/image_0013.jpg",
+                "label": 73,
+                "classname": "pyramid"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/pyramid/image_0025.jpg",
+                "label": 73,
+                "classname": "pyramid"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/revolver/image_0027.jpg",
+                "label": 74,
+                "classname": "revolver"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/revolver/image_0008.jpg",
+                "label": 74,
+                "classname": "revolver"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/rhino/image_0022.jpg",
+                "label": 75,
+                "classname": "rhino"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/rhino/image_0054.jpg",
+                "label": 75,
+                "classname": "rhino"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/rooster/image_0017.jpg",
+                "label": 76,
+                "classname": "rooster"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/rooster/image_0037.jpg",
+                "label": 76,
+                "classname": "rooster"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/saxophone/image_0004.jpg",
+                "label": 77,
+                "classname": "saxophone"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/saxophone/image_0012.jpg",
+                "label": 77,
+                "classname": "saxophone"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/schooner/image_0011.jpg",
+                "label": 78,
+                "classname": "schooner"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/schooner/image_0041.jpg",
+                "label": 78,
+                "classname": "schooner"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/scissors/image_0030.jpg",
+                "label": 79,
+                "classname": "scissors"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/scissors/image_0034.jpg",
+                "label": 79,
+                "classname": "scissors"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/scorpion/image_0076.jpg",
+                "label": 80,
+                "classname": "scorpion"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/scorpion/image_0069.jpg",
+                "label": 80,
+                "classname": "scorpion"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/sea_horse/image_0051.jpg",
+                "label": 81,
+                "classname": "sea_horse"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/sea_horse/image_0024.jpg",
+                "label": 81,
+                "classname": "sea_horse"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/snoopy/image_0027.jpg",
+                "label": 82,
+                "classname": "snoopy"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/snoopy/image_0013.jpg",
+                "label": 82,
+                "classname": "snoopy"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/soccer_ball/image_0051.jpg",
+                "label": 83,
+                "classname": "soccer_ball"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/soccer_ball/image_0033.jpg",
+                "label": 83,
+                "classname": "soccer_ball"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/stapler/image_0033.jpg",
+                "label": 84,
+                "classname": "stapler"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/stapler/image_0034.jpg",
+                "label": 84,
+                "classname": "stapler"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/starfish/image_0076.jpg",
+                "label": 85,
+                "classname": "starfish"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/starfish/image_0053.jpg",
+                "label": 85,
+                "classname": "starfish"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/stegosaurus/image_0027.jpg",
+                "label": 86,
+                "classname": "stegosaurus"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/stegosaurus/image_0013.jpg",
+                "label": 86,
+                "classname": "stegosaurus"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/stop_sign/image_0036.jpg",
+                "label": 87,
+                "classname": "stop_sign"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/stop_sign/image_0048.jpg",
+                "label": 87,
+                "classname": "stop_sign"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/strawberry/image_0027.jpg",
+                "label": 88,
+                "classname": "strawberry"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/strawberry/image_0022.jpg",
+                "label": 88,
+                "classname": "strawberry"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/sunflower/image_0016.jpg",
+                "label": 89,
+                "classname": "sunflower"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/sunflower/image_0042.jpg",
+                "label": 89,
+                "classname": "sunflower"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/tick/image_0022.jpg",
+                "label": 90,
+                "classname": "tick"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/tick/image_0044.jpg",
+                "label": 90,
+                "classname": "tick"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/trilobite/image_0034.jpg",
+                "label": 91,
+                "classname": "trilobite"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/trilobite/image_0024.jpg",
+                "label": 91,
+                "classname": "trilobite"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/umbrella/image_0049.jpg",
+                "label": 92,
+                "classname": "umbrella"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/umbrella/image_0064.jpg",
+                "label": 92,
+                "classname": "umbrella"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/watch/image_0067.jpg",
+                "label": 93,
+                "classname": "watch"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/watch/image_0189.jpg",
+                "label": 93,
+                "classname": "watch"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/water_lilly/image_0014.jpg",
+                "label": 94,
+                "classname": "water_lilly"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/water_lilly/image_0001.jpg",
+                "label": 94,
+                "classname": "water_lilly"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/wheelchair/image_0023.jpg",
+                "label": 95,
+                "classname": "wheelchair"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/wheelchair/image_0022.jpg",
+                "label": 95,
+                "classname": "wheelchair"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/wild_cat/image_0004.jpg",
+                "label": 96,
+                "classname": "wild_cat"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/wild_cat/image_0029.jpg",
+                "label": 96,
+                "classname": "wild_cat"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/windsor_chair/image_0052.jpg",
+                "label": 97,
+                "classname": "windsor_chair"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/windsor_chair/image_0004.jpg",
+                "label": 97,
+                "classname": "windsor_chair"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/wrench/image_0034.jpg",
+                "label": 98,
+                "classname": "wrench"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/wrench/image_0037.jpg",
+                "label": 98,
+                "classname": "wrench"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/yin_yang/image_0023.jpg",
+                "label": 99,
+                "classname": "yin_yang"
+            },
+            {
+                "impath": "data/CoOp/caltech-101/101_ObjectCategories/yin_yang/image_0040.jpg",
+                "label": 99,
+                "classname": "yin_yang"
+            }
+        ],
+        "indices": [
+            60,
+            70,
+            103,
+            107,
+            197,
+            245,
+            291,
+            295,
+            389,
+            387,
+            462,
+            463,
+            471,
+            473,
+            480,
+            479,
+            485,
+            490,
+            499,
+            502,
+            507,
+            504,
+            526,
+            515,
+            542,
+            547,
+            563,
+            560,
+            567,
+            578,
+            587,
+            598,
+            606,
+            604,
+            618,
+            614,
+            642,
+            619,
+            647,
+            646,
+            662,
+            660,
+            674,
+            675,
+            682,
+            684,
+            700,
+            698,
+            714,
+            710,
+            723,
+            721,
+            738,
+            737,
+            755,
+            752,
+            767,
+            763,
+            778,
+            770,
+            787,
+            788,
+            799,
+            800,
+            814,
+            813,
+            818,
+            826,
+            834,
+            845,
+            857,
+            851,
+            859,
+            864,
+            876,
+            874,
+            896,
+            886,
+            911,
+            908,
+            918,
+            913,
+            934,
+            930,
+            935,
+            937,
+            946,
+            948,
+            954,
+            953,
+            970,
+            963,
+            992,
+            998,
+            1004,
+            1002,
+            1009,
+            1017,
+            1030,
+            1033,
+            1042,
+            1038,
+            1056,
+            1052,
+            1063,
+            1068,
+            1071,
+            1083,
+            1091,
+            1098,
+            1120,
+            1122,
+            1127,
+            1128,
+            1151,
+            1145,
+            1161,
+            1156,
+            1170,
+            1167,
+            1183,
+            1182,
+            1191,
+            1192,
+            1198,
+            1201,
+            1215,
+            1212,
+            1223,
+            1220,
+            1237,
+            1231,
+            1244,
+            1248,
+            1256,
+            1251,
+            1259,
+            1264,
+            1266,
+            1273,
+            1281,
+            1277,
+            1287,
+            1283,
+            1300,
+            1295,
+            1307,
+            1301,
+            1327,
+            1320,
+            1336,
+            1332,
+            1343,
+            1347,
+            1350,
+            1351,
+            1365,
+            1362,
+            1373,
+            1376,
+            1388,
+            1395,
+            1403,
+            1405,
+            1410,
+            1411,
+            1424,
+            1423,
+            1428,
+            1427,
+            1440,
+            1445,
+            1457,
+            1461,
+            1476,
+            1470,
+            1482,
+            1480,
+            1501,
+            1485,
+            1509,
+            1507,
+            1523,
+            1516,
+            1529,
+            1543,
+            1560,
+            1579,
+            1595,
+            1597,
+            1600,
+            1609,
+            1615,
+            1612,
+            1618,
+            1624,
+            1635,
+            1633,
+            1646,
+            1647
+        ]
+    }
+}

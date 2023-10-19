@@ -1,0 +1,134 @@
+{
+    "train": {
+        "data": [
+            {
+                "impath": "data/CoOp/eurosat/2750/AnnualCrop/AnnualCrop_687.jpg",
+                "label": 0,
+                "classname": "Annual Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Forest/Forest_2492.jpg",
+                "label": 1,
+                "classname": "Forest"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/HerbaceousVegetation/HerbaceousVegetation_1335.jpg",
+                "label": 2,
+                "classname": "Herbaceous Vegetation Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Highway/Highway_396.jpg",
+                "label": 3,
+                "classname": "Highway or Road"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Industrial/Industrial_15.jpg",
+                "label": 4,
+                "classname": "Industrial Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Pasture/Pasture_1505.jpg",
+                "label": 5,
+                "classname": "Pasture Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/PermanentCrop/PermanentCrop_997.jpg",
+                "label": 6,
+                "classname": "Permanent Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Residential/Residential_1303.jpg",
+                "label": 7,
+                "classname": "Residential Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/River/River_1779.jpg",
+                "label": 8,
+                "classname": "River"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/SeaLake/SeaLake_738.jpg",
+                "label": 9,
+                "classname": "Sea or Lake"
+            }
+        ],
+        "indices": [
+            483,
+            2121,
+            3211,
+            5311,
+            6730,
+            7158,
+            8184,
+            9386,
+            10790,
+            12822
+        ]
+    },
+    "val": {
+        "data": [
+            {
+                "impath": "data/CoOp/eurosat/2750/AnnualCrop/AnnualCrop_2357.jpg",
+                "label": 0,
+                "classname": "Annual Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Forest/Forest_2100.jpg",
+                "label": 1,
+                "classname": "Forest"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/HerbaceousVegetation/HerbaceousVegetation_1373.jpg",
+                "label": 2,
+                "classname": "Herbaceous Vegetation Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Highway/Highway_1724.jpg",
+                "label": 3,
+                "classname": "Highway or Road"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Industrial/Industrial_1386.jpg",
+                "label": 4,
+                "classname": "Industrial Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Pasture/Pasture_1944.jpg",
+                "label": 5,
+                "classname": "Pasture Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/PermanentCrop/PermanentCrop_692.jpg",
+                "label": 6,
+                "classname": "Permanent Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Residential/Residential_1749.jpg",
+                "label": 7,
+                "classname": "Residential Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/River/River_237.jpg",
+                "label": 8,
+                "classname": "River"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/SeaLake/SeaLake_2843.jpg",
+                "label": 9,
+                "classname": "Sea or Lake"
+            }
+        ],
+        "indices": [
+            562,
+            896,
+            1260,
+            1913,
+            2566,
+            3074,
+            3384,
+            3983,
+            4699,
+            4976
+        ]
+    }
+}

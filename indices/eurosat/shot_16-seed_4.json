@@ -1,0 +1,1214 @@
+{
+    "train": {
+        "data": [
+            {
+                "impath": "data/CoOp/eurosat/2750/AnnualCrop/AnnualCrop_687.jpg",
+                "label": 0,
+                "classname": "Annual Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/AnnualCrop/AnnualCrop_2967.jpg",
+                "label": 0,
+                "classname": "Annual Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/AnnualCrop/AnnualCrop_1310.jpg",
+                "label": 0,
+                "classname": "Annual Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/AnnualCrop/AnnualCrop_984.jpg",
+                "label": 0,
+                "classname": "Annual Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/AnnualCrop/AnnualCrop_2725.jpg",
+                "label": 0,
+                "classname": "Annual Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/AnnualCrop/AnnualCrop_868.jpg",
+                "label": 0,
+                "classname": "Annual Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/AnnualCrop/AnnualCrop_830.jpg",
+                "label": 0,
+                "classname": "Annual Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/AnnualCrop/AnnualCrop_1571.jpg",
+                "label": 0,
+                "classname": "Annual Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/AnnualCrop/AnnualCrop_2000.jpg",
+                "label": 0,
+                "classname": "Annual Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/AnnualCrop/AnnualCrop_2303.jpg",
+                "label": 0,
+                "classname": "Annual Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/AnnualCrop/AnnualCrop_215.jpg",
+                "label": 0,
+                "classname": "Annual Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/AnnualCrop/AnnualCrop_1273.jpg",
+                "label": 0,
+                "classname": "Annual Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/AnnualCrop/AnnualCrop_933.jpg",
+                "label": 0,
+                "classname": "Annual Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/AnnualCrop/AnnualCrop_988.jpg",
+                "label": 0,
+                "classname": "Annual Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/AnnualCrop/AnnualCrop_905.jpg",
+                "label": 0,
+                "classname": "Annual Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/AnnualCrop/AnnualCrop_940.jpg",
+                "label": 0,
+                "classname": "Annual Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Forest/Forest_1106.jpg",
+                "label": 1,
+                "classname": "Forest"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Forest/Forest_2809.jpg",
+                "label": 1,
+                "classname": "Forest"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Forest/Forest_76.jpg",
+                "label": 1,
+                "classname": "Forest"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Forest/Forest_2939.jpg",
+                "label": 1,
+                "classname": "Forest"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Forest/Forest_1570.jpg",
+                "label": 1,
+                "classname": "Forest"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Forest/Forest_1748.jpg",
+                "label": 1,
+                "classname": "Forest"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Forest/Forest_984.jpg",
+                "label": 1,
+                "classname": "Forest"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Forest/Forest_1849.jpg",
+                "label": 1,
+                "classname": "Forest"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Forest/Forest_2482.jpg",
+                "label": 1,
+                "classname": "Forest"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Forest/Forest_700.jpg",
+                "label": 1,
+                "classname": "Forest"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Forest/Forest_1656.jpg",
+                "label": 1,
+                "classname": "Forest"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Forest/Forest_2616.jpg",
+                "label": 1,
+                "classname": "Forest"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Forest/Forest_2296.jpg",
+                "label": 1,
+                "classname": "Forest"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Forest/Forest_664.jpg",
+                "label": 1,
+                "classname": "Forest"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Forest/Forest_1608.jpg",
+                "label": 1,
+                "classname": "Forest"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Forest/Forest_1299.jpg",
+                "label": 1,
+                "classname": "Forest"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/HerbaceousVegetation/HerbaceousVegetation_2828.jpg",
+                "label": 2,
+                "classname": "Herbaceous Vegetation Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/HerbaceousVegetation/HerbaceousVegetation_424.jpg",
+                "label": 2,
+                "classname": "Herbaceous Vegetation Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/HerbaceousVegetation/HerbaceousVegetation_837.jpg",
+                "label": 2,
+                "classname": "Herbaceous Vegetation Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/HerbaceousVegetation/HerbaceousVegetation_1534.jpg",
+                "label": 2,
+                "classname": "Herbaceous Vegetation Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/HerbaceousVegetation/HerbaceousVegetation_388.jpg",
+                "label": 2,
+                "classname": "Herbaceous Vegetation Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/HerbaceousVegetation/HerbaceousVegetation_1360.jpg",
+                "label": 2,
+                "classname": "Herbaceous Vegetation Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/HerbaceousVegetation/HerbaceousVegetation_2070.jpg",
+                "label": 2,
+                "classname": "Herbaceous Vegetation Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/HerbaceousVegetation/HerbaceousVegetation_831.jpg",
+                "label": 2,
+                "classname": "Herbaceous Vegetation Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/HerbaceousVegetation/HerbaceousVegetation_296.jpg",
+                "label": 2,
+                "classname": "Herbaceous Vegetation Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/HerbaceousVegetation/HerbaceousVegetation_2816.jpg",
+                "label": 2,
+                "classname": "Herbaceous Vegetation Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/HerbaceousVegetation/HerbaceousVegetation_1622.jpg",
+                "label": 2,
+                "classname": "Herbaceous Vegetation Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/HerbaceousVegetation/HerbaceousVegetation_1119.jpg",
+                "label": 2,
+                "classname": "Herbaceous Vegetation Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/HerbaceousVegetation/HerbaceousVegetation_2073.jpg",
+                "label": 2,
+                "classname": "Herbaceous Vegetation Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/HerbaceousVegetation/HerbaceousVegetation_1837.jpg",
+                "label": 2,
+                "classname": "Herbaceous Vegetation Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/HerbaceousVegetation/HerbaceousVegetation_2043.jpg",
+                "label": 2,
+                "classname": "Herbaceous Vegetation Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/HerbaceousVegetation/HerbaceousVegetation_939.jpg",
+                "label": 2,
+                "classname": "Herbaceous Vegetation Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Highway/Highway_1051.jpg",
+                "label": 3,
+                "classname": "Highway or Road"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Highway/Highway_911.jpg",
+                "label": 3,
+                "classname": "Highway or Road"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Highway/Highway_558.jpg",
+                "label": 3,
+                "classname": "Highway or Road"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Highway/Highway_1228.jpg",
+                "label": 3,
+                "classname": "Highway or Road"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Highway/Highway_2011.jpg",
+                "label": 3,
+                "classname": "Highway or Road"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Highway/Highway_2094.jpg",
+                "label": 3,
+                "classname": "Highway or Road"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Highway/Highway_1227.jpg",
+                "label": 3,
+                "classname": "Highway or Road"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Highway/Highway_2132.jpg",
+                "label": 3,
+                "classname": "Highway or Road"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Highway/Highway_1602.jpg",
+                "label": 3,
+                "classname": "Highway or Road"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Highway/Highway_411.jpg",
+                "label": 3,
+                "classname": "Highway or Road"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Highway/Highway_2055.jpg",
+                "label": 3,
+                "classname": "Highway or Road"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Highway/Highway_1217.jpg",
+                "label": 3,
+                "classname": "Highway or Road"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Highway/Highway_2490.jpg",
+                "label": 3,
+                "classname": "Highway or Road"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Highway/Highway_1784.jpg",
+                "label": 3,
+                "classname": "Highway or Road"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Highway/Highway_2061.jpg",
+                "label": 3,
+                "classname": "Highway or Road"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Highway/Highway_1343.jpg",
+                "label": 3,
+                "classname": "Highway or Road"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Industrial/Industrial_1255.jpg",
+                "label": 4,
+                "classname": "Industrial Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Industrial/Industrial_1224.jpg",
+                "label": 4,
+                "classname": "Industrial Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Industrial/Industrial_98.jpg",
+                "label": 4,
+                "classname": "Industrial Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Industrial/Industrial_1947.jpg",
+                "label": 4,
+                "classname": "Industrial Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Industrial/Industrial_1548.jpg",
+                "label": 4,
+                "classname": "Industrial Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Industrial/Industrial_2474.jpg",
+                "label": 4,
+                "classname": "Industrial Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Industrial/Industrial_449.jpg",
+                "label": 4,
+                "classname": "Industrial Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Industrial/Industrial_879.jpg",
+                "label": 4,
+                "classname": "Industrial Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Industrial/Industrial_2075.jpg",
+                "label": 4,
+                "classname": "Industrial Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Industrial/Industrial_1073.jpg",
+                "label": 4,
+                "classname": "Industrial Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Industrial/Industrial_1885.jpg",
+                "label": 4,
+                "classname": "Industrial Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Industrial/Industrial_2028.jpg",
+                "label": 4,
+                "classname": "Industrial Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Industrial/Industrial_1619.jpg",
+                "label": 4,
+                "classname": "Industrial Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Industrial/Industrial_2203.jpg",
+                "label": 4,
+                "classname": "Industrial Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Industrial/Industrial_3.jpg",
+                "label": 4,
+                "classname": "Industrial Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Industrial/Industrial_51.jpg",
+                "label": 4,
+                "classname": "Industrial Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Pasture/Pasture_1361.jpg",
+                "label": 5,
+                "classname": "Pasture Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Pasture/Pasture_26.jpg",
+                "label": 5,
+                "classname": "Pasture Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Pasture/Pasture_1853.jpg",
+                "label": 5,
+                "classname": "Pasture Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Pasture/Pasture_357.jpg",
+                "label": 5,
+                "classname": "Pasture Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Pasture/Pasture_516.jpg",
+                "label": 5,
+                "classname": "Pasture Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Pasture/Pasture_1691.jpg",
+                "label": 5,
+                "classname": "Pasture Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Pasture/Pasture_1397.jpg",
+                "label": 5,
+                "classname": "Pasture Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Pasture/Pasture_1106.jpg",
+                "label": 5,
+                "classname": "Pasture Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Pasture/Pasture_1627.jpg",
+                "label": 5,
+                "classname": "Pasture Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Pasture/Pasture_1430.jpg",
+                "label": 5,
+                "classname": "Pasture Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Pasture/Pasture_1905.jpg",
+                "label": 5,
+                "classname": "Pasture Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Pasture/Pasture_1523.jpg",
+                "label": 5,
+                "classname": "Pasture Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Pasture/Pasture_1513.jpg",
+                "label": 5,
+                "classname": "Pasture Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Pasture/Pasture_137.jpg",
+                "label": 5,
+                "classname": "Pasture Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Pasture/Pasture_251.jpg",
+                "label": 5,
+                "classname": "Pasture Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Pasture/Pasture_1389.jpg",
+                "label": 5,
+                "classname": "Pasture Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/PermanentCrop/PermanentCrop_214.jpg",
+                "label": 6,
+                "classname": "Permanent Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/PermanentCrop/PermanentCrop_420.jpg",
+                "label": 6,
+                "classname": "Permanent Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/PermanentCrop/PermanentCrop_1960.jpg",
+                "label": 6,
+                "classname": "Permanent Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/PermanentCrop/PermanentCrop_386.jpg",
+                "label": 6,
+                "classname": "Permanent Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/PermanentCrop/PermanentCrop_2458.jpg",
+                "label": 6,
+                "classname": "Permanent Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/PermanentCrop/PermanentCrop_913.jpg",
+                "label": 6,
+                "classname": "Permanent Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/PermanentCrop/PermanentCrop_1106.jpg",
+                "label": 6,
+                "classname": "Permanent Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/PermanentCrop/PermanentCrop_1768.jpg",
+                "label": 6,
+                "classname": "Permanent Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/PermanentCrop/PermanentCrop_1014.jpg",
+                "label": 6,
+                "classname": "Permanent Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/PermanentCrop/PermanentCrop_328.jpg",
+                "label": 6,
+                "classname": "Permanent Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/PermanentCrop/PermanentCrop_95.jpg",
+                "label": 6,
+                "classname": "Permanent Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/PermanentCrop/PermanentCrop_1683.jpg",
+                "label": 6,
+                "classname": "Permanent Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/PermanentCrop/PermanentCrop_1120.jpg",
+                "label": 6,
+                "classname": "Permanent Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/PermanentCrop/PermanentCrop_2492.jpg",
+                "label": 6,
+                "classname": "Permanent Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/PermanentCrop/PermanentCrop_413.jpg",
+                "label": 6,
+                "classname": "Permanent Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/PermanentCrop/PermanentCrop_1298.jpg",
+                "label": 6,
+                "classname": "Permanent Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Residential/Residential_666.jpg",
+                "label": 7,
+                "classname": "Residential Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Residential/Residential_610.jpg",
+                "label": 7,
+                "classname": "Residential Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Residential/Residential_2939.jpg",
+                "label": 7,
+                "classname": "Residential Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Residential/Residential_206.jpg",
+                "label": 7,
+                "classname": "Residential Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Residential/Residential_1333.jpg",
+                "label": 7,
+                "classname": "Residential Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Residential/Residential_124.jpg",
+                "label": 7,
+                "classname": "Residential Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Residential/Residential_1131.jpg",
+                "label": 7,
+                "classname": "Residential Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Residential/Residential_1462.jpg",
+                "label": 7,
+                "classname": "Residential Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Residential/Residential_1673.jpg",
+                "label": 7,
+                "classname": "Residential Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Residential/Residential_2431.jpg",
+                "label": 7,
+                "classname": "Residential Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Residential/Residential_1044.jpg",
+                "label": 7,
+                "classname": "Residential Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Residential/Residential_642.jpg",
+                "label": 7,
+                "classname": "Residential Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Residential/Residential_1787.jpg",
+                "label": 7,
+                "classname": "Residential Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Residential/Residential_1862.jpg",
+                "label": 7,
+                "classname": "Residential Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Residential/Residential_2757.jpg",
+                "label": 7,
+                "classname": "Residential Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Residential/Residential_2733.jpg",
+                "label": 7,
+                "classname": "Residential Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/River/River_1282.jpg",
+                "label": 8,
+                "classname": "River"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/River/River_2066.jpg",
+                "label": 8,
+                "classname": "River"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/River/River_581.jpg",
+                "label": 8,
+                "classname": "River"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/River/River_401.jpg",
+                "label": 8,
+                "classname": "River"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/River/River_769.jpg",
+                "label": 8,
+                "classname": "River"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/River/River_1963.jpg",
+                "label": 8,
+                "classname": "River"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/River/River_531.jpg",
+                "label": 8,
+                "classname": "River"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/River/River_127.jpg",
+                "label": 8,
+                "classname": "River"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/River/River_528.jpg",
+                "label": 8,
+                "classname": "River"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/River/River_2002.jpg",
+                "label": 8,
+                "classname": "River"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/River/River_1692.jpg",
+                "label": 8,
+                "classname": "River"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/River/River_1284.jpg",
+                "label": 8,
+                "classname": "River"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/River/River_309.jpg",
+                "label": 8,
+                "classname": "River"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/River/River_2093.jpg",
+                "label": 8,
+                "classname": "River"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/River/River_1201.jpg",
+                "label": 8,
+                "classname": "River"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/River/River_450.jpg",
+                "label": 8,
+                "classname": "River"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/SeaLake/SeaLake_205.jpg",
+                "label": 9,
+                "classname": "Sea or Lake"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/SeaLake/SeaLake_2765.jpg",
+                "label": 9,
+                "classname": "Sea or Lake"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/SeaLake/SeaLake_1252.jpg",
+                "label": 9,
+                "classname": "Sea or Lake"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/SeaLake/SeaLake_442.jpg",
+                "label": 9,
+                "classname": "Sea or Lake"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/SeaLake/SeaLake_604.jpg",
+                "label": 9,
+                "classname": "Sea or Lake"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/SeaLake/SeaLake_330.jpg",
+                "label": 9,
+                "classname": "Sea or Lake"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/SeaLake/SeaLake_1099.jpg",
+                "label": 9,
+                "classname": "Sea or Lake"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/SeaLake/SeaLake_1773.jpg",
+                "label": 9,
+                "classname": "Sea or Lake"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/SeaLake/SeaLake_225.jpg",
+                "label": 9,
+                "classname": "Sea or Lake"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/SeaLake/SeaLake_355.jpg",
+                "label": 9,
+                "classname": "Sea or Lake"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/SeaLake/SeaLake_2235.jpg",
+                "label": 9,
+                "classname": "Sea or Lake"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/SeaLake/SeaLake_2482.jpg",
+                "label": 9,
+                "classname": "Sea or Lake"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/SeaLake/SeaLake_326.jpg",
+                "label": 9,
+                "classname": "Sea or Lake"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/SeaLake/SeaLake_45.jpg",
+                "label": 9,
+                "classname": "Sea or Lake"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/SeaLake/SeaLake_185.jpg",
+                "label": 9,
+                "classname": "Sea or Lake"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/SeaLake/SeaLake_179.jpg",
+                "label": 9,
+                "classname": "Sea or Lake"
+            }
+        ],
+        "indices": [
+            483,
+            621,
+            211,
+            1477,
+            811,
+            980,
+            317,
+            184,
+            136,
+            40,
+            822,
+            1125,
+            592,
+            120,
+            454,
+            1065,
+            2599,
+            2237,
+            2066,
+            1853,
+            1717,
+            2036,
+            1939,
+            1552,
+            2812,
+            2033,
+            2056,
+            1896,
+            1837,
+            2134,
+            2093,
+            2784,
+            4498,
+            3762,
+            3177,
+            4240,
+            3691,
+            4375,
+            3794,
+            4036,
+            3509,
+            3364,
+            3506,
+            3969,
+            3573,
+            3182,
+            4121,
+            3614,
+            4514,
+            5097,
+            5672,
+            5138,
+            5541,
+            4899,
+            5347,
+            5367,
+            5726,
+            5090,
+            5382,
+            5424,
+            4830,
+            4977,
+            5124,
+            5031,
+            5838,
+            5916,
+            5844,
+            6697,
+            6324,
+            6812,
+            6844,
+            6715,
+            6452,
+            6047,
+            6150,
+            5886,
+            6595,
+            6165,
+            6653,
+            6315,
+            7188,
+            7364,
+            7446,
+            7764,
+            7602,
+            7328,
+            7649,
+            7571,
+            7203,
+            7926,
+            7331,
+            7103,
+            7859,
+            7063,
+            7725,
+            7234,
+            8568,
+            9192,
+            8486,
+            8250,
+            8678,
+            8363,
+            8595,
+            8940,
+            8052,
+            8087,
+            8731,
+            8169,
+            8585,
+            8669,
+            8037,
+            8661,
+            9841,
+            9908,
+            9563,
+            10585,
+            10090,
+            10520,
+            10642,
+            9409,
+            9850,
+            10515,
+            9642,
+            10159,
+            9848,
+            9529,
+            9762,
+            10031,
+            11976,
+            11075,
+            11428,
+            11923,
+            10769,
+            11494,
+            10841,
+            11681,
+            11097,
+            11497,
+            11492,
+            11344,
+            11920,
+            10948,
+            11649,
+            11174,
+            12868,
+            12425,
+            12232,
+            12121,
+            12127,
+            12113,
+            12345,
+            13219,
+            13386,
+            12306,
+            13242,
+            12083,
+            13118,
+            13004,
+            13193,
+            12510
+        ]
+    },
+    "val": {
+        "data": [
+            {
+                "impath": "data/CoOp/eurosat/2750/AnnualCrop/AnnualCrop_1176.jpg",
+                "label": 0,
+                "classname": "Annual Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/AnnualCrop/AnnualCrop_714.jpg",
+                "label": 0,
+                "classname": "Annual Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/AnnualCrop/AnnualCrop_2389.jpg",
+                "label": 0,
+                "classname": "Annual Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/AnnualCrop/AnnualCrop_1727.jpg",
+                "label": 0,
+                "classname": "Annual Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Forest/Forest_1063.jpg",
+                "label": 1,
+                "classname": "Forest"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Forest/Forest_121.jpg",
+                "label": 1,
+                "classname": "Forest"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Forest/Forest_132.jpg",
+                "label": 1,
+                "classname": "Forest"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Forest/Forest_2208.jpg",
+                "label": 1,
+                "classname": "Forest"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/HerbaceousVegetation/HerbaceousVegetation_92.jpg",
+                "label": 2,
+                "classname": "Herbaceous Vegetation Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/HerbaceousVegetation/HerbaceousVegetation_1484.jpg",
+                "label": 2,
+                "classname": "Herbaceous Vegetation Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/HerbaceousVegetation/HerbaceousVegetation_212.jpg",
+                "label": 2,
+                "classname": "Herbaceous Vegetation Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/HerbaceousVegetation/HerbaceousVegetation_883.jpg",
+                "label": 2,
+                "classname": "Herbaceous Vegetation Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Highway/Highway_289.jpg",
+                "label": 3,
+                "classname": "Highway or Road"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Highway/Highway_1972.jpg",
+                "label": 3,
+                "classname": "Highway or Road"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Highway/Highway_290.jpg",
+                "label": 3,
+                "classname": "Highway or Road"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Highway/Highway_1770.jpg",
+                "label": 3,
+                "classname": "Highway or Road"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Industrial/Industrial_392.jpg",
+                "label": 4,
+                "classname": "Industrial Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Industrial/Industrial_1669.jpg",
+                "label": 4,
+                "classname": "Industrial Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Industrial/Industrial_1161.jpg",
+                "label": 4,
+                "classname": "Industrial Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Industrial/Industrial_604.jpg",
+                "label": 4,
+                "classname": "Industrial Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Pasture/Pasture_1345.jpg",
+                "label": 5,
+                "classname": "Pasture Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Pasture/Pasture_492.jpg",
+                "label": 5,
+                "classname": "Pasture Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Pasture/Pasture_985.jpg",
+                "label": 5,
+                "classname": "Pasture Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Pasture/Pasture_1619.jpg",
+                "label": 5,
+                "classname": "Pasture Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/PermanentCrop/PermanentCrop_821.jpg",
+                "label": 6,
+                "classname": "Permanent Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/PermanentCrop/PermanentCrop_1487.jpg",
+                "label": 6,
+                "classname": "Permanent Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/PermanentCrop/PermanentCrop_1939.jpg",
+                "label": 6,
+                "classname": "Permanent Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/PermanentCrop/PermanentCrop_2164.jpg",
+                "label": 6,
+                "classname": "Permanent Crop Land"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Residential/Residential_2404.jpg",
+                "label": 7,
+                "classname": "Residential Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Residential/Residential_2633.jpg",
+                "label": 7,
+                "classname": "Residential Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Residential/Residential_2276.jpg",
+                "label": 7,
+                "classname": "Residential Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/Residential/Residential_1383.jpg",
+                "label": 7,
+                "classname": "Residential Buildings"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/River/River_1902.jpg",
+                "label": 8,
+                "classname": "River"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/River/River_299.jpg",
+                "label": 8,
+                "classname": "River"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/River/River_2374.jpg",
+                "label": 8,
+                "classname": "River"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/River/River_1747.jpg",
+                "label": 8,
+                "classname": "River"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/SeaLake/SeaLake_2050.jpg",
+                "label": 9,
+                "classname": "Sea or Lake"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/SeaLake/SeaLake_1504.jpg",
+                "label": 9,
+                "classname": "Sea or Lake"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/SeaLake/SeaLake_1017.jpg",
+                "label": 9,
+                "classname": "Sea or Lake"
+            },
+            {
+                "impath": "data/CoOp/eurosat/2750/SeaLake/SeaLake_1734.jpg",
+                "label": 9,
+                "classname": "Sea or Lake"
+            }
+        ],
+        "indices": [
+            329,
+            36,
+            125,
+            541,
+            899,
+            1019,
+            805,
+            1089,
+            1406,
+            1447,
+            1649,
+            1620,
+            2051,
+            1818,
+            1912,
+            2015,
+            2527,
+            2427,
+            2631,
+            2755,
+            3019,
+            2910,
+            3055,
+            2896,
+            3216,
+            3218,
+            3330,
+            3329,
+            3948,
+            4238,
+            3913,
+            3937,
+            4513,
+            4745,
+            4433,
+            4372,
+            5132,
+            4852,
+            5122,
+            5378
+        ]
+    }
+}

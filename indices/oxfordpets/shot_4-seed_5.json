@@ -1,0 +1,1790 @@
+{
+    "train": {
+        "data": [
+            {
+                "impath": "data/CoOp/oxford_pets/images/Abyssinian_116.jpg",
+                "label": 0,
+                "classname": "abyssinian"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Abyssinian_184.jpg",
+                "label": 0,
+                "classname": "abyssinian"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Abyssinian_126.jpg",
+                "label": 0,
+                "classname": "abyssinian"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Abyssinian_111.jpg",
+                "label": 0,
+                "classname": "abyssinian"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/american_bulldog_152.jpg",
+                "label": 1,
+                "classname": "american_bulldog"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/american_bulldog_193.jpg",
+                "label": 1,
+                "classname": "american_bulldog"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/american_bulldog_113.jpg",
+                "label": 1,
+                "classname": "american_bulldog"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/american_bulldog_108.jpg",
+                "label": 1,
+                "classname": "american_bulldog"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/american_pit_bull_terrier_158.jpg",
+                "label": 2,
+                "classname": "american_pit_bull_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/american_pit_bull_terrier_16.jpg",
+                "label": 2,
+                "classname": "american_pit_bull_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/american_pit_bull_terrier_162.jpg",
+                "label": 2,
+                "classname": "american_pit_bull_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/american_pit_bull_terrier_161.jpg",
+                "label": 2,
+                "classname": "american_pit_bull_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/basset_hound_14.jpg",
+                "label": 3,
+                "classname": "basset_hound"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/basset_hound_126.jpg",
+                "label": 3,
+                "classname": "basset_hound"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/basset_hound_182.jpg",
+                "label": 3,
+                "classname": "basset_hound"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/basset_hound_150.jpg",
+                "label": 3,
+                "classname": "basset_hound"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/beagle_111.jpg",
+                "label": 4,
+                "classname": "beagle"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/beagle_131.jpg",
+                "label": 4,
+                "classname": "beagle"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/beagle_136.jpg",
+                "label": 4,
+                "classname": "beagle"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/beagle_166.jpg",
+                "label": 4,
+                "classname": "beagle"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Bengal_148.jpg",
+                "label": 5,
+                "classname": "bengal"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Bengal_10.jpg",
+                "label": 5,
+                "classname": "bengal"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Bengal_17.jpg",
+                "label": 5,
+                "classname": "bengal"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Bengal_167.jpg",
+                "label": 5,
+                "classname": "bengal"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Birman_164.jpg",
+                "label": 6,
+                "classname": "birman"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Birman_111.jpg",
+                "label": 6,
+                "classname": "birman"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Birman_119.jpg",
+                "label": 6,
+                "classname": "birman"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Birman_132.jpg",
+                "label": 6,
+                "classname": "birman"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Bombay_133.jpg",
+                "label": 7,
+                "classname": "bombay"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Bombay_155.jpg",
+                "label": 7,
+                "classname": "bombay"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Bombay_172.jpg",
+                "label": 7,
+                "classname": "bombay"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Bombay_144.jpg",
+                "label": 7,
+                "classname": "bombay"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/boxer_183.jpg",
+                "label": 8,
+                "classname": "boxer"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/boxer_106.jpg",
+                "label": 8,
+                "classname": "boxer"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/boxer_144.jpg",
+                "label": 8,
+                "classname": "boxer"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/boxer_135.jpg",
+                "label": 8,
+                "classname": "boxer"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/British_Shorthair_111.jpg",
+                "label": 9,
+                "classname": "british_shorthair"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/British_Shorthair_189.jpg",
+                "label": 9,
+                "classname": "british_shorthair"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/British_Shorthair_197.jpg",
+                "label": 9,
+                "classname": "british_shorthair"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/British_Shorthair_163.jpg",
+                "label": 9,
+                "classname": "british_shorthair"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/chihuahua_183.jpg",
+                "label": 10,
+                "classname": "chihuahua"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/chihuahua_162.jpg",
+                "label": 10,
+                "classname": "chihuahua"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/chihuahua_120.jpg",
+                "label": 10,
+                "classname": "chihuahua"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/chihuahua_101.jpg",
+                "label": 10,
+                "classname": "chihuahua"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Egyptian_Mau_134.jpg",
+                "label": 11,
+                "classname": "egyptian_mau"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Egyptian_Mau_125.jpg",
+                "label": 11,
+                "classname": "egyptian_mau"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Egyptian_Mau_162.jpg",
+                "label": 11,
+                "classname": "egyptian_mau"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Egyptian_Mau_141.jpg",
+                "label": 11,
+                "classname": "egyptian_mau"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/english_cocker_spaniel_155.jpg",
+                "label": 12,
+                "classname": "english_cocker_spaniel"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/english_cocker_spaniel_122.jpg",
+                "label": 12,
+                "classname": "english_cocker_spaniel"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/english_cocker_spaniel_148.jpg",
+                "label": 12,
+                "classname": "english_cocker_spaniel"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/english_cocker_spaniel_108.jpg",
+                "label": 12,
+                "classname": "english_cocker_spaniel"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/english_setter_175.jpg",
+                "label": 13,
+                "classname": "english_setter"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/english_setter_145.jpg",
+                "label": 13,
+                "classname": "english_setter"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/english_setter_172.jpg",
+                "label": 13,
+                "classname": "english_setter"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/english_setter_110.jpg",
+                "label": 13,
+                "classname": "english_setter"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/german_shorthaired_12.jpg",
+                "label": 14,
+                "classname": "german_shorthaired"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/german_shorthaired_128.jpg",
+                "label": 14,
+                "classname": "german_shorthaired"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/german_shorthaired_167.jpg",
+                "label": 14,
+                "classname": "german_shorthaired"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/german_shorthaired_116.jpg",
+                "label": 14,
+                "classname": "german_shorthaired"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/great_pyrenees_116.jpg",
+                "label": 15,
+                "classname": "great_pyrenees"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/great_pyrenees_168.jpg",
+                "label": 15,
+                "classname": "great_pyrenees"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/great_pyrenees_174.jpg",
+                "label": 15,
+                "classname": "great_pyrenees"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/great_pyrenees_101.jpg",
+                "label": 15,
+                "classname": "great_pyrenees"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/havanese_160.jpg",
+                "label": 16,
+                "classname": "havanese"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/havanese_117.jpg",
+                "label": 16,
+                "classname": "havanese"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/havanese_131.jpg",
+                "label": 16,
+                "classname": "havanese"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/havanese_170.jpg",
+                "label": 16,
+                "classname": "havanese"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/japanese_chin_132.jpg",
+                "label": 17,
+                "classname": "japanese_chin"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/japanese_chin_136.jpg",
+                "label": 17,
+                "classname": "japanese_chin"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/japanese_chin_178.jpg",
+                "label": 17,
+                "classname": "japanese_chin"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/japanese_chin_145.jpg",
+                "label": 17,
+                "classname": "japanese_chin"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/keeshond_100.jpg",
+                "label": 18,
+                "classname": "keeshond"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/keeshond_103.jpg",
+                "label": 18,
+                "classname": "keeshond"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/keeshond_141.jpg",
+                "label": 18,
+                "classname": "keeshond"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/keeshond_134.jpg",
+                "label": 18,
+                "classname": "keeshond"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/leonberger_186.jpg",
+                "label": 19,
+                "classname": "leonberger"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/leonberger_165.jpg",
+                "label": 19,
+                "classname": "leonberger"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/leonberger_177.jpg",
+                "label": 19,
+                "classname": "leonberger"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/leonberger_16.jpg",
+                "label": 19,
+                "classname": "leonberger"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Maine_Coon_159.jpg",
+                "label": 20,
+                "classname": "maine_coon"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Maine_Coon_102.jpg",
+                "label": 20,
+                "classname": "maine_coon"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Maine_Coon_124.jpg",
+                "label": 20,
+                "classname": "maine_coon"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Maine_Coon_203.jpg",
+                "label": 20,
+                "classname": "maine_coon"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/miniature_pinscher_136.jpg",
+                "label": 21,
+                "classname": "miniature_pinscher"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/miniature_pinscher_128.jpg",
+                "label": 21,
+                "classname": "miniature_pinscher"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/miniature_pinscher_121.jpg",
+                "label": 21,
+                "classname": "miniature_pinscher"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/miniature_pinscher_149.jpg",
+                "label": 21,
+                "classname": "miniature_pinscher"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/newfoundland_174.jpg",
+                "label": 22,
+                "classname": "newfoundland"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/newfoundland_126.jpg",
+                "label": 22,
+                "classname": "newfoundland"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/newfoundland_134.jpg",
+                "label": 22,
+                "classname": "newfoundland"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/newfoundland_100.jpg",
+                "label": 22,
+                "classname": "newfoundland"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Persian_182.jpg",
+                "label": 23,
+                "classname": "persian"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Persian_174.jpg",
+                "label": 23,
+                "classname": "persian"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Persian_108.jpg",
+                "label": 23,
+                "classname": "persian"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Persian_196.jpg",
+                "label": 23,
+                "classname": "persian"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/pomeranian_14.jpg",
+                "label": 24,
+                "classname": "pomeranian"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/pomeranian_108.jpg",
+                "label": 24,
+                "classname": "pomeranian"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/pomeranian_190.jpg",
+                "label": 24,
+                "classname": "pomeranian"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/pomeranian_147.jpg",
+                "label": 24,
+                "classname": "pomeranian"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/pug_101.jpg",
+                "label": 25,
+                "classname": "pug"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/pug_129.jpg",
+                "label": 25,
+                "classname": "pug"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/pug_186.jpg",
+                "label": 25,
+                "classname": "pug"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/pug_11.jpg",
+                "label": 25,
+                "classname": "pug"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Ragdoll_111.jpg",
+                "label": 26,
+                "classname": "ragdoll"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Ragdoll_188.jpg",
+                "label": 26,
+                "classname": "ragdoll"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Ragdoll_164.jpg",
+                "label": 26,
+                "classname": "ragdoll"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Ragdoll_171.jpg",
+                "label": 26,
+                "classname": "ragdoll"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Russian_Blue_160.jpg",
+                "label": 27,
+                "classname": "russian_blue"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Russian_Blue_148.jpg",
+                "label": 27,
+                "classname": "russian_blue"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Russian_Blue_136.jpg",
+                "label": 27,
+                "classname": "russian_blue"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Russian_Blue_164.jpg",
+                "label": 27,
+                "classname": "russian_blue"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/saint_bernard_154.jpg",
+                "label": 28,
+                "classname": "saint_bernard"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/saint_bernard_160.jpg",
+                "label": 28,
+                "classname": "saint_bernard"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/saint_bernard_110.jpg",
+                "label": 28,
+                "classname": "saint_bernard"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/saint_bernard_172.jpg",
+                "label": 28,
+                "classname": "saint_bernard"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/samoyed_134.jpg",
+                "label": 29,
+                "classname": "samoyed"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/samoyed_122.jpg",
+                "label": 29,
+                "classname": "samoyed"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/samoyed_101.jpg",
+                "label": 29,
+                "classname": "samoyed"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/samoyed_123.jpg",
+                "label": 29,
+                "classname": "samoyed"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/scottish_terrier_175.jpg",
+                "label": 30,
+                "classname": "scottish_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/scottish_terrier_18.jpg",
+                "label": 30,
+                "classname": "scottish_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/scottish_terrier_106.jpg",
+                "label": 30,
+                "classname": "scottish_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/scottish_terrier_173.jpg",
+                "label": 30,
+                "classname": "scottish_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/shiba_inu_174.jpg",
+                "label": 31,
+                "classname": "shiba_inu"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/shiba_inu_196.jpg",
+                "label": 31,
+                "classname": "shiba_inu"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/shiba_inu_179.jpg",
+                "label": 31,
+                "classname": "shiba_inu"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/shiba_inu_102.jpg",
+                "label": 31,
+                "classname": "shiba_inu"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Siamese_158.jpg",
+                "label": 32,
+                "classname": "siamese"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Siamese_110.jpg",
+                "label": 32,
+                "classname": "siamese"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Siamese_194.jpg",
+                "label": 32,
+                "classname": "siamese"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Siamese_100.jpg",
+                "label": 32,
+                "classname": "siamese"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Sphynx_114.jpg",
+                "label": 33,
+                "classname": "sphynx"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Sphynx_178.jpg",
+                "label": 33,
+                "classname": "sphynx"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Sphynx_142.jpg",
+                "label": 33,
+                "classname": "sphynx"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Sphynx_132.jpg",
+                "label": 33,
+                "classname": "sphynx"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/staffordshire_bull_terrier_118.jpg",
+                "label": 34,
+                "classname": "staffordshire_bull_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/staffordshire_bull_terrier_103.jpg",
+                "label": 34,
+                "classname": "staffordshire_bull_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/staffordshire_bull_terrier_119.jpg",
+                "label": 34,
+                "classname": "staffordshire_bull_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/staffordshire_bull_terrier_126.jpg",
+                "label": 34,
+                "classname": "staffordshire_bull_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/wheaten_terrier_10.jpg",
+                "label": 35,
+                "classname": "wheaten_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/wheaten_terrier_13.jpg",
+                "label": 35,
+                "classname": "wheaten_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/wheaten_terrier_124.jpg",
+                "label": 35,
+                "classname": "wheaten_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/wheaten_terrier_164.jpg",
+                "label": 35,
+                "classname": "wheaten_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/yorkshire_terrier_184.jpg",
+                "label": 36,
+                "classname": "yorkshire_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/yorkshire_terrier_102.jpg",
+                "label": 36,
+                "classname": "yorkshire_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/yorkshire_terrier_178.jpg",
+                "label": 36,
+                "classname": "yorkshire_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/yorkshire_terrier_114.jpg",
+                "label": 36,
+                "classname": "yorkshire_terrier"
+            }
+        ],
+        "indices": [
+            79,
+            32,
+            45,
+            67,
+            83,
+            139,
+            111,
+            86,
+            180,
+            174,
+            207,
+            220,
+            271,
+            288,
+            309,
+            253,
+            393,
+            351,
+            321,
+            347,
+            452,
+            435,
+            423,
+            449,
+            500,
+            489,
+            497,
+            559,
+            616,
+            576,
+            560,
+            586,
+            664,
+            658,
+            674,
+            677,
+            742,
+            786,
+            743,
+            740,
+            822,
+            846,
+            835,
+            799,
+            923,
+            930,
+            898,
+            895,
+            984,
+            959,
+            993,
+            989,
+            1105,
+            1103,
+            1028,
+            1104,
+            1151,
+            1116,
+            1147,
+            1153,
+            1227,
+            1249,
+            1228,
+            1211,
+            1329,
+            1328,
+            1290,
+            1275,
+            1380,
+            1350,
+            1393,
+            1399,
+            1430,
+            1498,
+            1481,
+            1474,
+            1556,
+            1582,
+            1509,
+            1565,
+            1593,
+            1611,
+            1667,
+            1613,
+            1683,
+            1699,
+            1727,
+            1712,
+            1813,
+            1793,
+            1815,
+            1780,
+            1884,
+            1838,
+            1900,
+            1872,
+            1942,
+            1909,
+            1960,
+            1916,
+            2011,
+            2028,
+            2050,
+            2063,
+            2111,
+            2083,
+            2108,
+            2100,
+            2214,
+            2156,
+            2184,
+            2185,
+            2264,
+            2247,
+            2235,
+            2244,
+            2344,
+            2366,
+            2325,
+            2311,
+            2395,
+            2461,
+            2453,
+            2436,
+            2469,
+            2495,
+            2541,
+            2509,
+            2577,
+            2603,
+            2598,
+            2563,
+            2631,
+            2628,
+            2687,
+            2666,
+            2730,
+            2720,
+            2776,
+            2756,
+            2797,
+            2805,
+            2839,
+            2831,
+            2883,
+            2871,
+            2917,
+            2901
+        ]
+    },
+    "val": {
+        "data": [
+            {
+                "impath": "data/CoOp/oxford_pets/images/Abyssinian_104.jpg",
+                "label": 0,
+                "classname": "abyssinian"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Abyssinian_196.jpg",
+                "label": 0,
+                "classname": "abyssinian"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Abyssinian_119.jpg",
+                "label": 0,
+                "classname": "abyssinian"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Abyssinian_161.jpg",
+                "label": 0,
+                "classname": "abyssinian"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/american_bulldog_143.jpg",
+                "label": 1,
+                "classname": "american_bulldog"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/american_bulldog_103.jpg",
+                "label": 1,
+                "classname": "american_bulldog"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/american_bulldog_111.jpg",
+                "label": 1,
+                "classname": "american_bulldog"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/american_bulldog_10.jpg",
+                "label": 1,
+                "classname": "american_bulldog"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/american_pit_bull_terrier_168.jpg",
+                "label": 2,
+                "classname": "american_pit_bull_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/american_pit_bull_terrier_110.jpg",
+                "label": 2,
+                "classname": "american_pit_bull_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/american_pit_bull_terrier_155.jpg",
+                "label": 2,
+                "classname": "american_pit_bull_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/american_pit_bull_terrier_156.jpg",
+                "label": 2,
+                "classname": "american_pit_bull_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/basset_hound_137.jpg",
+                "label": 3,
+                "classname": "basset_hound"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/basset_hound_155.jpg",
+                "label": 3,
+                "classname": "basset_hound"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/basset_hound_120.jpg",
+                "label": 3,
+                "classname": "basset_hound"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/basset_hound_135.jpg",
+                "label": 3,
+                "classname": "basset_hound"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/beagle_160.jpg",
+                "label": 4,
+                "classname": "beagle"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/beagle_180.jpg",
+                "label": 4,
+                "classname": "beagle"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/beagle_143.jpg",
+                "label": 4,
+                "classname": "beagle"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/beagle_172.jpg",
+                "label": 4,
+                "classname": "beagle"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Bengal_111.jpg",
+                "label": 5,
+                "classname": "bengal"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Bengal_165.jpg",
+                "label": 5,
+                "classname": "bengal"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Bengal_144.jpg",
+                "label": 5,
+                "classname": "bengal"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Bengal_113.jpg",
+                "label": 5,
+                "classname": "bengal"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Birman_178.jpg",
+                "label": 6,
+                "classname": "birman"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Birman_112.jpg",
+                "label": 6,
+                "classname": "birman"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Birman_146.jpg",
+                "label": 6,
+                "classname": "birman"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Birman_115.jpg",
+                "label": 6,
+                "classname": "birman"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Bombay_181.jpg",
+                "label": 7,
+                "classname": "bombay"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Bombay_12.jpg",
+                "label": 7,
+                "classname": "bombay"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Bombay_119.jpg",
+                "label": 7,
+                "classname": "bombay"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Bombay_107.jpg",
+                "label": 7,
+                "classname": "bombay"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/boxer_104.jpg",
+                "label": 8,
+                "classname": "boxer"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/boxer_185.jpg",
+                "label": 8,
+                "classname": "boxer"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/boxer_175.jpg",
+                "label": 8,
+                "classname": "boxer"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/boxer_115.jpg",
+                "label": 8,
+                "classname": "boxer"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/British_Shorthair_184.jpg",
+                "label": 9,
+                "classname": "british_shorthair"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/British_Shorthair_178.jpg",
+                "label": 9,
+                "classname": "british_shorthair"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/British_Shorthair_113.jpg",
+                "label": 9,
+                "classname": "british_shorthair"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/British_Shorthair_108.jpg",
+                "label": 9,
+                "classname": "british_shorthair"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/chihuahua_155.jpg",
+                "label": 10,
+                "classname": "chihuahua"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/chihuahua_142.jpg",
+                "label": 10,
+                "classname": "chihuahua"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/chihuahua_105.jpg",
+                "label": 10,
+                "classname": "chihuahua"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/chihuahua_11.jpg",
+                "label": 10,
+                "classname": "chihuahua"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Egyptian_Mau_173.jpg",
+                "label": 11,
+                "classname": "egyptian_mau"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Egyptian_Mau_189.jpg",
+                "label": 11,
+                "classname": "egyptian_mau"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Egyptian_Mau_118.jpg",
+                "label": 11,
+                "classname": "egyptian_mau"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Egyptian_Mau_13.jpg",
+                "label": 11,
+                "classname": "egyptian_mau"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/english_cocker_spaniel_150.jpg",
+                "label": 12,
+                "classname": "english_cocker_spaniel"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/english_cocker_spaniel_168.jpg",
+                "label": 12,
+                "classname": "english_cocker_spaniel"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/english_cocker_spaniel_185.jpg",
+                "label": 12,
+                "classname": "english_cocker_spaniel"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/english_cocker_spaniel_136.jpg",
+                "label": 12,
+                "classname": "english_cocker_spaniel"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/english_setter_183.jpg",
+                "label": 13,
+                "classname": "english_setter"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/english_setter_139.jpg",
+                "label": 13,
+                "classname": "english_setter"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/english_setter_102.jpg",
+                "label": 13,
+                "classname": "english_setter"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/english_setter_104.jpg",
+                "label": 13,
+                "classname": "english_setter"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/german_shorthaired_154.jpg",
+                "label": 14,
+                "classname": "german_shorthaired"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/german_shorthaired_112.jpg",
+                "label": 14,
+                "classname": "german_shorthaired"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/german_shorthaired_135.jpg",
+                "label": 14,
+                "classname": "german_shorthaired"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/german_shorthaired_178.jpg",
+                "label": 14,
+                "classname": "german_shorthaired"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/great_pyrenees_186.jpg",
+                "label": 15,
+                "classname": "great_pyrenees"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/great_pyrenees_114.jpg",
+                "label": 15,
+                "classname": "great_pyrenees"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/great_pyrenees_18.jpg",
+                "label": 15,
+                "classname": "great_pyrenees"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/great_pyrenees_129.jpg",
+                "label": 15,
+                "classname": "great_pyrenees"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/havanese_178.jpg",
+                "label": 16,
+                "classname": "havanese"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/havanese_136.jpg",
+                "label": 16,
+                "classname": "havanese"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/havanese_132.jpg",
+                "label": 16,
+                "classname": "havanese"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/havanese_148.jpg",
+                "label": 16,
+                "classname": "havanese"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/japanese_chin_180.jpg",
+                "label": 17,
+                "classname": "japanese_chin"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/japanese_chin_17.jpg",
+                "label": 17,
+                "classname": "japanese_chin"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/japanese_chin_112.jpg",
+                "label": 17,
+                "classname": "japanese_chin"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/japanese_chin_16.jpg",
+                "label": 17,
+                "classname": "japanese_chin"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/keeshond_161.jpg",
+                "label": 18,
+                "classname": "keeshond"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/keeshond_152.jpg",
+                "label": 18,
+                "classname": "keeshond"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/keeshond_130.jpg",
+                "label": 18,
+                "classname": "keeshond"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/keeshond_156.jpg",
+                "label": 18,
+                "classname": "keeshond"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/leonberger_113.jpg",
+                "label": 19,
+                "classname": "leonberger"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/leonberger_10.jpg",
+                "label": 19,
+                "classname": "leonberger"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/leonberger_147.jpg",
+                "label": 19,
+                "classname": "leonberger"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/leonberger_169.jpg",
+                "label": 19,
+                "classname": "leonberger"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Maine_Coon_164.jpg",
+                "label": 20,
+                "classname": "maine_coon"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Maine_Coon_129.jpg",
+                "label": 20,
+                "classname": "maine_coon"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Maine_Coon_131.jpg",
+                "label": 20,
+                "classname": "maine_coon"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Maine_Coon_201.jpg",
+                "label": 20,
+                "classname": "maine_coon"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/miniature_pinscher_125.jpg",
+                "label": 21,
+                "classname": "miniature_pinscher"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/miniature_pinscher_134.jpg",
+                "label": 21,
+                "classname": "miniature_pinscher"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/miniature_pinscher_15.jpg",
+                "label": 21,
+                "classname": "miniature_pinscher"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/miniature_pinscher_103.jpg",
+                "label": 21,
+                "classname": "miniature_pinscher"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/newfoundland_137.jpg",
+                "label": 22,
+                "classname": "newfoundland"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/newfoundland_163.jpg",
+                "label": 22,
+                "classname": "newfoundland"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/newfoundland_106.jpg",
+                "label": 22,
+                "classname": "newfoundland"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/newfoundland_138.jpg",
+                "label": 22,
+                "classname": "newfoundland"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Persian_189.jpg",
+                "label": 23,
+                "classname": "persian"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Persian_137.jpg",
+                "label": 23,
+                "classname": "persian"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Persian_16.jpg",
+                "label": 23,
+                "classname": "persian"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Persian_150.jpg",
+                "label": 23,
+                "classname": "persian"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/pomeranian_172.jpg",
+                "label": 24,
+                "classname": "pomeranian"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/pomeranian_122.jpg",
+                "label": 24,
+                "classname": "pomeranian"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/pomeranian_182.jpg",
+                "label": 24,
+                "classname": "pomeranian"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/pomeranian_145.jpg",
+                "label": 24,
+                "classname": "pomeranian"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/pug_126.jpg",
+                "label": 25,
+                "classname": "pug"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/pug_138.jpg",
+                "label": 25,
+                "classname": "pug"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/pug_155.jpg",
+                "label": 25,
+                "classname": "pug"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/pug_168.jpg",
+                "label": 25,
+                "classname": "pug"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Ragdoll_155.jpg",
+                "label": 26,
+                "classname": "ragdoll"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Ragdoll_189.jpg",
+                "label": 26,
+                "classname": "ragdoll"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Ragdoll_160.jpg",
+                "label": 26,
+                "classname": "ragdoll"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Ragdoll_110.jpg",
+                "label": 26,
+                "classname": "ragdoll"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Russian_Blue_145.jpg",
+                "label": 27,
+                "classname": "russian_blue"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Russian_Blue_116.jpg",
+                "label": 27,
+                "classname": "russian_blue"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Russian_Blue_120.jpg",
+                "label": 27,
+                "classname": "russian_blue"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Russian_Blue_153.jpg",
+                "label": 27,
+                "classname": "russian_blue"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/saint_bernard_130.jpg",
+                "label": 28,
+                "classname": "saint_bernard"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/saint_bernard_100.jpg",
+                "label": 28,
+                "classname": "saint_bernard"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/saint_bernard_125.jpg",
+                "label": 28,
+                "classname": "saint_bernard"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/saint_bernard_149.jpg",
+                "label": 28,
+                "classname": "saint_bernard"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/samoyed_16.jpg",
+                "label": 29,
+                "classname": "samoyed"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/samoyed_176.jpg",
+                "label": 29,
+                "classname": "samoyed"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/samoyed_172.jpg",
+                "label": 29,
+                "classname": "samoyed"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/samoyed_171.jpg",
+                "label": 29,
+                "classname": "samoyed"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/scottish_terrier_126.jpg",
+                "label": 30,
+                "classname": "scottish_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/scottish_terrier_119.jpg",
+                "label": 30,
+                "classname": "scottish_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/scottish_terrier_17.jpg",
+                "label": 30,
+                "classname": "scottish_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/scottish_terrier_157.jpg",
+                "label": 30,
+                "classname": "scottish_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/shiba_inu_101.jpg",
+                "label": 31,
+                "classname": "shiba_inu"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/shiba_inu_165.jpg",
+                "label": 31,
+                "classname": "shiba_inu"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/shiba_inu_110.jpg",
+                "label": 31,
+                "classname": "shiba_inu"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/shiba_inu_193.jpg",
+                "label": 31,
+                "classname": "shiba_inu"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Siamese_150.jpg",
+                "label": 32,
+                "classname": "siamese"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Siamese_112.jpg",
+                "label": 32,
+                "classname": "siamese"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Siamese_167.jpg",
+                "label": 32,
+                "classname": "siamese"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Siamese_169.jpg",
+                "label": 32,
+                "classname": "siamese"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Sphynx_174.jpg",
+                "label": 33,
+                "classname": "sphynx"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Sphynx_187.jpg",
+                "label": 33,
+                "classname": "sphynx"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Sphynx_177.jpg",
+                "label": 33,
+                "classname": "sphynx"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/Sphynx_151.jpg",
+                "label": 33,
+                "classname": "sphynx"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/staffordshire_bull_terrier_122.jpg",
+                "label": 34,
+                "classname": "staffordshire_bull_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/staffordshire_bull_terrier_181.jpg",
+                "label": 34,
+                "classname": "staffordshire_bull_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/staffordshire_bull_terrier_183.jpg",
+                "label": 34,
+                "classname": "staffordshire_bull_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/staffordshire_bull_terrier_158.jpg",
+                "label": 34,
+                "classname": "staffordshire_bull_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/wheaten_terrier_119.jpg",
+                "label": 35,
+                "classname": "wheaten_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/wheaten_terrier_183.jpg",
+                "label": 35,
+                "classname": "wheaten_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/wheaten_terrier_123.jpg",
+                "label": 35,
+                "classname": "wheaten_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/wheaten_terrier_107.jpg",
+                "label": 35,
+                "classname": "wheaten_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/yorkshire_terrier_146.jpg",
+                "label": 36,
+                "classname": "yorkshire_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/yorkshire_terrier_183.jpg",
+                "label": 36,
+                "classname": "yorkshire_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/yorkshire_terrier_134.jpg",
+                "label": 36,
+                "classname": "yorkshire_terrier"
+            },
+            {
+                "impath": "data/CoOp/oxford_pets/images/yorkshire_terrier_111.jpg",
+                "label": 36,
+                "classname": "yorkshire_terrier"
+            }
+        ],
+        "indices": [
+            4,
+            14,
+            5,
+            16,
+            34,
+            35,
+            30,
+            38,
+            48,
+            49,
+            55,
+            52,
+            64,
+            63,
+            72,
+            65,
+            95,
+            90,
+            85,
+            82,
+            115,
+            108,
+            116,
+            117,
+            131,
+            122,
+            139,
+            121,
+            149,
+            151,
+            148,
+            155,
+            167,
+            168,
+            169,
+            164,
+            197,
+            179,
+            194,
+            187,
+            209,
+            207,
+            213,
+            208,
+            235,
+            230,
+            236,
+            227,
+            249,
+            251,
+            256,
+            243,
+            271,
+            268,
+            267,
+            273,
+            281,
+            293,
+            282,
+            283,
+            308,
+            312,
+            306,
+            299,
+            330,
+            322,
+            333,
+            336,
+            346,
+            354,
+            345,
+            337,
+            363,
+            362,
+            371,
+            375,
+            384,
+            382,
+            378,
+            392,
+            404,
+            402,
+            398,
+            401,
+            420,
+            427,
+            422,
+            432,
+            443,
+            454,
+            438,
+            450,
+            470,
+            467,
+            468,
+            458,
+            494,
+            482,
+            483,
+            487,
+            496,
+            507,
+            508,
+            504,
+            529,
+            519,
+            533,
+            527,
+            537,
+            553,
+            545,
+            539,
+            565,
+            573,
+            572,
+            566,
+            594,
+            585,
+            587,
+            580,
+            609,
+            615,
+            613,
+            607,
+            630,
+            620,
+            621,
+            628,
+            654,
+            651,
+            642,
+            640,
+            675,
+            658,
+            667,
+            656,
+            688,
+            679,
+            686,
+            680,
+            706,
+            714,
+            708,
+            709,
+            729,
+            723,
+            731,
+            725
+        ]
+    }
+}

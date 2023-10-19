@@ -1,0 +1,2462 @@
+{
+    "train": {
+        "data": [
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_00245.jpg",
+                "label": 76,
+                "classname": "passion flower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_00184.jpg",
+                "label": 76,
+                "classname": "passion flower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_00350.jpg",
+                "label": 72,
+                "classname": "water lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_00391.jpg",
+                "label": 72,
+                "classname": "water lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_00563.jpg",
+                "label": 87,
+                "classname": "cyclamen"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_00552.jpg",
+                "label": 87,
+                "classname": "cyclamen"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_00729.jpg",
+                "label": 88,
+                "classname": "watercress"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_00780.jpg",
+                "label": 88,
+                "classname": "watercress"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_00939.jpg",
+                "label": 80,
+                "classname": "frangipani"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_00856.jpg",
+                "label": 80,
+                "classname": "frangipani"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01100.jpg",
+                "label": 45,
+                "classname": "wallflower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01064.jpg",
+                "label": 45,
+                "classname": "wallflower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01226.jpg",
+                "label": 73,
+                "classname": "rose"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01183.jpg",
+                "label": 73,
+                "classname": "rose"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01416.jpg",
+                "label": 50,
+                "classname": "petunia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01421.jpg",
+                "label": 50,
+                "classname": "petunia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01546.jpg",
+                "label": 43,
+                "classname": "poinsettia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01544.jpg",
+                "label": 43,
+                "classname": "poinsettia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01670.jpg",
+                "label": 81,
+                "classname": "clematis"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01629.jpg",
+                "label": 81,
+                "classname": "clematis"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01789.jpg",
+                "label": 82,
+                "classname": "hibiscus"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01820.jpg",
+                "label": 82,
+                "classname": "hibiscus"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01898.jpg",
+                "label": 77,
+                "classname": "lotus"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01855.jpg",
+                "label": 77,
+                "classname": "lotus"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02035.jpg",
+                "label": 79,
+                "classname": "anthurium"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01991.jpg",
+                "label": 79,
+                "classname": "anthurium"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02186.jpg",
+                "label": 74,
+                "classname": "thorn apple"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02109.jpg",
+                "label": 74,
+                "classname": "thorn apple"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02277.jpg",
+                "label": 40,
+                "classname": "barbeton daisy"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02194.jpg",
+                "label": 40,
+                "classname": "barbeton daisy"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02418.jpg",
+                "label": 42,
+                "classname": "sword lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02379.jpg",
+                "label": 42,
+                "classname": "sword lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02507.jpg",
+                "label": 75,
+                "classname": "morning glory"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02459.jpg",
+                "label": 75,
+                "classname": "morning glory"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02595.jpg",
+                "label": 83,
+                "classname": "columbine"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02586.jpg",
+                "label": 83,
+                "classname": "columbine"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02671.jpg",
+                "label": 57,
+                "classname": "geranium"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02646.jpg",
+                "label": 57,
+                "classname": "geranium"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02840.jpg",
+                "label": 55,
+                "classname": "bishop of llandaff"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02852.jpg",
+                "label": 55,
+                "classname": "bishop of llandaff"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02879.jpg",
+                "label": 85,
+                "classname": "tree mallow"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02872.jpg",
+                "label": 85,
+                "classname": "tree mallow"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02995.jpg",
+                "label": 59,
+                "classname": "pink-yellow dahlia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02980.jpg",
+                "label": 59,
+                "classname": "pink-yellow dahlia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03039.jpg",
+                "label": 91,
+                "classname": "bee balm"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03063.jpg",
+                "label": 91,
+                "classname": "bee balm"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03124.jpg",
+                "label": 10,
+                "classname": "snapdragon"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03151.jpg",
+                "label": 10,
+                "classname": "snapdragon"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03231.jpg",
+                "label": 64,
+                "classname": "californian poppy"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03249.jpg",
+                "label": 64,
+                "classname": "californian poppy"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03329.jpg",
+                "label": 7,
+                "classname": "bird of paradise"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03368.jpg",
+                "label": 7,
+                "classname": "bird of paradise"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03374.jpg",
+                "label": 22,
+                "classname": "fritillary"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03433.jpg",
+                "label": 22,
+                "classname": "fritillary"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03474.jpg",
+                "label": 29,
+                "classname": "sweet william"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03544.jpg",
+                "label": 29,
+                "classname": "sweet william"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03571.jpg",
+                "label": 71,
+                "classname": "azalea"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03607.jpg",
+                "label": 71,
+                "classname": "azalea"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03719.jpg",
+                "label": 52,
+                "classname": "primula"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03711.jpg",
+                "label": 52,
+                "classname": "primula"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03818.jpg",
+                "label": 36,
+                "classname": "cape flower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03758.jpg",
+                "label": 36,
+                "classname": "cape flower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03903.jpg",
+                "label": 16,
+                "classname": "purple coneflower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03843.jpg",
+                "label": 16,
+                "classname": "purple coneflower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04033.jpg",
+                "label": 11,
+                "classname": "colt's foot"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04029.jpg",
+                "label": 11,
+                "classname": "colt's foot"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04154.jpg",
+                "label": 28,
+                "classname": "artichoke"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04091.jpg",
+                "label": 28,
+                "classname": "artichoke"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04178.jpg",
+                "label": 51,
+                "classname": "wild pansy"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04220.jpg",
+                "label": 51,
+                "classname": "wild pansy"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04287.jpg",
+                "label": 17,
+                "classname": "peruvian lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04263.jpg",
+                "label": 17,
+                "classname": "peruvian lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04393.jpg",
+                "label": 35,
+                "classname": "ruby-lipped cattleya"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04395.jpg",
+                "label": 35,
+                "classname": "ruby-lipped cattleya"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04457.jpg",
+                "label": 89,
+                "classname": "canna lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04407.jpg",
+                "label": 89,
+                "classname": "canna lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04548.jpg",
+                "label": 70,
+                "classname": "gazania"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04485.jpg",
+                "label": 70,
+                "classname": "gazania"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04567.jpg",
+                "label": 39,
+                "classname": "lenten rose"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04559.jpg",
+                "label": 39,
+                "classname": "lenten rose"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04653.jpg",
+                "label": 47,
+                "classname": "buttercup"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04639.jpg",
+                "label": 47,
+                "classname": "buttercup"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04705.jpg",
+                "label": 54,
+                "classname": "pelargonium"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04743.jpg",
+                "label": 54,
+                "classname": "pelargonium"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04780.jpg",
+                "label": 84,
+                "classname": "desert-rose"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04773.jpg",
+                "label": 84,
+                "classname": "desert-rose"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04884.jpg",
+                "label": 90,
+                "classname": "hippeastrum"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04833.jpg",
+                "label": 90,
+                "classname": "hippeastrum"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04951.jpg",
+                "label": 19,
+                "classname": "giant white arum lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04912.jpg",
+                "label": 19,
+                "classname": "giant white arum lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05019.jpg",
+                "label": 46,
+                "classname": "marigold"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05002.jpg",
+                "label": 46,
+                "classname": "marigold"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05030.jpg",
+                "label": 58,
+                "classname": "orange dahlia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05028.jpg",
+                "label": 58,
+                "classname": "orange dahlia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05139.jpg",
+                "label": 1,
+                "classname": "hard-leaved pocket orchid"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05132.jpg",
+                "label": 1,
+                "classname": "hard-leaved pocket orchid"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05192.jpg",
+                "label": 4,
+                "classname": "english marigold"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05148.jpg",
+                "label": 4,
+                "classname": "english marigold"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05266.jpg",
+                "label": 27,
+                "classname": "stemless gentian"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05253.jpg",
+                "label": 27,
+                "classname": "stemless gentian"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05288.jpg",
+                "label": 69,
+                "classname": "tree poppy"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05290.jpg",
+                "label": 69,
+                "classname": "tree poppy"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05356.jpg",
+                "label": 21,
+                "classname": "pincushion flower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05374.jpg",
+                "label": 21,
+                "classname": "pincushion flower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05429.jpg",
+                "label": 53,
+                "classname": "sunflower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05420.jpg",
+                "label": 53,
+                "classname": "sunflower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05504.jpg",
+                "label": 86,
+                "classname": "magnolia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05515.jpg",
+                "label": 86,
+                "classname": "magnolia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05536.jpg",
+                "label": 65,
+                "classname": "osteospermum"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05533.jpg",
+                "label": 65,
+                "classname": "osteospermum"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05586.jpg",
+                "label": 31,
+                "classname": "garden phlox"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05609.jpg",
+                "label": 31,
+                "classname": "garden phlox"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05674.jpg",
+                "label": 3,
+                "classname": "sweet pea"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05682.jpg",
+                "label": 3,
+                "classname": "sweet pea"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05726.jpg",
+                "label": 41,
+                "classname": "daffodil"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05730.jpg",
+                "label": 41,
+                "classname": "daffodil"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05771.jpg",
+                "label": 12,
+                "classname": "king protea"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05755.jpg",
+                "label": 12,
+                "classname": "king protea"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05804.jpg",
+                "label": 37,
+                "classname": "great masterwort"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05847.jpg",
+                "label": 37,
+                "classname": "great masterwort"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05854.jpg",
+                "label": 62,
+                "classname": "black-eyed susan"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05897.jpg",
+                "label": 62,
+                "classname": "black-eyed susan"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05944.jpg",
+                "label": 67,
+                "classname": "bearded iris"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05941.jpg",
+                "label": 67,
+                "classname": "bearded iris"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05969.jpg",
+                "label": 68,
+                "classname": "windflower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05980.jpg",
+                "label": 68,
+                "classname": "windflower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06042.jpg",
+                "label": 92,
+                "classname": "ball moss"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06030.jpg",
+                "label": 92,
+                "classname": "ball moss"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06073.jpg",
+                "label": 13,
+                "classname": "spear thistle"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06050.jpg",
+                "label": 13,
+                "classname": "spear thistle"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06119.jpg",
+                "label": 63,
+                "classname": "silverbush"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06133.jpg",
+                "label": 63,
+                "classname": "silverbush"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06184.jpg",
+                "label": 18,
+                "classname": "balloon flower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06162.jpg",
+                "label": 18,
+                "classname": "balloon flower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06198.jpg",
+                "label": 48,
+                "classname": "oxeye daisy"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06199.jpg",
+                "label": 48,
+                "classname": "oxeye daisy"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06247.jpg",
+                "label": 60,
+                "classname": "cautleya spicata"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06284.jpg",
+                "label": 60,
+                "classname": "cautleya spicata"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06314.jpg",
+                "label": 49,
+                "classname": "common dandelion"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06560.jpg",
+                "label": 49,
+                "classname": "common dandelion"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06347.jpg",
+                "label": 14,
+                "classname": "yellow iris"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06370.jpg",
+                "label": 14,
+                "classname": "yellow iris"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06419.jpg",
+                "label": 8,
+                "classname": "monkshood"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06405.jpg",
+                "label": 8,
+                "classname": "monkshood"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06444.jpg",
+                "label": 32,
+                "classname": "love in the mist"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06478.jpg",
+                "label": 32,
+                "classname": "love in the mist"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06516.jpg",
+                "label": 25,
+                "classname": "corn poppy"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06521.jpg",
+                "label": 25,
+                "classname": "corn poppy"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06602.jpg",
+                "label": 24,
+                "classname": "grape hyacinth"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06577.jpg",
+                "label": 24,
+                "classname": "grape hyacinth"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06626.jpg",
+                "label": 2,
+                "classname": "canterbury bells"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06649.jpg",
+                "label": 2,
+                "classname": "canterbury bells"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06691.jpg",
+                "label": 15,
+                "classname": "globe-flower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06672.jpg",
+                "label": 15,
+                "classname": "globe-flower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06702.jpg",
+                "label": 78,
+                "classname": "toad lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06713.jpg",
+                "label": 78,
+                "classname": "toad lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06752.jpg",
+                "label": 0,
+                "classname": "pink primrose"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06746.jpg",
+                "label": 0,
+                "classname": "pink primrose"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06787.jpg",
+                "label": 20,
+                "classname": "fire lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06795.jpg",
+                "label": 20,
+                "classname": "fire lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_08053.jpg",
+                "label": 23,
+                "classname": "red ginger"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06823.jpg",
+                "label": 23,
+                "classname": "red ginger"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06858.jpg",
+                "label": 26,
+                "classname": "prince of wales feathers"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06867.jpg",
+                "label": 26,
+                "classname": "prince of wales feathers"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06928.jpg",
+                "label": 30,
+                "classname": "carnation"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06922.jpg",
+                "label": 30,
+                "classname": "carnation"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06963.jpg",
+                "label": 33,
+                "classname": "mexican aster"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06931.jpg",
+                "label": 33,
+                "classname": "mexican aster"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06991.jpg",
+                "label": 34,
+                "classname": "alpine sea holly"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06997.jpg",
+                "label": 34,
+                "classname": "alpine sea holly"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07039.jpg",
+                "label": 38,
+                "classname": "siam tulip"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07008.jpg",
+                "label": 38,
+                "classname": "siam tulip"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07061.jpg",
+                "label": 66,
+                "classname": "spring crocus"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07063.jpg",
+                "label": 66,
+                "classname": "spring crocus"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07103.jpg",
+                "label": 9,
+                "classname": "globe thistle"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07117.jpg",
+                "label": 9,
+                "classname": "globe thistle"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07155.jpg",
+                "label": 44,
+                "classname": "bolero deep blue"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07146.jpg",
+                "label": 44,
+                "classname": "bolero deep blue"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07178.jpg",
+                "label": 5,
+                "classname": "tiger lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_08106.jpg",
+                "label": 5,
+                "classname": "tiger lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07203.jpg",
+                "label": 6,
+                "classname": "moon orchid"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07215.jpg",
+                "label": 6,
+                "classname": "moon orchid"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_08139.jpg",
+                "label": 56,
+                "classname": "gaura"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_08131.jpg",
+                "label": 56,
+                "classname": "gaura"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_08188.jpg",
+                "label": 61,
+                "classname": "japanese anemone"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07279.jpg",
+                "label": 61,
+                "classname": "japanese anemone"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07384.jpg",
+                "label": 93,
+                "classname": "foxglove"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07416.jpg",
+                "label": 93,
+                "classname": "foxglove"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07530.jpg",
+                "label": 94,
+                "classname": "bougainvillea"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07554.jpg",
+                "label": 94,
+                "classname": "bougainvillea"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07620.jpg",
+                "label": 95,
+                "classname": "camellia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07616.jpg",
+                "label": 95,
+                "classname": "camellia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07741.jpg",
+                "label": 96,
+                "classname": "mallow"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07730.jpg",
+                "label": 96,
+                "classname": "mallow"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07816.jpg",
+                "label": 97,
+                "classname": "mexican petunia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07817.jpg",
+                "label": 97,
+                "classname": "mexican petunia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07842.jpg",
+                "label": 98,
+                "classname": "bromelia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07841.jpg",
+                "label": 98,
+                "classname": "bromelia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07895.jpg",
+                "label": 99,
+                "classname": "blanket flower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07918.jpg",
+                "label": 99,
+                "classname": "blanket flower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07989.jpg",
+                "label": 100,
+                "classname": "trumpet creeper"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07993.jpg",
+                "label": 100,
+                "classname": "trumpet creeper"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_08007.jpg",
+                "label": 101,
+                "classname": "blackberry lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_08031.jpg",
+                "label": 101,
+                "classname": "blackberry lily"
+            }
+        ],
+        "indices": [
+            30,
+            38,
+            139,
+            218,
+            273,
+            284,
+            319,
+            311,
+            400,
+            394,
+            526,
+            545,
+            610,
+            580,
+            715,
+            751,
+            805,
+            799,
+            886,
+            840,
+            923,
+            917,
+            959,
+            989,
+            1075,
+            1041,
+            1088,
+            1086,
+            1175,
+            1173,
+            1247,
+            1211,
+            1303,
+            1286,
+            1361,
+            1343,
+            1394,
+            1377,
+            1430,
+            1434,
+            1488,
+            1481,
+            1507,
+            1554,
+            1575,
+            1556,
+            1607,
+            1625,
+            1678,
+            1652,
+            1716,
+            1696,
+            1752,
+            1753,
+            1810,
+            1790,
+            1841,
+            1842,
+            1872,
+            1876,
+            1927,
+            1924,
+            1964,
+            1967,
+            2006,
+            2033,
+            2065,
+            2081,
+            2121,
+            2128,
+            2159,
+            2150,
+            2179,
+            2182,
+            2212,
+            2234,
+            2261,
+            2277,
+            2305,
+            2299,
+            2344,
+            2349,
+            2378,
+            2393,
+            2406,
+            2414,
+            2432,
+            2429,
+            2486,
+            2471,
+            2509,
+            2507,
+            2533,
+            2547,
+            2589,
+            2565,
+            2608,
+            2619,
+            2623,
+            2624,
+            2666,
+            2677,
+            2688,
+            2714,
+            2725,
+            2739,
+            2766,
+            2747,
+            2788,
+            2787,
+            2818,
+            2812,
+            2854,
+            2850,
+            2871,
+            2885,
+            2907,
+            2909,
+            2938,
+            2914,
+            2949,
+            2959,
+            2973,
+            2981,
+            3003,
+            2998,
+            3029,
+            3033,
+            3063,
+            3049,
+            3078,
+            3086,
+            3094,
+            3105,
+            3119,
+            3132,
+            3147,
+            3153,
+            3190,
+            3185,
+            3231,
+            3216,
+            3251,
+            3243,
+            3273,
+            3266,
+            3286,
+            3284,
+            3304,
+            3322,
+            3328,
+            3327,
+            3362,
+            3344,
+            3380,
+            3378,
+            3401,
+            3390,
+            3413,
+            3404,
+            3426,
+            3439,
+            3453,
+            3457,
+            3484,
+            3470,
+            3505,
+            3496,
+            3517,
+            3524,
+            3545,
+            3547,
+            3553,
+            3559,
+            3586,
+            3587,
+            3602,
+            3608,
+            3621,
+            3630,
+            3643,
+            3638,
+            3659,
+            3673,
+            3699,
+            3698,
+            3786,
+            3745,
+            3829,
+            3853,
+            3880,
+            3873,
+            3930,
+            3913,
+            3963,
+            3979,
+            3991,
+            4009,
+            4036,
+            4038,
+            4063,
+            4041,
+            4084,
+            4081
+        ]
+    },
+    "val": {
+        "data": [
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_00222.jpg",
+                "label": 76,
+                "classname": "passion flower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_00134.jpg",
+                "label": 76,
+                "classname": "passion flower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_00325.jpg",
+                "label": 72,
+                "classname": "water lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_00281.jpg",
+                "label": 72,
+                "classname": "water lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_00452.jpg",
+                "label": 87,
+                "classname": "cyclamen"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_08083.jpg",
+                "label": 87,
+                "classname": "cyclamen"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_00615.jpg",
+                "label": 88,
+                "classname": "watercress"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_00601.jpg",
+                "label": 88,
+                "classname": "watercress"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_00890.jpg",
+                "label": 80,
+                "classname": "frangipani"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_00801.jpg",
+                "label": 80,
+                "classname": "frangipani"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_00978.jpg",
+                "label": 45,
+                "classname": "wallflower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01107.jpg",
+                "label": 45,
+                "classname": "wallflower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01175.jpg",
+                "label": 73,
+                "classname": "rose"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01177.jpg",
+                "label": 73,
+                "classname": "rose"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01398.jpg",
+                "label": 50,
+                "classname": "petunia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01397.jpg",
+                "label": 50,
+                "classname": "petunia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01517.jpg",
+                "label": 43,
+                "classname": "poinsettia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01530.jpg",
+                "label": 43,
+                "classname": "poinsettia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01649.jpg",
+                "label": 81,
+                "classname": "clematis"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01662.jpg",
+                "label": 81,
+                "classname": "clematis"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01821.jpg",
+                "label": 82,
+                "classname": "hibiscus"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01796.jpg",
+                "label": 82,
+                "classname": "hibiscus"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01845.jpg",
+                "label": 77,
+                "classname": "lotus"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01940.jpg",
+                "label": 77,
+                "classname": "lotus"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_01996.jpg",
+                "label": 79,
+                "classname": "anthurium"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02067.jpg",
+                "label": 79,
+                "classname": "anthurium"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02125.jpg",
+                "label": 74,
+                "classname": "thorn apple"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02154.jpg",
+                "label": 74,
+                "classname": "thorn apple"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02231.jpg",
+                "label": 40,
+                "classname": "barbeton daisy"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02265.jpg",
+                "label": 40,
+                "classname": "barbeton daisy"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02386.jpg",
+                "label": 42,
+                "classname": "sword lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02432.jpg",
+                "label": 42,
+                "classname": "sword lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02545.jpg",
+                "label": 75,
+                "classname": "morning glory"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02537.jpg",
+                "label": 75,
+                "classname": "morning glory"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02612.jpg",
+                "label": 83,
+                "classname": "columbine"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02599.jpg",
+                "label": 83,
+                "classname": "columbine"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02724.jpg",
+                "label": 57,
+                "classname": "geranium"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02742.jpg",
+                "label": 57,
+                "classname": "geranium"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02859.jpg",
+                "label": 55,
+                "classname": "bishop of llandaff"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02841.jpg",
+                "label": 55,
+                "classname": "bishop of llandaff"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02871.jpg",
+                "label": 85,
+                "classname": "tree mallow"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02903.jpg",
+                "label": 85,
+                "classname": "tree mallow"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02987.jpg",
+                "label": 59,
+                "classname": "pink-yellow dahlia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_02957.jpg",
+                "label": 59,
+                "classname": "pink-yellow dahlia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03049.jpg",
+                "label": 91,
+                "classname": "bee balm"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03046.jpg",
+                "label": 91,
+                "classname": "bee balm"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03133.jpg",
+                "label": 10,
+                "classname": "snapdragon"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03157.jpg",
+                "label": 10,
+                "classname": "snapdragon"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03252.jpg",
+                "label": 64,
+                "classname": "californian poppy"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03260.jpg",
+                "label": 64,
+                "classname": "californian poppy"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03356.jpg",
+                "label": 7,
+                "classname": "bird of paradise"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03318.jpg",
+                "label": 7,
+                "classname": "bird of paradise"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03391.jpg",
+                "label": 22,
+                "classname": "fritillary"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03407.jpg",
+                "label": 22,
+                "classname": "fritillary"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03484.jpg",
+                "label": 29,
+                "classname": "sweet william"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03540.jpg",
+                "label": 29,
+                "classname": "sweet william"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03563.jpg",
+                "label": 71,
+                "classname": "azalea"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03609.jpg",
+                "label": 71,
+                "classname": "azalea"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03712.jpg",
+                "label": 52,
+                "classname": "primula"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03705.jpg",
+                "label": 52,
+                "classname": "primula"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07297.jpg",
+                "label": 36,
+                "classname": "cape flower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07290.jpg",
+                "label": 36,
+                "classname": "cape flower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03911.jpg",
+                "label": 16,
+                "classname": "purple coneflower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_03850.jpg",
+                "label": 16,
+                "classname": "purple coneflower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04070.jpg",
+                "label": 11,
+                "classname": "colt's foot"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04019.jpg",
+                "label": 11,
+                "classname": "colt's foot"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04153.jpg",
+                "label": 28,
+                "classname": "artichoke"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04130.jpg",
+                "label": 28,
+                "classname": "artichoke"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04215.jpg",
+                "label": 51,
+                "classname": "wild pansy"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04239.jpg",
+                "label": 51,
+                "classname": "wild pansy"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04315.jpg",
+                "label": 17,
+                "classname": "peruvian lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04313.jpg",
+                "label": 17,
+                "classname": "peruvian lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04386.jpg",
+                "label": 35,
+                "classname": "ruby-lipped cattleya"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04362.jpg",
+                "label": 35,
+                "classname": "ruby-lipped cattleya"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04423.jpg",
+                "label": 89,
+                "classname": "canna lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04440.jpg",
+                "label": 89,
+                "classname": "canna lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04546.jpg",
+                "label": 70,
+                "classname": "gazania"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04537.jpg",
+                "label": 70,
+                "classname": "gazania"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04583.jpg",
+                "label": 39,
+                "classname": "lenten rose"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04604.jpg",
+                "label": 39,
+                "classname": "lenten rose"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04674.jpg",
+                "label": 47,
+                "classname": "buttercup"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04668.jpg",
+                "label": 47,
+                "classname": "buttercup"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04730.jpg",
+                "label": 54,
+                "classname": "pelargonium"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04753.jpg",
+                "label": 54,
+                "classname": "pelargonium"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04826.jpg",
+                "label": 84,
+                "classname": "desert-rose"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04827.jpg",
+                "label": 84,
+                "classname": "desert-rose"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04839.jpg",
+                "label": 90,
+                "classname": "hippeastrum"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04844.jpg",
+                "label": 90,
+                "classname": "hippeastrum"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04911.jpg",
+                "label": 19,
+                "classname": "giant white arum lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04944.jpg",
+                "label": 19,
+                "classname": "giant white arum lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04953.jpg",
+                "label": 46,
+                "classname": "marigold"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_04985.jpg",
+                "label": 46,
+                "classname": "marigold"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05021.jpg",
+                "label": 58,
+                "classname": "orange dahlia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05052.jpg",
+                "label": 58,
+                "classname": "orange dahlia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05143.jpg",
+                "label": 1,
+                "classname": "hard-leaved pocket orchid"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05113.jpg",
+                "label": 1,
+                "classname": "hard-leaved pocket orchid"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05182.jpg",
+                "label": 4,
+                "classname": "english marigold"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05196.jpg",
+                "label": 4,
+                "classname": "english marigold"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05225.jpg",
+                "label": 27,
+                "classname": "stemless gentian"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05273.jpg",
+                "label": 27,
+                "classname": "stemless gentian"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05278.jpg",
+                "label": 69,
+                "classname": "tree poppy"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05321.jpg",
+                "label": 69,
+                "classname": "tree poppy"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05348.jpg",
+                "label": 21,
+                "classname": "pincushion flower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05365.jpg",
+                "label": 21,
+                "classname": "pincushion flower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05411.jpg",
+                "label": 53,
+                "classname": "sunflower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05437.jpg",
+                "label": 53,
+                "classname": "sunflower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05498.jpg",
+                "label": 86,
+                "classname": "magnolia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05511.jpg",
+                "label": 86,
+                "classname": "magnolia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05546.jpg",
+                "label": 65,
+                "classname": "osteospermum"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05545.jpg",
+                "label": 65,
+                "classname": "osteospermum"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05627.jpg",
+                "label": 31,
+                "classname": "garden phlox"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05606.jpg",
+                "label": 31,
+                "classname": "garden phlox"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05672.jpg",
+                "label": 3,
+                "classname": "sweet pea"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05670.jpg",
+                "label": 3,
+                "classname": "sweet pea"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05737.jpg",
+                "label": 41,
+                "classname": "daffodil"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05709.jpg",
+                "label": 41,
+                "classname": "daffodil"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05751.jpg",
+                "label": 12,
+                "classname": "king protea"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05744.jpg",
+                "label": 12,
+                "classname": "king protea"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05795.jpg",
+                "label": 37,
+                "classname": "great masterwort"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05837.jpg",
+                "label": 37,
+                "classname": "great masterwort"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05851.jpg",
+                "label": 62,
+                "classname": "black-eyed susan"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05866.jpg",
+                "label": 62,
+                "classname": "black-eyed susan"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05936.jpg",
+                "label": 67,
+                "classname": "bearded iris"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05926.jpg",
+                "label": 67,
+                "classname": "bearded iris"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05988.jpg",
+                "label": 68,
+                "classname": "windflower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_05977.jpg",
+                "label": 68,
+                "classname": "windflower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06033.jpg",
+                "label": 92,
+                "classname": "ball moss"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07302.jpg",
+                "label": 92,
+                "classname": "ball moss"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06096.jpg",
+                "label": 13,
+                "classname": "spear thistle"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06080.jpg",
+                "label": 13,
+                "classname": "spear thistle"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06144.jpg",
+                "label": 63,
+                "classname": "silverbush"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06125.jpg",
+                "label": 63,
+                "classname": "silverbush"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06180.jpg",
+                "label": 18,
+                "classname": "balloon flower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06189.jpg",
+                "label": 18,
+                "classname": "balloon flower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06229.jpg",
+                "label": 48,
+                "classname": "oxeye daisy"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06237.jpg",
+                "label": 48,
+                "classname": "oxeye daisy"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06279.jpg",
+                "label": 60,
+                "classname": "cautleya spicata"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06262.jpg",
+                "label": 60,
+                "classname": "cautleya spicata"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06531.jpg",
+                "label": 49,
+                "classname": "common dandelion"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06327.jpg",
+                "label": 49,
+                "classname": "common dandelion"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06389.jpg",
+                "label": 14,
+                "classname": "yellow iris"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06349.jpg",
+                "label": 14,
+                "classname": "yellow iris"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06426.jpg",
+                "label": 8,
+                "classname": "monkshood"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06425.jpg",
+                "label": 8,
+                "classname": "monkshood"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06482.jpg",
+                "label": 32,
+                "classname": "love in the mist"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06458.jpg",
+                "label": 32,
+                "classname": "love in the mist"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06519.jpg",
+                "label": 25,
+                "classname": "corn poppy"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06501.jpg",
+                "label": 25,
+                "classname": "corn poppy"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06573.jpg",
+                "label": 24,
+                "classname": "grape hyacinth"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06595.jpg",
+                "label": 24,
+                "classname": "grape hyacinth"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06618.jpg",
+                "label": 2,
+                "classname": "canterbury bells"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06648.jpg",
+                "label": 2,
+                "classname": "canterbury bells"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06660.jpg",
+                "label": 15,
+                "classname": "globe-flower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06681.jpg",
+                "label": 15,
+                "classname": "globe-flower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06732.jpg",
+                "label": 78,
+                "classname": "toad lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06715.jpg",
+                "label": 78,
+                "classname": "toad lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06757.jpg",
+                "label": 0,
+                "classname": "pink primrose"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06741.jpg",
+                "label": 0,
+                "classname": "pink primrose"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06780.jpg",
+                "label": 20,
+                "classname": "fire lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06793.jpg",
+                "label": 20,
+                "classname": "fire lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06819.jpg",
+                "label": 23,
+                "classname": "red ginger"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_08049.jpg",
+                "label": 23,
+                "classname": "red ginger"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06865.jpg",
+                "label": 26,
+                "classname": "prince of wales feathers"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06854.jpg",
+                "label": 26,
+                "classname": "prince of wales feathers"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06915.jpg",
+                "label": 30,
+                "classname": "carnation"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_08077.jpg",
+                "label": 30,
+                "classname": "carnation"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06937.jpg",
+                "label": 33,
+                "classname": "mexican aster"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06967.jpg",
+                "label": 33,
+                "classname": "mexican aster"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06995.jpg",
+                "label": 34,
+                "classname": "alpine sea holly"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_06974.jpg",
+                "label": 34,
+                "classname": "alpine sea holly"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07015.jpg",
+                "label": 38,
+                "classname": "siam tulip"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07022.jpg",
+                "label": 38,
+                "classname": "siam tulip"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07059.jpg",
+                "label": 66,
+                "classname": "spring crocus"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07078.jpg",
+                "label": 66,
+                "classname": "spring crocus"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07122.jpg",
+                "label": 9,
+                "classname": "globe thistle"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07105.jpg",
+                "label": 9,
+                "classname": "globe thistle"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07152.jpg",
+                "label": 44,
+                "classname": "bolero deep blue"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07137.jpg",
+                "label": 44,
+                "classname": "bolero deep blue"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07187.jpg",
+                "label": 5,
+                "classname": "tiger lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07188.jpg",
+                "label": 5,
+                "classname": "tiger lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07222.jpg",
+                "label": 6,
+                "classname": "moon orchid"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_08101.jpg",
+                "label": 6,
+                "classname": "moon orchid"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_08118.jpg",
+                "label": 56,
+                "classname": "gaura"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_08122.jpg",
+                "label": 56,
+                "classname": "gaura"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_08183.jpg",
+                "label": 61,
+                "classname": "japanese anemone"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_08153.jpg",
+                "label": 61,
+                "classname": "japanese anemone"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07348.jpg",
+                "label": 93,
+                "classname": "foxglove"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07352.jpg",
+                "label": 93,
+                "classname": "foxglove"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07511.jpg",
+                "label": 94,
+                "classname": "bougainvillea"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07590.jpg",
+                "label": 94,
+                "classname": "bougainvillea"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07656.jpg",
+                "label": 95,
+                "classname": "camellia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07645.jpg",
+                "label": 95,
+                "classname": "camellia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07710.jpg",
+                "label": 96,
+                "classname": "mallow"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07716.jpg",
+                "label": 96,
+                "classname": "mallow"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07754.jpg",
+                "label": 97,
+                "classname": "mexican petunia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07757.jpg",
+                "label": 97,
+                "classname": "mexican petunia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07870.jpg",
+                "label": 98,
+                "classname": "bromelia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07874.jpg",
+                "label": 98,
+                "classname": "bromelia"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07894.jpg",
+                "label": 99,
+                "classname": "blanket flower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07915.jpg",
+                "label": 99,
+                "classname": "blanket flower"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07975.jpg",
+                "label": 100,
+                "classname": "trumpet creeper"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_07958.jpg",
+                "label": 100,
+                "classname": "trumpet creeper"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_08009.jpg",
+                "label": 101,
+                "classname": "blackberry lily"
+            },
+            {
+                "impath": "data/CoOp/oxford_flowers/jpg/image_08027.jpg",
+                "label": 101,
+                "classname": "blackberry lily"
+            }
+        ],
+        "indices": [
+            5,
+            27,
+            63,
+            86,
+            117,
+            119,
+            130,
+            141,
+            175,
+            187,
+            210,
+            216,
+            262,
+            242,
+            304,
+            314,
+            323,
+            325,
+            346,
+            349,
+            358,
+            364,
+            402,
+            403,
+            415,
+            410,
+            442,
+            449,
+            458,
+            478,
+            487,
+            500,
+            506,
+            510,
+            540,
+            541,
+            555,
+            549,
+            566,
+            572,
+            590,
+            588,
+            619,
+            608,
+            623,
+            628,
+            647,
+            642,
+            669,
+            653,
+            678,
+            677,
+            699,
+            704,
+            723,
+            721,
+            724,
+            726,
+            744,
+            746,
+            777,
+            779,
+            792,
+            788,
+            802,
+            812,
+            820,
+            830,
+            850,
+            834,
+            860,
+            864,
+            872,
+            880,
+            884,
+            883,
+            912,
+            904,
+            917,
+            918,
+            933,
+            930,
+            953,
+            948,
+            961,
+            956,
+            969,
+            982,
+            992,
+            988,
+            1002,
+            1000,
+            1013,
+            1018,
+            1027,
+            1021,
+            1042,
+            1035,
+            1055,
+            1049,
+            1065,
+            1064,
+            1071,
+            1078,
+            1084,
+            1087,
+            1096,
+            1106,
+            1118,
+            1109,
+            1124,
+            1126,
+            1133,
+            1132,
+            1147,
+            1139,
+            1153,
+            1151,
+            1171,
+            1165,
+            1173,
+            1180,
+            1184,
+            1190,
+            1203,
+            1201,
+            1213,
+            1206,
+            1222,
+            1217,
+            1230,
+            1228,
+            1239,
+            1237,
+            1246,
+            1244,
+            1254,
+            1259,
+            1281,
+            1278,
+            1291,
+            1286,
+            1300,
+            1299,
+            1308,
+            1307,
+            1312,
+            1317,
+            1323,
+            1325,
+            1331,
+            1327,
+            1340,
+            1334,
+            1344,
+            1347,
+            1352,
+            1357,
+            1363,
+            1359,
+            1371,
+            1373,
+            1375,
+            1374,
+            1388,
+            1384,
+            1397,
+            1399,
+            1405,
+            1408,
+            1411,
+            1416,
+            1417,
+            1421,
+            1425,
+            1426,
+            1439,
+            1440,
+            1443,
+            1444,
+            1453,
+            1455,
+            1466,
+            1469,
+            1481,
+            1473,
+            1490,
+            1494,
+            1535,
+            1530,
+            1548,
+            1550,
+            1570,
+            1565,
+            1579,
+            1586,
+            1595,
+            1599,
+            1604,
+            1605,
+            1616,
+            1614,
+            1628,
+            1631
+        ]
+    }
+}

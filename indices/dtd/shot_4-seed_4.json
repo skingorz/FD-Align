@@ -1,0 +1,2270 @@
+{
+    "train": {
+        "data": [
+            {
+                "impath": "data/CoOp/dtd/images/banded/banded_0082.jpg",
+                "label": 0,
+                "classname": "banded"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/banded/banded_0076.jpg",
+                "label": 0,
+                "classname": "banded"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/banded/banded_0068.jpg",
+                "label": 0,
+                "classname": "banded"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/banded/banded_0100.jpg",
+                "label": 0,
+                "classname": "banded"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/blotchy/blotchy_0073.jpg",
+                "label": 1,
+                "classname": "blotchy"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/blotchy/blotchy_0086.jpg",
+                "label": 1,
+                "classname": "blotchy"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/blotchy/blotchy_0053.jpg",
+                "label": 1,
+                "classname": "blotchy"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/blotchy/blotchy_0116.jpg",
+                "label": 1,
+                "classname": "blotchy"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/braided/braided_0137.jpg",
+                "label": 2,
+                "classname": "braided"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/braided/braided_0042.jpg",
+                "label": 2,
+                "classname": "braided"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/braided/braided_0190.jpg",
+                "label": 2,
+                "classname": "braided"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/braided/braided_0080.jpg",
+                "label": 2,
+                "classname": "braided"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/bubbly/bubbly_0110.jpg",
+                "label": 3,
+                "classname": "bubbly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/bubbly/bubbly_0129.jpg",
+                "label": 3,
+                "classname": "bubbly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/bubbly/bubbly_0128.jpg",
+                "label": 3,
+                "classname": "bubbly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/bubbly/bubbly_0061.jpg",
+                "label": 3,
+                "classname": "bubbly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/bumpy/bumpy_0192.jpg",
+                "label": 4,
+                "classname": "bumpy"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/bumpy/bumpy_0120.jpg",
+                "label": 4,
+                "classname": "bumpy"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/bumpy/bumpy_0067.jpg",
+                "label": 4,
+                "classname": "bumpy"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/bumpy/bumpy_0118.jpg",
+                "label": 4,
+                "classname": "bumpy"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/chequered/chequered_0215.jpg",
+                "label": 5,
+                "classname": "chequered"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/chequered/chequered_0101.jpg",
+                "label": 5,
+                "classname": "chequered"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/chequered/chequered_0184.jpg",
+                "label": 5,
+                "classname": "chequered"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/chequered/chequered_0202.jpg",
+                "label": 5,
+                "classname": "chequered"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/cobwebbed/cobwebbed_0069.jpg",
+                "label": 6,
+                "classname": "cobwebbed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/cobwebbed/cobwebbed_0157.jpg",
+                "label": 6,
+                "classname": "cobwebbed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/cobwebbed/cobwebbed_0104.jpg",
+                "label": 6,
+                "classname": "cobwebbed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/cobwebbed/cobwebbed_0056.jpg",
+                "label": 6,
+                "classname": "cobwebbed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/cracked/cracked_0004.jpg",
+                "label": 7,
+                "classname": "cracked"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/cracked/cracked_0084.jpg",
+                "label": 7,
+                "classname": "cracked"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/cracked/cracked_0072.jpg",
+                "label": 7,
+                "classname": "cracked"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/cracked/cracked_0059.jpg",
+                "label": 7,
+                "classname": "cracked"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/crosshatched/crosshatched_0046.jpg",
+                "label": 8,
+                "classname": "crosshatched"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/crosshatched/crosshatched_0121.jpg",
+                "label": 8,
+                "classname": "crosshatched"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/crosshatched/crosshatched_0098.jpg",
+                "label": 8,
+                "classname": "crosshatched"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/crosshatched/crosshatched_0160.jpg",
+                "label": 8,
+                "classname": "crosshatched"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/crystalline/crystalline_0122.jpg",
+                "label": 9,
+                "classname": "crystalline"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/crystalline/crystalline_0188.jpg",
+                "label": 9,
+                "classname": "crystalline"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/crystalline/crystalline_0109.jpg",
+                "label": 9,
+                "classname": "crystalline"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/crystalline/crystalline_0139.jpg",
+                "label": 9,
+                "classname": "crystalline"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/dotted/dotted_0113.jpg",
+                "label": 10,
+                "classname": "dotted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/dotted/dotted_0041.jpg",
+                "label": 10,
+                "classname": "dotted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/dotted/dotted_0108.jpg",
+                "label": 10,
+                "classname": "dotted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/dotted/dotted_0201.jpg",
+                "label": 10,
+                "classname": "dotted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/fibrous/fibrous_0151.jpg",
+                "label": 11,
+                "classname": "fibrous"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/fibrous/fibrous_0123.jpg",
+                "label": 11,
+                "classname": "fibrous"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/fibrous/fibrous_0206.jpg",
+                "label": 11,
+                "classname": "fibrous"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/fibrous/fibrous_0197.jpg",
+                "label": 11,
+                "classname": "fibrous"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/flecked/flecked_0041.jpg",
+                "label": 12,
+                "classname": "flecked"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/flecked/flecked_0157.jpg",
+                "label": 12,
+                "classname": "flecked"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/flecked/flecked_0055.jpg",
+                "label": 12,
+                "classname": "flecked"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/flecked/flecked_0070.jpg",
+                "label": 12,
+                "classname": "flecked"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/freckled/freckled_0076.jpg",
+                "label": 13,
+                "classname": "freckled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/freckled/freckled_0128.jpg",
+                "label": 13,
+                "classname": "freckled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/freckled/freckled_0091.jpg",
+                "label": 13,
+                "classname": "freckled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/freckled/freckled_0061.jpg",
+                "label": 13,
+                "classname": "freckled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/frilly/frilly_0104.jpg",
+                "label": 14,
+                "classname": "frilly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/frilly/frilly_0083.jpg",
+                "label": 14,
+                "classname": "frilly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/frilly/frilly_0111.jpg",
+                "label": 14,
+                "classname": "frilly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/frilly/frilly_0028.jpg",
+                "label": 14,
+                "classname": "frilly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/gauzy/gauzy_0198.jpg",
+                "label": 15,
+                "classname": "gauzy"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/gauzy/gauzy_0203.jpg",
+                "label": 15,
+                "classname": "gauzy"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/gauzy/gauzy_0089.jpg",
+                "label": 15,
+                "classname": "gauzy"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/gauzy/gauzy_0188.jpg",
+                "label": 15,
+                "classname": "gauzy"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/grid/grid_0050.jpg",
+                "label": 16,
+                "classname": "grid"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/grid/grid_0090.jpg",
+                "label": 16,
+                "classname": "grid"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/grid/grid_0113.jpg",
+                "label": 16,
+                "classname": "grid"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/grid/grid_0099.jpg",
+                "label": 16,
+                "classname": "grid"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/grooved/grooved_0156.jpg",
+                "label": 17,
+                "classname": "grooved"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/grooved/grooved_0083.jpg",
+                "label": 17,
+                "classname": "grooved"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/grooved/grooved_0104.jpg",
+                "label": 17,
+                "classname": "grooved"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/grooved/grooved_0096.jpg",
+                "label": 17,
+                "classname": "grooved"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/honeycombed/honeycombed_0069.jpg",
+                "label": 18,
+                "classname": "honeycombed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/honeycombed/honeycombed_0102.jpg",
+                "label": 18,
+                "classname": "honeycombed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/honeycombed/honeycombed_0081.jpg",
+                "label": 18,
+                "classname": "honeycombed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/honeycombed/honeycombed_0050.jpg",
+                "label": 18,
+                "classname": "honeycombed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/interlaced/interlaced_0123.jpg",
+                "label": 19,
+                "classname": "interlaced"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/interlaced/interlaced_0081.jpg",
+                "label": 19,
+                "classname": "interlaced"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/interlaced/interlaced_0180.jpg",
+                "label": 19,
+                "classname": "interlaced"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/interlaced/interlaced_0121.jpg",
+                "label": 19,
+                "classname": "interlaced"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/knitted/knitted_0192.jpg",
+                "label": 20,
+                "classname": "knitted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/knitted/knitted_0160.jpg",
+                "label": 20,
+                "classname": "knitted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/knitted/knitted_0098.jpg",
+                "label": 20,
+                "classname": "knitted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/knitted/knitted_0164.jpg",
+                "label": 20,
+                "classname": "knitted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/lacelike/lacelike_0080.jpg",
+                "label": 21,
+                "classname": "lacelike"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/lacelike/lacelike_0018.jpg",
+                "label": 21,
+                "classname": "lacelike"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/lacelike/lacelike_0061.jpg",
+                "label": 21,
+                "classname": "lacelike"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/lacelike/lacelike_0012.jpg",
+                "label": 21,
+                "classname": "lacelike"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/lined/lined_0071.jpg",
+                "label": 22,
+                "classname": "lined"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/lined/lined_0084.jpg",
+                "label": 22,
+                "classname": "lined"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/lined/lined_0045.jpg",
+                "label": 22,
+                "classname": "lined"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/lined/lined_0087.jpg",
+                "label": 22,
+                "classname": "lined"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/marbled/marbled_0189.jpg",
+                "label": 23,
+                "classname": "marbled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/marbled/marbled_0188.jpg",
+                "label": 23,
+                "classname": "marbled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/marbled/marbled_0131.jpg",
+                "label": 23,
+                "classname": "marbled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/marbled/marbled_0159.jpg",
+                "label": 23,
+                "classname": "marbled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/matted/matted_0147.jpg",
+                "label": 24,
+                "classname": "matted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/matted/matted_0087.jpg",
+                "label": 24,
+                "classname": "matted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/matted/matted_0028.jpg",
+                "label": 24,
+                "classname": "matted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/matted/matted_0163.jpg",
+                "label": 24,
+                "classname": "matted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/meshed/meshed_0139.jpg",
+                "label": 25,
+                "classname": "meshed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/meshed/meshed_0185.jpg",
+                "label": 25,
+                "classname": "meshed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/meshed/meshed_0149.jpg",
+                "label": 25,
+                "classname": "meshed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/meshed/meshed_0141.jpg",
+                "label": 25,
+                "classname": "meshed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/paisley/paisley_0069.jpg",
+                "label": 26,
+                "classname": "paisley"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/paisley/paisley_0054.jpg",
+                "label": 26,
+                "classname": "paisley"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/paisley/paisley_0033.jpg",
+                "label": 26,
+                "classname": "paisley"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/paisley/paisley_0058.jpg",
+                "label": 26,
+                "classname": "paisley"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/perforated/perforated_0013.jpg",
+                "label": 27,
+                "classname": "perforated"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/perforated/perforated_0123.jpg",
+                "label": 27,
+                "classname": "perforated"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/perforated/perforated_0169.jpg",
+                "label": 27,
+                "classname": "perforated"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/perforated/perforated_0133.jpg",
+                "label": 27,
+                "classname": "perforated"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/pitted/pitted_0109.jpg",
+                "label": 28,
+                "classname": "pitted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/pitted/pitted_0140.jpg",
+                "label": 28,
+                "classname": "pitted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/pitted/pitted_0059.jpg",
+                "label": 28,
+                "classname": "pitted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/pitted/pitted_0154.jpg",
+                "label": 28,
+                "classname": "pitted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/pleated/pleated_0065.jpg",
+                "label": 29,
+                "classname": "pleated"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/pleated/pleated_0170.jpg",
+                "label": 29,
+                "classname": "pleated"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/pleated/pleated_0062.jpg",
+                "label": 29,
+                "classname": "pleated"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/pleated/pleated_0167.jpg",
+                "label": 29,
+                "classname": "pleated"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/polka-dotted/polka-dotted_0032.jpg",
+                "label": 30,
+                "classname": "polka-dotted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/polka-dotted/polka-dotted_0118.jpg",
+                "label": 30,
+                "classname": "polka-dotted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/polka-dotted/polka-dotted_0206.jpg",
+                "label": 30,
+                "classname": "polka-dotted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/polka-dotted/polka-dotted_0174.jpg",
+                "label": 30,
+                "classname": "polka-dotted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/porous/porous_0169.jpg",
+                "label": 31,
+                "classname": "porous"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/porous/porous_0174.jpg",
+                "label": 31,
+                "classname": "porous"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/porous/porous_0168.jpg",
+                "label": 31,
+                "classname": "porous"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/porous/porous_0176.jpg",
+                "label": 31,
+                "classname": "porous"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/potholed/potholed_0091.jpg",
+                "label": 32,
+                "classname": "potholed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/potholed/potholed_0042.jpg",
+                "label": 32,
+                "classname": "potholed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/potholed/potholed_0098.jpg",
+                "label": 32,
+                "classname": "potholed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/potholed/potholed_0111.jpg",
+                "label": 32,
+                "classname": "potholed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/scaly/scaly_0152.jpg",
+                "label": 33,
+                "classname": "scaly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/scaly/scaly_0115.jpg",
+                "label": 33,
+                "classname": "scaly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/scaly/scaly_0127.jpg",
+                "label": 33,
+                "classname": "scaly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/scaly/scaly_0225.jpg",
+                "label": 33,
+                "classname": "scaly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/smeared/smeared_0093.jpg",
+                "label": 34,
+                "classname": "smeared"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/smeared/smeared_0106.jpg",
+                "label": 34,
+                "classname": "smeared"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/smeared/smeared_0133.jpg",
+                "label": 34,
+                "classname": "smeared"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/smeared/smeared_0120.jpg",
+                "label": 34,
+                "classname": "smeared"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/spiralled/spiralled_0109.jpg",
+                "label": 35,
+                "classname": "spiralled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/spiralled/spiralled_0131.jpg",
+                "label": 35,
+                "classname": "spiralled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/spiralled/spiralled_0081.jpg",
+                "label": 35,
+                "classname": "spiralled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/spiralled/spiralled_0025.jpg",
+                "label": 35,
+                "classname": "spiralled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/sprinkled/sprinkled_0093.jpg",
+                "label": 36,
+                "classname": "sprinkled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/sprinkled/sprinkled_0115.jpg",
+                "label": 36,
+                "classname": "sprinkled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/sprinkled/sprinkled_0013.jpg",
+                "label": 36,
+                "classname": "sprinkled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/sprinkled/sprinkled_0134.jpg",
+                "label": 36,
+                "classname": "sprinkled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/stained/stained_0052.jpg",
+                "label": 37,
+                "classname": "stained"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/stained/stained_0045.jpg",
+                "label": 37,
+                "classname": "stained"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/stained/stained_0088.jpg",
+                "label": 37,
+                "classname": "stained"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/stained/stained_0035.jpg",
+                "label": 37,
+                "classname": "stained"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/stratified/stratified_0115.jpg",
+                "label": 38,
+                "classname": "stratified"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/stratified/stratified_0093.jpg",
+                "label": 38,
+                "classname": "stratified"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/stratified/stratified_0161.jpg",
+                "label": 38,
+                "classname": "stratified"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/stratified/stratified_0069.jpg",
+                "label": 38,
+                "classname": "stratified"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/striped/striped_0020.jpg",
+                "label": 39,
+                "classname": "striped"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/striped/striped_0093.jpg",
+                "label": 39,
+                "classname": "striped"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/striped/striped_0025.jpg",
+                "label": 39,
+                "classname": "striped"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/striped/striped_0001.jpg",
+                "label": 39,
+                "classname": "striped"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/studded/studded_0202.jpg",
+                "label": 40,
+                "classname": "studded"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/studded/studded_0211.jpg",
+                "label": 40,
+                "classname": "studded"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/studded/studded_0127.jpg",
+                "label": 40,
+                "classname": "studded"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/studded/studded_0199.jpg",
+                "label": 40,
+                "classname": "studded"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/swirly/swirly_0098.jpg",
+                "label": 41,
+                "classname": "swirly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/swirly/swirly_0141.jpg",
+                "label": 41,
+                "classname": "swirly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/swirly/swirly_0062.jpg",
+                "label": 41,
+                "classname": "swirly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/swirly/swirly_0084.jpg",
+                "label": 41,
+                "classname": "swirly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/veined/veined_0180.jpg",
+                "label": 42,
+                "classname": "veined"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/veined/veined_0105.jpg",
+                "label": 42,
+                "classname": "veined"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/veined/veined_0156.jpg",
+                "label": 42,
+                "classname": "veined"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/veined/veined_0121.jpg",
+                "label": 42,
+                "classname": "veined"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/waffled/waffled_0176.jpg",
+                "label": 43,
+                "classname": "waffled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/waffled/waffled_0192.jpg",
+                "label": 43,
+                "classname": "waffled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/waffled/waffled_0070.jpg",
+                "label": 43,
+                "classname": "waffled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/waffled/waffled_0122.jpg",
+                "label": 43,
+                "classname": "waffled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/woven/woven_0027.jpg",
+                "label": 44,
+                "classname": "woven"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/woven/woven_0039.jpg",
+                "label": 44,
+                "classname": "woven"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/woven/woven_0067.jpg",
+                "label": 44,
+                "classname": "woven"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/woven/woven_0010.jpg",
+                "label": 44,
+                "classname": "woven"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/wrinkled/wrinkled_0111.jpg",
+                "label": 45,
+                "classname": "wrinkled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/wrinkled/wrinkled_0034.jpg",
+                "label": 45,
+                "classname": "wrinkled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/wrinkled/wrinkled_0040.jpg",
+                "label": 45,
+                "classname": "wrinkled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/wrinkled/wrinkled_0068.jpg",
+                "label": 45,
+                "classname": "wrinkled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/zigzagged/zigzagged_0101.jpg",
+                "label": 46,
+                "classname": "zigzagged"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/zigzagged/zigzagged_0058.jpg",
+                "label": 46,
+                "classname": "zigzagged"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/zigzagged/zigzagged_0070.jpg",
+                "label": 46,
+                "classname": "zigzagged"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/zigzagged/zigzagged_0050.jpg",
+                "label": 46,
+                "classname": "zigzagged"
+            }
+        ],
+        "indices": [
+            15,
+            19,
+            6,
+            46,
+            85,
+            90,
+            69,
+            65,
+            124,
+            121,
+            145,
+            155,
+            238,
+            198,
+            231,
+            228,
+            243,
+            254,
+            273,
+            274,
+            323,
+            317,
+            349,
+            311,
+            412,
+            366,
+            376,
+            373,
+            479,
+            421,
+            473,
+            461,
+            531,
+            496,
+            497,
+            492,
+            550,
+            559,
+            558,
+            580,
+            655,
+            646,
+            654,
+            656,
+            683,
+            665,
+            714,
+            698,
+            741,
+            762,
+            744,
+            752,
+            795,
+            791,
+            810,
+            797,
+            845,
+            899,
+            892,
+            895,
+            935,
+            953,
+            919,
+            900,
+            1018,
+            978,
+            996,
+            1005,
+            1076,
+            1039,
+            1074,
+            1068,
+            1112,
+            1092,
+            1106,
+            1107,
+            1178,
+            1158,
+            1167,
+            1168,
+            1210,
+            1214,
+            1219,
+            1216,
+            1312,
+            1311,
+            1262,
+            1265,
+            1322,
+            1349,
+            1360,
+            1337,
+            1413,
+            1414,
+            1421,
+            1410,
+            1484,
+            1461,
+            1449,
+            1483,
+            1512,
+            1504,
+            1526,
+            1558,
+            1572,
+            1600,
+            1588,
+            1577,
+            1631,
+            1642,
+            1647,
+            1667,
+            1717,
+            1700,
+            1720,
+            1715,
+            1752,
+            1797,
+            1760,
+            1746,
+            1853,
+            1803,
+            1845,
+            1814,
+            1877,
+            1908,
+            1897,
+            1899,
+            1975,
+            1935,
+            1927,
+            1941,
+            2039,
+            1991,
+            1998,
+            2009,
+            2041,
+            2042,
+            2062,
+            2084,
+            2105,
+            2157,
+            2118,
+            2147,
+            2203,
+            2180,
+            2161,
+            2178,
+            2240,
+            2229,
+            2269,
+            2261,
+            2306,
+            2335,
+            2319,
+            2323,
+            2392,
+            2344,
+            2358,
+            2379,
+            2412,
+            2457,
+            2428,
+            2418,
+            2468,
+            2476,
+            2484,
+            2498,
+            2530,
+            2541,
+            2556,
+            2520,
+            2603,
+            2582,
+            2609,
+            2590,
+            2663,
+            2690,
+            2691,
+            2658,
+            2736,
+            2706,
+            2728,
+            2713,
+            2787,
+            2818,
+            2773,
+            2767
+        ]
+    },
+    "val": {
+        "data": [
+            {
+                "impath": "data/CoOp/dtd/images/banded/banded_0145.jpg",
+                "label": 0,
+                "classname": "banded"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/banded/banded_0152.jpg",
+                "label": 0,
+                "classname": "banded"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/banded/banded_0012.jpg",
+                "label": 0,
+                "classname": "banded"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/banded/banded_0069.jpg",
+                "label": 0,
+                "classname": "banded"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/blotchy/blotchy_0068.jpg",
+                "label": 1,
+                "classname": "blotchy"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/blotchy/blotchy_0131.jpg",
+                "label": 1,
+                "classname": "blotchy"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/blotchy/blotchy_0117.jpg",
+                "label": 1,
+                "classname": "blotchy"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/blotchy/blotchy_0096.jpg",
+                "label": 1,
+                "classname": "blotchy"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/braided/braided_0148.jpg",
+                "label": 2,
+                "classname": "braided"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/braided/braided_0099.jpg",
+                "label": 2,
+                "classname": "braided"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/braided/braided_0139.jpg",
+                "label": 2,
+                "classname": "braided"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/braided/braided_0069.jpg",
+                "label": 2,
+                "classname": "braided"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/bubbly/bubbly_0171.jpg",
+                "label": 3,
+                "classname": "bubbly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/bubbly/bubbly_0051.jpg",
+                "label": 3,
+                "classname": "bubbly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/bubbly/bubbly_0113.jpg",
+                "label": 3,
+                "classname": "bubbly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/bubbly/bubbly_0079.jpg",
+                "label": 3,
+                "classname": "bubbly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/bumpy/bumpy_0185.jpg",
+                "label": 4,
+                "classname": "bumpy"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/bumpy/bumpy_0094.jpg",
+                "label": 4,
+                "classname": "bumpy"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/bumpy/bumpy_0115.jpg",
+                "label": 4,
+                "classname": "bumpy"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/bumpy/bumpy_0162.jpg",
+                "label": 4,
+                "classname": "bumpy"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/chequered/chequered_0108.jpg",
+                "label": 5,
+                "classname": "chequered"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/chequered/chequered_0157.jpg",
+                "label": 5,
+                "classname": "chequered"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/chequered/chequered_0209.jpg",
+                "label": 5,
+                "classname": "chequered"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/chequered/chequered_0169.jpg",
+                "label": 5,
+                "classname": "chequered"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/cobwebbed/cobwebbed_0118.jpg",
+                "label": 6,
+                "classname": "cobwebbed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/cobwebbed/cobwebbed_0052.jpg",
+                "label": 6,
+                "classname": "cobwebbed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/cobwebbed/cobwebbed_0128.jpg",
+                "label": 6,
+                "classname": "cobwebbed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/cobwebbed/cobwebbed_0061.jpg",
+                "label": 6,
+                "classname": "cobwebbed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/cracked/cracked_0075.jpg",
+                "label": 7,
+                "classname": "cracked"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/cracked/cracked_0136.jpg",
+                "label": 7,
+                "classname": "cracked"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/cracked/cracked_0076.jpg",
+                "label": 7,
+                "classname": "cracked"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/cracked/cracked_0154.jpg",
+                "label": 7,
+                "classname": "cracked"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/crosshatched/crosshatched_0151.jpg",
+                "label": 8,
+                "classname": "crosshatched"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/crosshatched/crosshatched_0169.jpg",
+                "label": 8,
+                "classname": "crosshatched"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/crosshatched/crosshatched_0107.jpg",
+                "label": 8,
+                "classname": "crosshatched"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/crosshatched/crosshatched_0045.jpg",
+                "label": 8,
+                "classname": "crosshatched"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/crystalline/crystalline_0193.jpg",
+                "label": 9,
+                "classname": "crystalline"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/crystalline/crystalline_0170.jpg",
+                "label": 9,
+                "classname": "crystalline"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/crystalline/crystalline_0189.jpg",
+                "label": 9,
+                "classname": "crystalline"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/crystalline/crystalline_0158.jpg",
+                "label": 9,
+                "classname": "crystalline"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/dotted/dotted_0112.jpg",
+                "label": 10,
+                "classname": "dotted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/dotted/dotted_0169.jpg",
+                "label": 10,
+                "classname": "dotted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/dotted/dotted_0203.jpg",
+                "label": 10,
+                "classname": "dotted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/dotted/dotted_0146.jpg",
+                "label": 10,
+                "classname": "dotted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/fibrous/fibrous_0089.jpg",
+                "label": 11,
+                "classname": "fibrous"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/fibrous/fibrous_0159.jpg",
+                "label": 11,
+                "classname": "fibrous"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/fibrous/fibrous_0083.jpg",
+                "label": 11,
+                "classname": "fibrous"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/fibrous/fibrous_0122.jpg",
+                "label": 11,
+                "classname": "fibrous"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/flecked/flecked_0090.jpg",
+                "label": 12,
+                "classname": "flecked"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/flecked/flecked_0124.jpg",
+                "label": 12,
+                "classname": "flecked"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/flecked/flecked_0165.jpg",
+                "label": 12,
+                "classname": "flecked"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/flecked/flecked_0003.jpg",
+                "label": 12,
+                "classname": "flecked"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/freckled/freckled_0158.jpg",
+                "label": 13,
+                "classname": "freckled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/freckled/freckled_0075.jpg",
+                "label": 13,
+                "classname": "freckled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/freckled/freckled_0080.jpg",
+                "label": 13,
+                "classname": "freckled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/freckled/freckled_0054.jpg",
+                "label": 13,
+                "classname": "freckled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/frilly/frilly_0042.jpg",
+                "label": 14,
+                "classname": "frilly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/frilly/frilly_0093.jpg",
+                "label": 14,
+                "classname": "frilly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/frilly/frilly_0071.jpg",
+                "label": 14,
+                "classname": "frilly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/frilly/frilly_0054.jpg",
+                "label": 14,
+                "classname": "frilly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/gauzy/gauzy_0152.jpg",
+                "label": 15,
+                "classname": "gauzy"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/gauzy/gauzy_0123.jpg",
+                "label": 15,
+                "classname": "gauzy"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/gauzy/gauzy_0106.jpg",
+                "label": 15,
+                "classname": "gauzy"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/gauzy/gauzy_0184.jpg",
+                "label": 15,
+                "classname": "gauzy"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/grid/grid_0016.jpg",
+                "label": 16,
+                "classname": "grid"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/grid/grid_0055.jpg",
+                "label": 16,
+                "classname": "grid"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/grid/grid_0066.jpg",
+                "label": 16,
+                "classname": "grid"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/grid/grid_0005.jpg",
+                "label": 16,
+                "classname": "grid"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/grooved/grooved_0165.jpg",
+                "label": 17,
+                "classname": "grooved"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/grooved/grooved_0054.jpg",
+                "label": 17,
+                "classname": "grooved"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/grooved/grooved_0067.jpg",
+                "label": 17,
+                "classname": "grooved"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/grooved/grooved_0135.jpg",
+                "label": 17,
+                "classname": "grooved"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/honeycombed/honeycombed_0053.jpg",
+                "label": 18,
+                "classname": "honeycombed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/honeycombed/honeycombed_0172.jpg",
+                "label": 18,
+                "classname": "honeycombed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/honeycombed/honeycombed_0092.jpg",
+                "label": 18,
+                "classname": "honeycombed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/honeycombed/honeycombed_0121.jpg",
+                "label": 18,
+                "classname": "honeycombed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/interlaced/interlaced_0149.jpg",
+                "label": 19,
+                "classname": "interlaced"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/interlaced/interlaced_0147.jpg",
+                "label": 19,
+                "classname": "interlaced"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/interlaced/interlaced_0113.jpg",
+                "label": 19,
+                "classname": "interlaced"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/interlaced/interlaced_0101.jpg",
+                "label": 19,
+                "classname": "interlaced"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/knitted/knitted_0201.jpg",
+                "label": 20,
+                "classname": "knitted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/knitted/knitted_0159.jpg",
+                "label": 20,
+                "classname": "knitted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/knitted/knitted_0110.jpg",
+                "label": 20,
+                "classname": "knitted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/knitted/knitted_0203.jpg",
+                "label": 20,
+                "classname": "knitted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/lacelike/lacelike_0041.jpg",
+                "label": 21,
+                "classname": "lacelike"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/lacelike/lacelike_0022.jpg",
+                "label": 21,
+                "classname": "lacelike"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/lacelike/lacelike_0024.jpg",
+                "label": 21,
+                "classname": "lacelike"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/lacelike/lacelike_0065.jpg",
+                "label": 21,
+                "classname": "lacelike"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/lined/lined_0131.jpg",
+                "label": 22,
+                "classname": "lined"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/lined/lined_0038.jpg",
+                "label": 22,
+                "classname": "lined"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/lined/lined_0043.jpg",
+                "label": 22,
+                "classname": "lined"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/lined/lined_0122.jpg",
+                "label": 22,
+                "classname": "lined"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/marbled/marbled_0086.jpg",
+                "label": 23,
+                "classname": "marbled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/marbled/marbled_0176.jpg",
+                "label": 23,
+                "classname": "marbled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/marbled/marbled_0169.jpg",
+                "label": 23,
+                "classname": "marbled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/marbled/marbled_0126.jpg",
+                "label": 23,
+                "classname": "marbled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/matted/matted_0142.jpg",
+                "label": 24,
+                "classname": "matted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/matted/matted_0145.jpg",
+                "label": 24,
+                "classname": "matted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/matted/matted_0057.jpg",
+                "label": 24,
+                "classname": "matted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/matted/matted_0107.jpg",
+                "label": 24,
+                "classname": "matted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/meshed/meshed_0101.jpg",
+                "label": 25,
+                "classname": "meshed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/meshed/meshed_0128.jpg",
+                "label": 25,
+                "classname": "meshed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/meshed/meshed_0055.jpg",
+                "label": 25,
+                "classname": "meshed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/meshed/meshed_0089.jpg",
+                "label": 25,
+                "classname": "meshed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/paisley/paisley_0056.jpg",
+                "label": 26,
+                "classname": "paisley"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/paisley/paisley_0027.jpg",
+                "label": 26,
+                "classname": "paisley"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/paisley/paisley_0022.jpg",
+                "label": 26,
+                "classname": "paisley"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/paisley/paisley_0127.jpg",
+                "label": 26,
+                "classname": "paisley"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/perforated/perforated_0119.jpg",
+                "label": 27,
+                "classname": "perforated"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/perforated/perforated_0102.jpg",
+                "label": 27,
+                "classname": "perforated"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/perforated/perforated_0043.jpg",
+                "label": 27,
+                "classname": "perforated"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/perforated/perforated_0124.jpg",
+                "label": 27,
+                "classname": "perforated"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/pitted/pitted_0104.jpg",
+                "label": 28,
+                "classname": "pitted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/pitted/pitted_0125.jpg",
+                "label": 28,
+                "classname": "pitted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/pitted/pitted_0071.jpg",
+                "label": 28,
+                "classname": "pitted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/pitted/pitted_0136.jpg",
+                "label": 28,
+                "classname": "pitted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/pleated/pleated_0047.jpg",
+                "label": 29,
+                "classname": "pleated"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/pleated/pleated_0049.jpg",
+                "label": 29,
+                "classname": "pleated"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/pleated/pleated_0159.jpg",
+                "label": 29,
+                "classname": "pleated"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/pleated/pleated_0111.jpg",
+                "label": 29,
+                "classname": "pleated"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/polka-dotted/polka-dotted_0203.jpg",
+                "label": 30,
+                "classname": "polka-dotted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/polka-dotted/polka-dotted_0156.jpg",
+                "label": 30,
+                "classname": "polka-dotted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/polka-dotted/polka-dotted_0196.jpg",
+                "label": 30,
+                "classname": "polka-dotted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/polka-dotted/polka-dotted_0195.jpg",
+                "label": 30,
+                "classname": "polka-dotted"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/porous/porous_0118.jpg",
+                "label": 31,
+                "classname": "porous"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/porous/porous_0170.jpg",
+                "label": 31,
+                "classname": "porous"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/porous/porous_0100.jpg",
+                "label": 31,
+                "classname": "porous"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/porous/porous_0073.jpg",
+                "label": 31,
+                "classname": "porous"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/potholed/potholed_0119.jpg",
+                "label": 32,
+                "classname": "potholed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/potholed/potholed_0152.jpg",
+                "label": 32,
+                "classname": "potholed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/potholed/potholed_0167.jpg",
+                "label": 32,
+                "classname": "potholed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/potholed/potholed_0162.jpg",
+                "label": 32,
+                "classname": "potholed"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/scaly/scaly_0177.jpg",
+                "label": 33,
+                "classname": "scaly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/scaly/scaly_0205.jpg",
+                "label": 33,
+                "classname": "scaly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/scaly/scaly_0142.jpg",
+                "label": 33,
+                "classname": "scaly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/scaly/scaly_0207.jpg",
+                "label": 33,
+                "classname": "scaly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/smeared/smeared_0142.jpg",
+                "label": 34,
+                "classname": "smeared"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/smeared/smeared_0017.jpg",
+                "label": 34,
+                "classname": "smeared"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/smeared/smeared_0125.jpg",
+                "label": 34,
+                "classname": "smeared"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/smeared/smeared_0077.jpg",
+                "label": 34,
+                "classname": "smeared"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/spiralled/spiralled_0101.jpg",
+                "label": 35,
+                "classname": "spiralled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/spiralled/spiralled_0068.jpg",
+                "label": 35,
+                "classname": "spiralled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/spiralled/spiralled_0036.jpg",
+                "label": 35,
+                "classname": "spiralled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/spiralled/spiralled_0094.jpg",
+                "label": 35,
+                "classname": "spiralled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/sprinkled/sprinkled_0138.jpg",
+                "label": 36,
+                "classname": "sprinkled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/sprinkled/sprinkled_0040.jpg",
+                "label": 36,
+                "classname": "sprinkled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/sprinkled/sprinkled_0034.jpg",
+                "label": 36,
+                "classname": "sprinkled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/sprinkled/sprinkled_0112.jpg",
+                "label": 36,
+                "classname": "sprinkled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/stained/stained_0108.jpg",
+                "label": 37,
+                "classname": "stained"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/stained/stained_0067.jpg",
+                "label": 37,
+                "classname": "stained"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/stained/stained_0094.jpg",
+                "label": 37,
+                "classname": "stained"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/stained/stained_0044.jpg",
+                "label": 37,
+                "classname": "stained"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/stratified/stratified_0166.jpg",
+                "label": 38,
+                "classname": "stratified"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/stratified/stratified_0159.jpg",
+                "label": 38,
+                "classname": "stratified"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/stratified/stratified_0072.jpg",
+                "label": 38,
+                "classname": "stratified"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/stratified/stratified_0114.jpg",
+                "label": 38,
+                "classname": "stratified"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/striped/striped_0065.jpg",
+                "label": 39,
+                "classname": "striped"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/striped/striped_0023.jpg",
+                "label": 39,
+                "classname": "striped"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/striped/striped_0021.jpg",
+                "label": 39,
+                "classname": "striped"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/striped/striped_0083.jpg",
+                "label": 39,
+                "classname": "striped"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/studded/studded_0054.jpg",
+                "label": 40,
+                "classname": "studded"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/studded/studded_0215.jpg",
+                "label": 40,
+                "classname": "studded"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/studded/studded_0162.jpg",
+                "label": 40,
+                "classname": "studded"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/studded/studded_0212.jpg",
+                "label": 40,
+                "classname": "studded"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/swirly/swirly_0165.jpg",
+                "label": 41,
+                "classname": "swirly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/swirly/swirly_0170.jpg",
+                "label": 41,
+                "classname": "swirly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/swirly/swirly_0158.jpg",
+                "label": 41,
+                "classname": "swirly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/swirly/swirly_0153.jpg",
+                "label": 41,
+                "classname": "swirly"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/veined/veined_0148.jpg",
+                "label": 42,
+                "classname": "veined"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/veined/veined_0123.jpg",
+                "label": 42,
+                "classname": "veined"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/veined/veined_0120.jpg",
+                "label": 42,
+                "classname": "veined"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/veined/veined_0092.jpg",
+                "label": 42,
+                "classname": "veined"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/waffled/waffled_0068.jpg",
+                "label": 43,
+                "classname": "waffled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/waffled/waffled_0127.jpg",
+                "label": 43,
+                "classname": "waffled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/waffled/waffled_0144.jpg",
+                "label": 43,
+                "classname": "waffled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/waffled/waffled_0104.jpg",
+                "label": 43,
+                "classname": "waffled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/woven/woven_0058.jpg",
+                "label": 44,
+                "classname": "woven"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/woven/woven_0061.jpg",
+                "label": 44,
+                "classname": "woven"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/woven/woven_0054.jpg",
+                "label": 44,
+                "classname": "woven"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/woven/woven_0128.jpg",
+                "label": 44,
+                "classname": "woven"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/wrinkled/wrinkled_0045.jpg",
+                "label": 45,
+                "classname": "wrinkled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/wrinkled/wrinkled_0137.jpg",
+                "label": 45,
+                "classname": "wrinkled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/wrinkled/wrinkled_0029.jpg",
+                "label": 45,
+                "classname": "wrinkled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/wrinkled/wrinkled_0070.jpg",
+                "label": 45,
+                "classname": "wrinkled"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/zigzagged/zigzagged_0063.jpg",
+                "label": 46,
+                "classname": "zigzagged"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/zigzagged/zigzagged_0049.jpg",
+                "label": 46,
+                "classname": "zigzagged"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/zigzagged/zigzagged_0043.jpg",
+                "label": 46,
+                "classname": "zigzagged"
+            },
+            {
+                "impath": "data/CoOp/dtd/images/zigzagged/zigzagged_0064.jpg",
+                "label": 46,
+                "classname": "zigzagged"
+            }
+        ],
+        "indices": [
+            1,
+            23,
+            5,
+            19,
+            45,
+            28,
+            43,
+            25,
+            65,
+            63,
+            66,
+            55,
+            82,
+            73,
+            75,
+            88,
+            105,
+            109,
+            116,
+            102,
+            135,
+            126,
+            127,
+            134,
+            157,
+            159,
+            145,
+            151,
+            181,
+            182,
+            175,
+            188,
+            205,
+            198,
+            207,
+            193,
+            217,
+            224,
+            223,
+            232,
+            246,
+            247,
+            253,
+            248,
+            268,
+            274,
+            265,
+            282,
+            291,
+            306,
+            300,
+            308,
+            332,
+            334,
+            335,
+            313,
+            351,
+            348,
+            338,
+            349,
+            366,
+            378,
+            365,
+            370,
+            393,
+            405,
+            399,
+            404,
+            418,
+            421,
+            424,
+            414,
+            452,
+            453,
+            440,
+            442,
+            468,
+            471,
+            458,
+            464,
+            500,
+            501,
+            486,
+            481,
+            516,
+            523,
+            508,
+            512,
+            549,
+            529,
+            533,
+            550,
+            572,
+            566,
+            570,
+            567,
+            599,
+            588,
+            582,
+            576,
+            606,
+            605,
+            600,
+            619,
+            632,
+            627,
+            636,
+            631,
+            665,
+            649,
+            654,
+            653,
+            693,
+            691,
+            682,
+            689,
+            711,
+            712,
+            710,
+            696,
+            722,
+            721,
+            742,
+            739,
+            747,
+            759,
+            761,
+            752,
+            787,
+            772,
+            769,
+            779,
+            794,
+            808,
+            792,
+            801,
+            827,
+            818,
+            833,
+            830,
+            852,
+            846,
+            849,
+            847,
+            879,
+            876,
+            867,
+            866,
+            891,
+            907,
+            899,
+            904,
+            925,
+            934,
+            926,
+            914,
+            956,
+            942,
+            945,
+            951,
+            973,
+            963,
+            977,
+            965,
+            995,
+            989,
+            1006,
+            988,
+            1018,
+            1023,
+            1016,
+            1025,
+            1032,
+            1054,
+            1037,
+            1052,
+            1065,
+            1059,
+            1073,
+            1071,
+            1102,
+            1099,
+            1095,
+            1096,
+            1106,
+            1120,
+            1111,
+            1117
+        ]
+    }
+}

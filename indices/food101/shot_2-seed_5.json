@@ -1,0 +1,2438 @@
+{
+    "train": {
+        "data": [
+            {
+                "impath": "data/CoOp/food-101/images/apple_pie/1361950.jpg",
+                "label": 0,
+                "classname": "apple_pie"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/apple_pie/3772671.jpg",
+                "label": 0,
+                "classname": "apple_pie"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/baby_back_ribs/1140712.jpg",
+                "label": 1,
+                "classname": "baby_back_ribs"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/baby_back_ribs/1334446.jpg",
+                "label": 1,
+                "classname": "baby_back_ribs"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/baklava/3400877.jpg",
+                "label": 2,
+                "classname": "baklava"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/baklava/2156244.jpg",
+                "label": 2,
+                "classname": "baklava"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/beef_carpaccio/2503017.jpg",
+                "label": 3,
+                "classname": "beef_carpaccio"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/beef_carpaccio/2959423.jpg",
+                "label": 3,
+                "classname": "beef_carpaccio"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/beef_tartare/2470762.jpg",
+                "label": 4,
+                "classname": "beef_tartare"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/beef_tartare/2496364.jpg",
+                "label": 4,
+                "classname": "beef_tartare"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/beet_salad/3024728.jpg",
+                "label": 5,
+                "classname": "beet_salad"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/beet_salad/216658.jpg",
+                "label": 5,
+                "classname": "beet_salad"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/beignets/3468005.jpg",
+                "label": 6,
+                "classname": "beignets"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/beignets/79149.jpg",
+                "label": 6,
+                "classname": "beignets"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/bibimbap/3005097.jpg",
+                "label": 7,
+                "classname": "bibimbap"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/bibimbap/338795.jpg",
+                "label": 7,
+                "classname": "bibimbap"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/bread_pudding/518791.jpg",
+                "label": 8,
+                "classname": "bread_pudding"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/bread_pudding/1511978.jpg",
+                "label": 8,
+                "classname": "bread_pudding"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/breakfast_burrito/1386823.jpg",
+                "label": 9,
+                "classname": "breakfast_burrito"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/breakfast_burrito/92985.jpg",
+                "label": 9,
+                "classname": "breakfast_burrito"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/bruschetta/1605970.jpg",
+                "label": 10,
+                "classname": "bruschetta"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/bruschetta/726565.jpg",
+                "label": 10,
+                "classname": "bruschetta"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/caesar_salad/918891.jpg",
+                "label": 11,
+                "classname": "caesar_salad"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/caesar_salad/3003064.jpg",
+                "label": 11,
+                "classname": "caesar_salad"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/cannoli/2907184.jpg",
+                "label": 12,
+                "classname": "cannoli"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/cannoli/3683166.jpg",
+                "label": 12,
+                "classname": "cannoli"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/caprese_salad/244248.jpg",
+                "label": 13,
+                "classname": "caprese_salad"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/caprese_salad/680059.jpg",
+                "label": 13,
+                "classname": "caprese_salad"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/carrot_cake/107734.jpg",
+                "label": 14,
+                "classname": "carrot_cake"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/carrot_cake/841530.jpg",
+                "label": 14,
+                "classname": "carrot_cake"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/ceviche/3663994.jpg",
+                "label": 15,
+                "classname": "ceviche"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/ceviche/2089558.jpg",
+                "label": 15,
+                "classname": "ceviche"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/cheese_plate/3582443.jpg",
+                "label": 16,
+                "classname": "cheese_plate"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/cheese_plate/1337779.jpg",
+                "label": 16,
+                "classname": "cheese_plate"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/cheesecake/2307118.jpg",
+                "label": 17,
+                "classname": "cheesecake"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/cheesecake/3121053.jpg",
+                "label": 17,
+                "classname": "cheesecake"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/chicken_curry/214335.jpg",
+                "label": 18,
+                "classname": "chicken_curry"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/chicken_curry/3506313.jpg",
+                "label": 18,
+                "classname": "chicken_curry"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/chicken_quesadilla/1883838.jpg",
+                "label": 19,
+                "classname": "chicken_quesadilla"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/chicken_quesadilla/2049342.jpg",
+                "label": 19,
+                "classname": "chicken_quesadilla"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/chicken_wings/3533706.jpg",
+                "label": 20,
+                "classname": "chicken_wings"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/chicken_wings/1891536.jpg",
+                "label": 20,
+                "classname": "chicken_wings"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/chocolate_cake/149856.jpg",
+                "label": 21,
+                "classname": "chocolate_cake"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/chocolate_cake/260920.jpg",
+                "label": 21,
+                "classname": "chocolate_cake"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/chocolate_mousse/1409185.jpg",
+                "label": 22,
+                "classname": "chocolate_mousse"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/chocolate_mousse/2712440.jpg",
+                "label": 22,
+                "classname": "chocolate_mousse"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/churros/2264940.jpg",
+                "label": 23,
+                "classname": "churros"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/churros/645966.jpg",
+                "label": 23,
+                "classname": "churros"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/clam_chowder/24211.jpg",
+                "label": 24,
+                "classname": "clam_chowder"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/clam_chowder/1640772.jpg",
+                "label": 24,
+                "classname": "clam_chowder"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/club_sandwich/250937.jpg",
+                "label": 25,
+                "classname": "club_sandwich"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/club_sandwich/3064357.jpg",
+                "label": 25,
+                "classname": "club_sandwich"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/crab_cakes/1244695.jpg",
+                "label": 26,
+                "classname": "crab_cakes"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/crab_cakes/1865920.jpg",
+                "label": 26,
+                "classname": "crab_cakes"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/creme_brulee/2405262.jpg",
+                "label": 27,
+                "classname": "creme_brulee"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/creme_brulee/2003614.jpg",
+                "label": 27,
+                "classname": "creme_brulee"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/croque_madame/3260092.jpg",
+                "label": 28,
+                "classname": "croque_madame"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/croque_madame/1497073.jpg",
+                "label": 28,
+                "classname": "croque_madame"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/cup_cakes/322870.jpg",
+                "label": 29,
+                "classname": "cup_cakes"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/cup_cakes/570457.jpg",
+                "label": 29,
+                "classname": "cup_cakes"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/deviled_eggs/1073111.jpg",
+                "label": 30,
+                "classname": "deviled_eggs"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/deviled_eggs/281894.jpg",
+                "label": 30,
+                "classname": "deviled_eggs"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/donuts/108879.jpg",
+                "label": 31,
+                "classname": "donuts"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/donuts/2901287.jpg",
+                "label": 31,
+                "classname": "donuts"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/dumplings/11823.jpg",
+                "label": 32,
+                "classname": "dumplings"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/dumplings/3657198.jpg",
+                "label": 32,
+                "classname": "dumplings"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/edamame/2556744.jpg",
+                "label": 33,
+                "classname": "edamame"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/edamame/17923.jpg",
+                "label": 33,
+                "classname": "edamame"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/eggs_benedict/1836686.jpg",
+                "label": 34,
+                "classname": "eggs_benedict"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/eggs_benedict/3803684.jpg",
+                "label": 34,
+                "classname": "eggs_benedict"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/escargots/3299869.jpg",
+                "label": 35,
+                "classname": "escargots"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/escargots/225653.jpg",
+                "label": 35,
+                "classname": "escargots"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/falafel/845854.jpg",
+                "label": 36,
+                "classname": "falafel"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/falafel/3783359.jpg",
+                "label": 36,
+                "classname": "falafel"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/filet_mignon/129899.jpg",
+                "label": 37,
+                "classname": "filet_mignon"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/filet_mignon/742711.jpg",
+                "label": 37,
+                "classname": "filet_mignon"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/fish_and_chips/141802.jpg",
+                "label": 38,
+                "classname": "fish_and_chips"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/fish_and_chips/195363.jpg",
+                "label": 38,
+                "classname": "fish_and_chips"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/foie_gras/557653.jpg",
+                "label": 39,
+                "classname": "foie_gras"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/foie_gras/3719908.jpg",
+                "label": 39,
+                "classname": "foie_gras"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/french_fries/370033.jpg",
+                "label": 40,
+                "classname": "french_fries"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/french_fries/765816.jpg",
+                "label": 40,
+                "classname": "french_fries"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/french_onion_soup/2141945.jpg",
+                "label": 41,
+                "classname": "french_onion_soup"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/french_onion_soup/1979263.jpg",
+                "label": 41,
+                "classname": "french_onion_soup"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/french_toast/256046.jpg",
+                "label": 42,
+                "classname": "french_toast"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/french_toast/2533516.jpg",
+                "label": 42,
+                "classname": "french_toast"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/fried_calamari/2353922.jpg",
+                "label": 43,
+                "classname": "fried_calamari"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/fried_calamari/1745551.jpg",
+                "label": 43,
+                "classname": "fried_calamari"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/fried_rice/443678.jpg",
+                "label": 44,
+                "classname": "fried_rice"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/fried_rice/894741.jpg",
+                "label": 44,
+                "classname": "fried_rice"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/frozen_yogurt/901794.jpg",
+                "label": 45,
+                "classname": "frozen_yogurt"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/frozen_yogurt/2078538.jpg",
+                "label": 45,
+                "classname": "frozen_yogurt"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/garlic_bread/2981042.jpg",
+                "label": 46,
+                "classname": "garlic_bread"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/garlic_bread/71366.jpg",
+                "label": 46,
+                "classname": "garlic_bread"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/gnocchi/170018.jpg",
+                "label": 47,
+                "classname": "gnocchi"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/gnocchi/1034178.jpg",
+                "label": 47,
+                "classname": "gnocchi"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/greek_salad/729706.jpg",
+                "label": 48,
+                "classname": "greek_salad"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/greek_salad/18375.jpg",
+                "label": 48,
+                "classname": "greek_salad"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/grilled_cheese_sandwich/627707.jpg",
+                "label": 49,
+                "classname": "grilled_cheese_sandwich"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/grilled_cheese_sandwich/150367.jpg",
+                "label": 49,
+                "classname": "grilled_cheese_sandwich"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/grilled_salmon/2152214.jpg",
+                "label": 50,
+                "classname": "grilled_salmon"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/grilled_salmon/3130214.jpg",
+                "label": 50,
+                "classname": "grilled_salmon"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/guacamole/383800.jpg",
+                "label": 51,
+                "classname": "guacamole"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/guacamole/860920.jpg",
+                "label": 51,
+                "classname": "guacamole"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/gyoza/1592092.jpg",
+                "label": 52,
+                "classname": "gyoza"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/gyoza/2115877.jpg",
+                "label": 52,
+                "classname": "gyoza"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/hamburger/2363407.jpg",
+                "label": 53,
+                "classname": "hamburger"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/hamburger/340982.jpg",
+                "label": 53,
+                "classname": "hamburger"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/hot_and_sour_soup/1653899.jpg",
+                "label": 54,
+                "classname": "hot_and_sour_soup"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/hot_and_sour_soup/184398.jpg",
+                "label": 54,
+                "classname": "hot_and_sour_soup"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/hot_dog/2699758.jpg",
+                "label": 55,
+                "classname": "hot_dog"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/hot_dog/3842701.jpg",
+                "label": 55,
+                "classname": "hot_dog"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/huevos_rancheros/304175.jpg",
+                "label": 56,
+                "classname": "huevos_rancheros"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/huevos_rancheros/383069.jpg",
+                "label": 56,
+                "classname": "huevos_rancheros"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/hummus/3446566.jpg",
+                "label": 57,
+                "classname": "hummus"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/hummus/2661058.jpg",
+                "label": 57,
+                "classname": "hummus"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/ice_cream/506864.jpg",
+                "label": 58,
+                "classname": "ice_cream"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/ice_cream/1831501.jpg",
+                "label": 58,
+                "classname": "ice_cream"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/lasagna/2674203.jpg",
+                "label": 59,
+                "classname": "lasagna"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/lasagna/2206713.jpg",
+                "label": 59,
+                "classname": "lasagna"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/lobster_bisque/136816.jpg",
+                "label": 60,
+                "classname": "lobster_bisque"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/lobster_bisque/3401766.jpg",
+                "label": 60,
+                "classname": "lobster_bisque"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/lobster_roll_sandwich/1755778.jpg",
+                "label": 61,
+                "classname": "lobster_roll_sandwich"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/lobster_roll_sandwich/3902855.jpg",
+                "label": 61,
+                "classname": "lobster_roll_sandwich"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/macaroni_and_cheese/2549583.jpg",
+                "label": 62,
+                "classname": "macaroni_and_cheese"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/macaroni_and_cheese/945519.jpg",
+                "label": 62,
+                "classname": "macaroni_and_cheese"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/macarons/2292171.jpg",
+                "label": 63,
+                "classname": "macarons"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/macarons/1356430.jpg",
+                "label": 63,
+                "classname": "macarons"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/miso_soup/992661.jpg",
+                "label": 64,
+                "classname": "miso_soup"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/miso_soup/2196784.jpg",
+                "label": 64,
+                "classname": "miso_soup"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/mussels/2625250.jpg",
+                "label": 65,
+                "classname": "mussels"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/mussels/1203385.jpg",
+                "label": 65,
+                "classname": "mussels"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/nachos/718227.jpg",
+                "label": 66,
+                "classname": "nachos"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/nachos/1697197.jpg",
+                "label": 66,
+                "classname": "nachos"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/omelette/3623911.jpg",
+                "label": 67,
+                "classname": "omelette"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/omelette/3167832.jpg",
+                "label": 67,
+                "classname": "omelette"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/onion_rings/2002682.jpg",
+                "label": 68,
+                "classname": "onion_rings"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/onion_rings/2596740.jpg",
+                "label": 68,
+                "classname": "onion_rings"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/oysters/543282.jpg",
+                "label": 69,
+                "classname": "oysters"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/oysters/1131087.jpg",
+                "label": 69,
+                "classname": "oysters"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/pad_thai/1318642.jpg",
+                "label": 70,
+                "classname": "pad_thai"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/pad_thai/2865665.jpg",
+                "label": 70,
+                "classname": "pad_thai"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/paella/2215136.jpg",
+                "label": 71,
+                "classname": "paella"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/paella/3587821.jpg",
+                "label": 71,
+                "classname": "paella"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/pancakes/152680.jpg",
+                "label": 72,
+                "classname": "pancakes"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/pancakes/1211521.jpg",
+                "label": 72,
+                "classname": "pancakes"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/panna_cotta/477914.jpg",
+                "label": 73,
+                "classname": "panna_cotta"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/panna_cotta/3716939.jpg",
+                "label": 73,
+                "classname": "panna_cotta"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/peking_duck/3369310.jpg",
+                "label": 74,
+                "classname": "peking_duck"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/peking_duck/996237.jpg",
+                "label": 74,
+                "classname": "peking_duck"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/pho/607563.jpg",
+                "label": 75,
+                "classname": "pho"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/pho/271930.jpg",
+                "label": 75,
+                "classname": "pho"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/pizza/2880804.jpg",
+                "label": 76,
+                "classname": "pizza"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/pizza/2448844.jpg",
+                "label": 76,
+                "classname": "pizza"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/pork_chop/2853512.jpg",
+                "label": 77,
+                "classname": "pork_chop"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/pork_chop/1252633.jpg",
+                "label": 77,
+                "classname": "pork_chop"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/poutine/883850.jpg",
+                "label": 78,
+                "classname": "poutine"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/poutine/417172.jpg",
+                "label": 78,
+                "classname": "poutine"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/prime_rib/1695150.jpg",
+                "label": 79,
+                "classname": "prime_rib"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/prime_rib/146736.jpg",
+                "label": 79,
+                "classname": "prime_rib"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/pulled_pork_sandwich/2069170.jpg",
+                "label": 80,
+                "classname": "pulled_pork_sandwich"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/pulled_pork_sandwich/297605.jpg",
+                "label": 80,
+                "classname": "pulled_pork_sandwich"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/ramen/1440387.jpg",
+                "label": 81,
+                "classname": "ramen"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/ramen/2160495.jpg",
+                "label": 81,
+                "classname": "ramen"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/ravioli/1698506.jpg",
+                "label": 82,
+                "classname": "ravioli"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/ravioli/1113634.jpg",
+                "label": 82,
+                "classname": "ravioli"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/red_velvet_cake/1279628.jpg",
+                "label": 83,
+                "classname": "red_velvet_cake"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/red_velvet_cake/411450.jpg",
+                "label": 83,
+                "classname": "red_velvet_cake"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/risotto/1481017.jpg",
+                "label": 84,
+                "classname": "risotto"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/risotto/3375339.jpg",
+                "label": 84,
+                "classname": "risotto"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/samosa/3134226.jpg",
+                "label": 85,
+                "classname": "samosa"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/samosa/2373677.jpg",
+                "label": 85,
+                "classname": "samosa"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/sashimi/2294141.jpg",
+                "label": 86,
+                "classname": "sashimi"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/sashimi/211460.jpg",
+                "label": 86,
+                "classname": "sashimi"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/scallops/3575162.jpg",
+                "label": 87,
+                "classname": "scallops"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/scallops/3339417.jpg",
+                "label": 87,
+                "classname": "scallops"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/seaweed_salad/2045754.jpg",
+                "label": 88,
+                "classname": "seaweed_salad"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/seaweed_salad/2673270.jpg",
+                "label": 88,
+                "classname": "seaweed_salad"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/shrimp_and_grits/1224473.jpg",
+                "label": 89,
+                "classname": "shrimp_and_grits"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/shrimp_and_grits/2645405.jpg",
+                "label": 89,
+                "classname": "shrimp_and_grits"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/spaghetti_bolognese/1236785.jpg",
+                "label": 90,
+                "classname": "spaghetti_bolognese"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/spaghetti_bolognese/1712190.jpg",
+                "label": 90,
+                "classname": "spaghetti_bolognese"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/spaghetti_carbonara/3139962.jpg",
+                "label": 91,
+                "classname": "spaghetti_carbonara"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/spaghetti_carbonara/3219862.jpg",
+                "label": 91,
+                "classname": "spaghetti_carbonara"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/spring_rolls/669188.jpg",
+                "label": 92,
+                "classname": "spring_rolls"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/spring_rolls/376713.jpg",
+                "label": 92,
+                "classname": "spring_rolls"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/steak/2544643.jpg",
+                "label": 93,
+                "classname": "steak"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/steak/2489716.jpg",
+                "label": 93,
+                "classname": "steak"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/strawberry_shortcake/3819927.jpg",
+                "label": 94,
+                "classname": "strawberry_shortcake"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/strawberry_shortcake/3330574.jpg",
+                "label": 94,
+                "classname": "strawberry_shortcake"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/sushi/1341510.jpg",
+                "label": 95,
+                "classname": "sushi"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/sushi/3081962.jpg",
+                "label": 95,
+                "classname": "sushi"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/tacos/1635285.jpg",
+                "label": 96,
+                "classname": "tacos"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/tacos/3884320.jpg",
+                "label": 96,
+                "classname": "tacos"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/takoyaki/1232964.jpg",
+                "label": 97,
+                "classname": "takoyaki"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/takoyaki/1921095.jpg",
+                "label": 97,
+                "classname": "takoyaki"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/tiramisu/3774133.jpg",
+                "label": 98,
+                "classname": "tiramisu"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/tiramisu/162528.jpg",
+                "label": 98,
+                "classname": "tiramisu"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/tuna_tartare/1868121.jpg",
+                "label": 99,
+                "classname": "tuna_tartare"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/tuna_tartare/3746815.jpg",
+                "label": 99,
+                "classname": "tuna_tartare"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/waffles/923472.jpg",
+                "label": 100,
+                "classname": "waffles"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/waffles/3505188.jpg",
+                "label": 100,
+                "classname": "waffles"
+            }
+        ],
+        "indices": [
+            318,
+            130,
+            879,
+            683,
+            1407,
+            1353,
+            1982,
+            1930,
+            2378,
+            2333,
+            2972,
+            2771,
+            3014,
+            3430,
+            3738,
+            3897,
+            4482,
+            4127,
+            4832,
+            4526,
+            5461,
+            5080,
+            5557,
+            5690,
+            6240,
+            6444,
+            6626,
+            6694,
+            7278,
+            7052,
+            7793,
+            7627,
+            8006,
+            8374,
+            8610,
+            8708,
+            9143,
+            9093,
+            9969,
+            9944,
+            10392,
+            10199,
+            10581,
+            10890,
+            11408,
+            11036,
+            11571,
+            11816,
+            12316,
+            12227,
+            12564,
+            12567,
+            13000,
+            13497,
+            13946,
+            13502,
+            14107,
+            14396,
+            14610,
+            14991,
+            15084,
+            15446,
+            15585,
+            15648,
+            16160,
+            16492,
+            16601,
+            16776,
+            17448,
+            17347,
+            17820,
+            17604,
+            18093,
+            18481,
+            18995,
+            18853,
+            19100,
+            19494,
+            19994,
+            19957,
+            20196,
+            20152,
+            20511,
+            20684,
+            21212,
+            21084,
+            21979,
+            21574,
+            22135,
+            22033,
+            22669,
+            22654,
+            23418,
+            23308,
+            23800,
+            23501,
+            24305,
+            24347,
+            24862,
+            24673,
+            25033,
+            25158,
+            25681,
+            25919,
+            26156,
+            26246,
+            26856,
+            26661,
+            27094,
+            27246,
+            27741,
+            27860,
+            28090,
+            28029,
+            28631,
+            28999,
+            29480,
+            29011,
+            29986,
+            29883,
+            30183,
+            30432,
+            30706,
+            30509,
+            31281,
+            31403,
+            31714,
+            31687,
+            32192,
+            32296,
+            32930,
+            32504,
+            33231,
+            33023,
+            33862,
+            33592,
+            34319,
+            34489,
+            34988,
+            34600,
+            35060,
+            35386,
+            35625,
+            35975,
+            36419,
+            36482,
+            36736,
+            36676,
+            37262,
+            37181,
+            37957,
+            37768,
+            38128,
+            38397,
+            38736,
+            38555,
+            39301,
+            39383,
+            39899,
+            39908,
+            40188,
+            40440,
+            40651,
+            40518,
+            41221,
+            41484,
+            41546,
+            41606,
+            42174,
+            42262,
+            42812,
+            42685,
+            43470,
+            43075,
+            43674,
+            43641,
+            44473,
+            44359,
+            44779,
+            44547,
+            45159,
+            45351,
+            45662,
+            45656,
+            46090,
+            46408,
+            46540,
+            46820,
+            47076,
+            47369,
+            47852,
+            47658,
+            48247,
+            48082,
+            48868,
+            48524,
+            49041,
+            49307,
+            49773,
+            49972,
+            50207,
+            50016
+        ]
+    },
+    "val": {
+        "data": [
+            {
+                "impath": "data/CoOp/food-101/images/apple_pie/3723561.jpg",
+                "label": 0,
+                "classname": "apple_pie"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/apple_pie/532972.jpg",
+                "label": 0,
+                "classname": "apple_pie"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/baby_back_ribs/3435671.jpg",
+                "label": 1,
+                "classname": "baby_back_ribs"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/baby_back_ribs/3025059.jpg",
+                "label": 1,
+                "classname": "baby_back_ribs"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/baklava/176061.jpg",
+                "label": 2,
+                "classname": "baklava"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/baklava/3783822.jpg",
+                "label": 2,
+                "classname": "baklava"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/beef_carpaccio/996418.jpg",
+                "label": 3,
+                "classname": "beef_carpaccio"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/beef_carpaccio/2055061.jpg",
+                "label": 3,
+                "classname": "beef_carpaccio"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/beef_tartare/2772902.jpg",
+                "label": 4,
+                "classname": "beef_tartare"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/beef_tartare/3646367.jpg",
+                "label": 4,
+                "classname": "beef_tartare"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/beet_salad/299305.jpg",
+                "label": 5,
+                "classname": "beet_salad"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/beet_salad/3664242.jpg",
+                "label": 5,
+                "classname": "beet_salad"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/beignets/3323344.jpg",
+                "label": 6,
+                "classname": "beignets"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/beignets/2564667.jpg",
+                "label": 6,
+                "classname": "beignets"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/bibimbap/945692.jpg",
+                "label": 7,
+                "classname": "bibimbap"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/bibimbap/1764200.jpg",
+                "label": 7,
+                "classname": "bibimbap"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/bread_pudding/3710570.jpg",
+                "label": 8,
+                "classname": "bread_pudding"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/bread_pudding/1989609.jpg",
+                "label": 8,
+                "classname": "bread_pudding"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/breakfast_burrito/153164.jpg",
+                "label": 9,
+                "classname": "breakfast_burrito"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/breakfast_burrito/3202066.jpg",
+                "label": 9,
+                "classname": "breakfast_burrito"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/bruschetta/81247.jpg",
+                "label": 10,
+                "classname": "bruschetta"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/bruschetta/335086.jpg",
+                "label": 10,
+                "classname": "bruschetta"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/caesar_salad/3660328.jpg",
+                "label": 11,
+                "classname": "caesar_salad"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/caesar_salad/3311671.jpg",
+                "label": 11,
+                "classname": "caesar_salad"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/cannoli/2803929.jpg",
+                "label": 12,
+                "classname": "cannoli"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/cannoli/2216243.jpg",
+                "label": 12,
+                "classname": "cannoli"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/caprese_salad/915646.jpg",
+                "label": 13,
+                "classname": "caprese_salad"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/caprese_salad/55369.jpg",
+                "label": 13,
+                "classname": "caprese_salad"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/carrot_cake/1162794.jpg",
+                "label": 14,
+                "classname": "carrot_cake"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/carrot_cake/1788801.jpg",
+                "label": 14,
+                "classname": "carrot_cake"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/ceviche/217909.jpg",
+                "label": 15,
+                "classname": "ceviche"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/ceviche/3232916.jpg",
+                "label": 15,
+                "classname": "ceviche"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/cheese_plate/419097.jpg",
+                "label": 16,
+                "classname": "cheese_plate"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/cheese_plate/171771.jpg",
+                "label": 16,
+                "classname": "cheese_plate"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/cheesecake/2167083.jpg",
+                "label": 17,
+                "classname": "cheesecake"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/cheesecake/912931.jpg",
+                "label": 17,
+                "classname": "cheesecake"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/chicken_curry/1417268.jpg",
+                "label": 18,
+                "classname": "chicken_curry"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/chicken_curry/609133.jpg",
+                "label": 18,
+                "classname": "chicken_curry"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/chicken_quesadilla/1867793.jpg",
+                "label": 19,
+                "classname": "chicken_quesadilla"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/chicken_quesadilla/3466414.jpg",
+                "label": 19,
+                "classname": "chicken_quesadilla"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/chicken_wings/2604041.jpg",
+                "label": 20,
+                "classname": "chicken_wings"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/chicken_wings/2070039.jpg",
+                "label": 20,
+                "classname": "chicken_wings"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/chocolate_cake/680208.jpg",
+                "label": 21,
+                "classname": "chocolate_cake"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/chocolate_cake/3063900.jpg",
+                "label": 21,
+                "classname": "chocolate_cake"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/chocolate_mousse/2331438.jpg",
+                "label": 22,
+                "classname": "chocolate_mousse"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/chocolate_mousse/2475759.jpg",
+                "label": 22,
+                "classname": "chocolate_mousse"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/churros/3192296.jpg",
+                "label": 23,
+                "classname": "churros"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/churros/1904318.jpg",
+                "label": 23,
+                "classname": "churros"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/clam_chowder/1472234.jpg",
+                "label": 24,
+                "classname": "clam_chowder"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/clam_chowder/3589661.jpg",
+                "label": 24,
+                "classname": "clam_chowder"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/club_sandwich/1380229.jpg",
+                "label": 25,
+                "classname": "club_sandwich"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/club_sandwich/799509.jpg",
+                "label": 25,
+                "classname": "club_sandwich"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/crab_cakes/294666.jpg",
+                "label": 26,
+                "classname": "crab_cakes"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/crab_cakes/1094596.jpg",
+                "label": 26,
+                "classname": "crab_cakes"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/creme_brulee/885093.jpg",
+                "label": 27,
+                "classname": "creme_brulee"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/creme_brulee/99109.jpg",
+                "label": 27,
+                "classname": "creme_brulee"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/croque_madame/1254263.jpg",
+                "label": 28,
+                "classname": "croque_madame"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/croque_madame/854374.jpg",
+                "label": 28,
+                "classname": "croque_madame"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/cup_cakes/695612.jpg",
+                "label": 29,
+                "classname": "cup_cakes"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/cup_cakes/1261625.jpg",
+                "label": 29,
+                "classname": "cup_cakes"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/deviled_eggs/140111.jpg",
+                "label": 30,
+                "classname": "deviled_eggs"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/deviled_eggs/1743950.jpg",
+                "label": 30,
+                "classname": "deviled_eggs"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/donuts/309646.jpg",
+                "label": 31,
+                "classname": "donuts"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/donuts/1581488.jpg",
+                "label": 31,
+                "classname": "donuts"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/dumplings/2755034.jpg",
+                "label": 32,
+                "classname": "dumplings"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/dumplings/1640851.jpg",
+                "label": 32,
+                "classname": "dumplings"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/edamame/404616.jpg",
+                "label": 33,
+                "classname": "edamame"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/edamame/445842.jpg",
+                "label": 33,
+                "classname": "edamame"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/eggs_benedict/2501606.jpg",
+                "label": 34,
+                "classname": "eggs_benedict"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/eggs_benedict/2986646.jpg",
+                "label": 34,
+                "classname": "eggs_benedict"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/escargots/1107023.jpg",
+                "label": 35,
+                "classname": "escargots"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/escargots/3459901.jpg",
+                "label": 35,
+                "classname": "escargots"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/falafel/1737962.jpg",
+                "label": 36,
+                "classname": "falafel"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/falafel/3551850.jpg",
+                "label": 36,
+                "classname": "falafel"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/filet_mignon/784289.jpg",
+                "label": 37,
+                "classname": "filet_mignon"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/filet_mignon/333088.jpg",
+                "label": 37,
+                "classname": "filet_mignon"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/fish_and_chips/734780.jpg",
+                "label": 38,
+                "classname": "fish_and_chips"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/fish_and_chips/3659706.jpg",
+                "label": 38,
+                "classname": "fish_and_chips"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/foie_gras/2005169.jpg",
+                "label": 39,
+                "classname": "foie_gras"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/foie_gras/2951385.jpg",
+                "label": 39,
+                "classname": "foie_gras"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/french_fries/2952319.jpg",
+                "label": 40,
+                "classname": "french_fries"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/french_fries/2730558.jpg",
+                "label": 40,
+                "classname": "french_fries"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/french_onion_soup/2338691.jpg",
+                "label": 41,
+                "classname": "french_onion_soup"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/french_onion_soup/2863591.jpg",
+                "label": 41,
+                "classname": "french_onion_soup"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/french_toast/1364374.jpg",
+                "label": 42,
+                "classname": "french_toast"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/french_toast/2676803.jpg",
+                "label": 42,
+                "classname": "french_toast"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/fried_calamari/433936.jpg",
+                "label": 43,
+                "classname": "fried_calamari"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/fried_calamari/705139.jpg",
+                "label": 43,
+                "classname": "fried_calamari"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/fried_rice/3176941.jpg",
+                "label": 44,
+                "classname": "fried_rice"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/fried_rice/2743689.jpg",
+                "label": 44,
+                "classname": "fried_rice"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/frozen_yogurt/2449858.jpg",
+                "label": 45,
+                "classname": "frozen_yogurt"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/frozen_yogurt/2260880.jpg",
+                "label": 45,
+                "classname": "frozen_yogurt"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/garlic_bread/1115042.jpg",
+                "label": 46,
+                "classname": "garlic_bread"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/garlic_bread/3801220.jpg",
+                "label": 46,
+                "classname": "garlic_bread"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/gnocchi/155146.jpg",
+                "label": 47,
+                "classname": "gnocchi"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/gnocchi/1613715.jpg",
+                "label": 47,
+                "classname": "gnocchi"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/greek_salad/477936.jpg",
+                "label": 48,
+                "classname": "greek_salad"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/greek_salad/2573880.jpg",
+                "label": 48,
+                "classname": "greek_salad"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/grilled_cheese_sandwich/183349.jpg",
+                "label": 49,
+                "classname": "grilled_cheese_sandwich"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/grilled_cheese_sandwich/2146418.jpg",
+                "label": 49,
+                "classname": "grilled_cheese_sandwich"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/grilled_salmon/634445.jpg",
+                "label": 50,
+                "classname": "grilled_salmon"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/grilled_salmon/3058966.jpg",
+                "label": 50,
+                "classname": "grilled_salmon"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/guacamole/2508044.jpg",
+                "label": 51,
+                "classname": "guacamole"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/guacamole/872429.jpg",
+                "label": 51,
+                "classname": "guacamole"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/gyoza/1060006.jpg",
+                "label": 52,
+                "classname": "gyoza"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/gyoza/780693.jpg",
+                "label": 52,
+                "classname": "gyoza"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/hamburger/992429.jpg",
+                "label": 53,
+                "classname": "hamburger"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/hamburger/1086335.jpg",
+                "label": 53,
+                "classname": "hamburger"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/hot_and_sour_soup/890000.jpg",
+                "label": 54,
+                "classname": "hot_and_sour_soup"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/hot_and_sour_soup/3319686.jpg",
+                "label": 54,
+                "classname": "hot_and_sour_soup"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/hot_dog/180961.jpg",
+                "label": 55,
+                "classname": "hot_dog"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/hot_dog/961367.jpg",
+                "label": 55,
+                "classname": "hot_dog"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/huevos_rancheros/35658.jpg",
+                "label": 56,
+                "classname": "huevos_rancheros"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/huevos_rancheros/1271581.jpg",
+                "label": 56,
+                "classname": "huevos_rancheros"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/hummus/2859885.jpg",
+                "label": 57,
+                "classname": "hummus"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/hummus/2674263.jpg",
+                "label": 57,
+                "classname": "hummus"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/ice_cream/914855.jpg",
+                "label": 58,
+                "classname": "ice_cream"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/ice_cream/2444956.jpg",
+                "label": 58,
+                "classname": "ice_cream"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/lasagna/1709850.jpg",
+                "label": 59,
+                "classname": "lasagna"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/lasagna/1088891.jpg",
+                "label": 59,
+                "classname": "lasagna"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/lobster_bisque/2777051.jpg",
+                "label": 60,
+                "classname": "lobster_bisque"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/lobster_bisque/406046.jpg",
+                "label": 60,
+                "classname": "lobster_bisque"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/lobster_roll_sandwich/1668053.jpg",
+                "label": 61,
+                "classname": "lobster_roll_sandwich"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/lobster_roll_sandwich/2558925.jpg",
+                "label": 61,
+                "classname": "lobster_roll_sandwich"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/macaroni_and_cheese/52841.jpg",
+                "label": 62,
+                "classname": "macaroni_and_cheese"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/macaroni_and_cheese/1825607.jpg",
+                "label": 62,
+                "classname": "macaroni_and_cheese"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/macarons/166748.jpg",
+                "label": 63,
+                "classname": "macarons"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/macarons/683239.jpg",
+                "label": 63,
+                "classname": "macarons"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/miso_soup/2492687.jpg",
+                "label": 64,
+                "classname": "miso_soup"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/miso_soup/2702196.jpg",
+                "label": 64,
+                "classname": "miso_soup"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/mussels/1643312.jpg",
+                "label": 65,
+                "classname": "mussels"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/mussels/2202587.jpg",
+                "label": 65,
+                "classname": "mussels"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/nachos/1270046.jpg",
+                "label": 66,
+                "classname": "nachos"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/nachos/1464283.jpg",
+                "label": 66,
+                "classname": "nachos"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/omelette/122397.jpg",
+                "label": 67,
+                "classname": "omelette"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/omelette/2297848.jpg",
+                "label": 67,
+                "classname": "omelette"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/onion_rings/480008.jpg",
+                "label": 68,
+                "classname": "onion_rings"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/onion_rings/890030.jpg",
+                "label": 68,
+                "classname": "onion_rings"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/oysters/3624744.jpg",
+                "label": 69,
+                "classname": "oysters"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/oysters/1915380.jpg",
+                "label": 69,
+                "classname": "oysters"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/pad_thai/3632454.jpg",
+                "label": 70,
+                "classname": "pad_thai"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/pad_thai/1457148.jpg",
+                "label": 70,
+                "classname": "pad_thai"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/paella/352576.jpg",
+                "label": 71,
+                "classname": "paella"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/paella/249355.jpg",
+                "label": 71,
+                "classname": "paella"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/pancakes/2228916.jpg",
+                "label": 72,
+                "classname": "pancakes"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/pancakes/2407074.jpg",
+                "label": 72,
+                "classname": "pancakes"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/panna_cotta/3874204.jpg",
+                "label": 73,
+                "classname": "panna_cotta"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/panna_cotta/692688.jpg",
+                "label": 73,
+                "classname": "panna_cotta"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/peking_duck/3419369.jpg",
+                "label": 74,
+                "classname": "peking_duck"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/peking_duck/272503.jpg",
+                "label": 74,
+                "classname": "peking_duck"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/pho/1779554.jpg",
+                "label": 75,
+                "classname": "pho"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/pho/1401858.jpg",
+                "label": 75,
+                "classname": "pho"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/pizza/83538.jpg",
+                "label": 76,
+                "classname": "pizza"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/pizza/2456207.jpg",
+                "label": 76,
+                "classname": "pizza"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/pork_chop/2888066.jpg",
+                "label": 77,
+                "classname": "pork_chop"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/pork_chop/190153.jpg",
+                "label": 77,
+                "classname": "pork_chop"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/poutine/1969101.jpg",
+                "label": 78,
+                "classname": "poutine"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/poutine/1280017.jpg",
+                "label": 78,
+                "classname": "poutine"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/prime_rib/3086195.jpg",
+                "label": 79,
+                "classname": "prime_rib"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/prime_rib/3110054.jpg",
+                "label": 79,
+                "classname": "prime_rib"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/pulled_pork_sandwich/472228.jpg",
+                "label": 80,
+                "classname": "pulled_pork_sandwich"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/pulled_pork_sandwich/2932053.jpg",
+                "label": 80,
+                "classname": "pulled_pork_sandwich"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/ramen/32207.jpg",
+                "label": 81,
+                "classname": "ramen"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/ramen/3873669.jpg",
+                "label": 81,
+                "classname": "ramen"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/ravioli/42313.jpg",
+                "label": 82,
+                "classname": "ravioli"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/ravioli/3540966.jpg",
+                "label": 82,
+                "classname": "ravioli"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/red_velvet_cake/25552.jpg",
+                "label": 83,
+                "classname": "red_velvet_cake"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/red_velvet_cake/908080.jpg",
+                "label": 83,
+                "classname": "red_velvet_cake"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/risotto/606119.jpg",
+                "label": 84,
+                "classname": "risotto"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/risotto/978653.jpg",
+                "label": 84,
+                "classname": "risotto"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/samosa/1352032.jpg",
+                "label": 85,
+                "classname": "samosa"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/samosa/3633981.jpg",
+                "label": 85,
+                "classname": "samosa"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/sashimi/3656158.jpg",
+                "label": 86,
+                "classname": "sashimi"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/sashimi/787756.jpg",
+                "label": 86,
+                "classname": "sashimi"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/scallops/2071355.jpg",
+                "label": 87,
+                "classname": "scallops"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/scallops/1469601.jpg",
+                "label": 87,
+                "classname": "scallops"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/seaweed_salad/2173456.jpg",
+                "label": 88,
+                "classname": "seaweed_salad"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/seaweed_salad/3884511.jpg",
+                "label": 88,
+                "classname": "seaweed_salad"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/shrimp_and_grits/1595431.jpg",
+                "label": 89,
+                "classname": "shrimp_and_grits"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/shrimp_and_grits/2966569.jpg",
+                "label": 89,
+                "classname": "shrimp_and_grits"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/spaghetti_bolognese/2862254.jpg",
+                "label": 90,
+                "classname": "spaghetti_bolognese"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/spaghetti_bolognese/1660402.jpg",
+                "label": 90,
+                "classname": "spaghetti_bolognese"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/spaghetti_carbonara/478848.jpg",
+                "label": 91,
+                "classname": "spaghetti_carbonara"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/spaghetti_carbonara/1330080.jpg",
+                "label": 91,
+                "classname": "spaghetti_carbonara"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/spring_rolls/245135.jpg",
+                "label": 92,
+                "classname": "spring_rolls"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/spring_rolls/999961.jpg",
+                "label": 92,
+                "classname": "spring_rolls"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/steak/2036920.jpg",
+                "label": 93,
+                "classname": "steak"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/steak/562855.jpg",
+                "label": 93,
+                "classname": "steak"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/strawberry_shortcake/1700234.jpg",
+                "label": 94,
+                "classname": "strawberry_shortcake"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/strawberry_shortcake/263151.jpg",
+                "label": 94,
+                "classname": "strawberry_shortcake"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/sushi/472912.jpg",
+                "label": 95,
+                "classname": "sushi"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/sushi/14145.jpg",
+                "label": 95,
+                "classname": "sushi"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/tacos/3706936.jpg",
+                "label": 96,
+                "classname": "tacos"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/tacos/2343435.jpg",
+                "label": 96,
+                "classname": "tacos"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/takoyaki/702511.jpg",
+                "label": 97,
+                "classname": "takoyaki"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/takoyaki/1115738.jpg",
+                "label": 97,
+                "classname": "takoyaki"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/tiramisu/568284.jpg",
+                "label": 98,
+                "classname": "tiramisu"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/tiramisu/887606.jpg",
+                "label": 98,
+                "classname": "tiramisu"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/tuna_tartare/3295764.jpg",
+                "label": 99,
+                "classname": "tuna_tartare"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/tuna_tartare/2100554.jpg",
+                "label": 99,
+                "classname": "tuna_tartare"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/waffles/761505.jpg",
+                "label": 100,
+                "classname": "waffles"
+            },
+            {
+                "impath": "data/CoOp/food-101/images/waffles/2025419.jpg",
+                "label": 100,
+                "classname": "waffles"
+            }
+        ],
+        "indices": [
+            60,
+            189,
+            352,
+            288,
+            464,
+            516,
+            766,
+            707,
+            837,
+            814,
+            1163,
+            1008,
+            1326,
+            1285,
+            1453,
+            1433,
+            1787,
+            1744,
+            1833,
+            1961,
+            2105,
+            2027,
+            2243,
+            2311,
+            2495,
+            2438,
+            2615,
+            2707,
+            2875,
+            2836,
+            3116,
+            3158,
+            3243,
+            3333,
+            3516,
+            3524,
+            3776,
+            3786,
+            3881,
+            3922,
+            4070,
+            4074,
+            4320,
+            4303,
+            4437,
+            4428,
+            4696,
+            4736,
+            4845,
+            4960,
+            5127,
+            5086,
+            5246,
+            5222,
+            5525,
+            5469,
+            5731,
+            5740,
+            5928,
+            5892,
+            6016,
+            6198,
+            6291,
+            6377,
+            6550,
+            6569,
+            6608,
+            6794,
+            6878,
+            6893,
+            7143,
+            7180,
+            7371,
+            7271,
+            7524,
+            7467,
+            7797,
+            7776,
+            7983,
+            7875,
+            8087,
+            8166,
+            8245,
+            8348,
+            8402,
+            8521,
+            8740,
+            8798,
+            8864,
+            8883,
+            9171,
+            9070,
+            9318,
+            9273,
+            9528,
+            9565,
+            9772,
+            9691,
+            9889,
+            9870,
+            10164,
+            10088,
+            10388,
+            10304,
+            10489,
+            10444,
+            10776,
+            10715,
+            10893,
+            10885,
+            11132,
+            11036,
+            11335,
+            11242,
+            11450,
+            11492,
+            11722,
+            11672,
+            11977,
+            11820,
+            12184,
+            12171,
+            12386,
+            12306,
+            12443,
+            12557,
+            12799,
+            12748,
+            12932,
+            12970,
+            13107,
+            13077,
+            13359,
+            13341,
+            13598,
+            13563,
+            13669,
+            13784,
+            13807,
+            13850,
+            14040,
+            14150,
+            14312,
+            14359,
+            14566,
+            14446,
+            14656,
+            14794,
+            14975,
+            14846,
+            15161,
+            15183,
+            15210,
+            15320,
+            15457,
+            15442,
+            15613,
+            15634,
+            15828,
+            15881,
+            16046,
+            16123,
+            16249,
+            16340,
+            16409,
+            16506,
+            16719,
+            16689,
+            16897,
+            16969,
+            17156,
+            17018,
+            17351,
+            17252,
+            17460,
+            17583,
+            17695,
+            17600,
+            17889,
+            17903,
+            18071,
+            18104,
+            18229,
+            18376,
+            18540,
+            18495,
+            18609,
+            18740,
+            18957,
+            18877,
+            19024,
+            19075,
+            19339,
+            19331,
+            19486,
+            19548,
+            19675,
+            19690,
+            19833,
+            19907,
+            20104,
+            20144
+        ]
+    }
+}

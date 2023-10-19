@@ -1,0 +1,4862 @@
+{
+    "train": {
+        "data": [
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Apply_Eye_Makeup/v_ApplyEyeMakeup_g21_c02.jpg",
+                "label": 0,
+                "classname": "Apply_Eye_Makeup"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Apply_Eye_Makeup/v_ApplyEyeMakeup_g14_c02.jpg",
+                "label": 0,
+                "classname": "Apply_Eye_Makeup"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Apply_Eye_Makeup/v_ApplyEyeMakeup_g18_c01.jpg",
+                "label": 0,
+                "classname": "Apply_Eye_Makeup"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Apply_Eye_Makeup/v_ApplyEyeMakeup_g19_c02.jpg",
+                "label": 0,
+                "classname": "Apply_Eye_Makeup"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Apply_Lipstick/v_ApplyLipstick_g12_c04.jpg",
+                "label": 1,
+                "classname": "Apply_Lipstick"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Apply_Lipstick/v_ApplyLipstick_g23_c02.jpg",
+                "label": 1,
+                "classname": "Apply_Lipstick"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Apply_Lipstick/v_ApplyLipstick_g22_c06.jpg",
+                "label": 1,
+                "classname": "Apply_Lipstick"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Apply_Lipstick/v_ApplyLipstick_g09_c04.jpg",
+                "label": 1,
+                "classname": "Apply_Lipstick"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Archery/v_Archery_g25_c03.jpg",
+                "label": 2,
+                "classname": "Archery"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Archery/v_Archery_g21_c01.jpg",
+                "label": 2,
+                "classname": "Archery"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Archery/v_Archery_g10_c05.jpg",
+                "label": 2,
+                "classname": "Archery"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Archery/v_Archery_g17_c02.jpg",
+                "label": 2,
+                "classname": "Archery"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Baby_Crawling/v_BabyCrawling_g18_c06.jpg",
+                "label": 3,
+                "classname": "Baby_Crawling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Baby_Crawling/v_BabyCrawling_g11_c02.jpg",
+                "label": 3,
+                "classname": "Baby_Crawling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Baby_Crawling/v_BabyCrawling_g22_c03.jpg",
+                "label": 3,
+                "classname": "Baby_Crawling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Baby_Crawling/v_BabyCrawling_g19_c04.jpg",
+                "label": 3,
+                "classname": "Baby_Crawling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Balance_Beam/v_BalanceBeam_g13_c05.jpg",
+                "label": 4,
+                "classname": "Balance_Beam"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Balance_Beam/v_BalanceBeam_g10_c01.jpg",
+                "label": 4,
+                "classname": "Balance_Beam"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Balance_Beam/v_BalanceBeam_g22_c04.jpg",
+                "label": 4,
+                "classname": "Balance_Beam"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Balance_Beam/v_BalanceBeam_g12_c02.jpg",
+                "label": 4,
+                "classname": "Balance_Beam"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Band_Marching/v_BandMarching_g14_c03.jpg",
+                "label": 5,
+                "classname": "Band_Marching"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Band_Marching/v_BandMarching_g12_c06.jpg",
+                "label": 5,
+                "classname": "Band_Marching"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Band_Marching/v_BandMarching_g08_c06.jpg",
+                "label": 5,
+                "classname": "Band_Marching"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Band_Marching/v_BandMarching_g20_c06.jpg",
+                "label": 5,
+                "classname": "Band_Marching"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Baseball_Pitch/v_BaseballPitch_g13_c04.jpg",
+                "label": 6,
+                "classname": "Baseball_Pitch"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Baseball_Pitch/v_BaseballPitch_g18_c02.jpg",
+                "label": 6,
+                "classname": "Baseball_Pitch"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Baseball_Pitch/v_BaseballPitch_g18_c07.jpg",
+                "label": 6,
+                "classname": "Baseball_Pitch"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Baseball_Pitch/v_BaseballPitch_g22_c05.jpg",
+                "label": 6,
+                "classname": "Baseball_Pitch"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Basketball/v_Basketball_g21_c06.jpg",
+                "label": 7,
+                "classname": "Basketball"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Basketball/v_Basketball_g13_c04.jpg",
+                "label": 7,
+                "classname": "Basketball"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Basketball/v_Basketball_g24_c03.jpg",
+                "label": 7,
+                "classname": "Basketball"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Basketball/v_Basketball_g19_c01.jpg",
+                "label": 7,
+                "classname": "Basketball"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Basketball_Dunk/v_BasketballDunk_g10_c05.jpg",
+                "label": 8,
+                "classname": "Basketball_Dunk"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Basketball_Dunk/v_BasketballDunk_g08_c03.jpg",
+                "label": 8,
+                "classname": "Basketball_Dunk"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Basketball_Dunk/v_BasketballDunk_g13_c01.jpg",
+                "label": 8,
+                "classname": "Basketball_Dunk"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Basketball_Dunk/v_BasketballDunk_g12_c04.jpg",
+                "label": 8,
+                "classname": "Basketball_Dunk"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Bench_Press/v_BenchPress_g25_c07.jpg",
+                "label": 9,
+                "classname": "Bench_Press"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Bench_Press/v_BenchPress_g11_c01.jpg",
+                "label": 9,
+                "classname": "Bench_Press"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Bench_Press/v_BenchPress_g08_c02.jpg",
+                "label": 9,
+                "classname": "Bench_Press"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Bench_Press/v_BenchPress_g19_c06.jpg",
+                "label": 9,
+                "classname": "Bench_Press"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Biking/v_Biking_g22_c01.jpg",
+                "label": 10,
+                "classname": "Biking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Biking/v_Biking_g11_c02.jpg",
+                "label": 10,
+                "classname": "Biking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Biking/v_Biking_g17_c02.jpg",
+                "label": 10,
+                "classname": "Biking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Biking/v_Biking_g24_c01.jpg",
+                "label": 10,
+                "classname": "Biking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Billiards/v_Billiards_g08_c01.jpg",
+                "label": 11,
+                "classname": "Billiards"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Billiards/v_Billiards_g16_c01.jpg",
+                "label": 11,
+                "classname": "Billiards"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Billiards/v_Billiards_g16_c05.jpg",
+                "label": 11,
+                "classname": "Billiards"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Billiards/v_Billiards_g17_c05.jpg",
+                "label": 11,
+                "classname": "Billiards"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Blow_Dry_Hair/v_BlowDryHair_g15_c05.jpg",
+                "label": 12,
+                "classname": "Blow_Dry_Hair"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Blow_Dry_Hair/v_BlowDryHair_g08_c01.jpg",
+                "label": 12,
+                "classname": "Blow_Dry_Hair"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Blow_Dry_Hair/v_BlowDryHair_g08_c06.jpg",
+                "label": 12,
+                "classname": "Blow_Dry_Hair"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Blow_Dry_Hair/v_BlowDryHair_g11_c06.jpg",
+                "label": 12,
+                "classname": "Blow_Dry_Hair"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Blowing_Candles/v_BlowingCandles_g16_c02.jpg",
+                "label": 13,
+                "classname": "Blowing_Candles"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Blowing_Candles/v_BlowingCandles_g25_c01.jpg",
+                "label": 13,
+                "classname": "Blowing_Candles"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Blowing_Candles/v_BlowingCandles_g23_c02.jpg",
+                "label": 13,
+                "classname": "Blowing_Candles"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Blowing_Candles/v_BlowingCandles_g16_c01.jpg",
+                "label": 13,
+                "classname": "Blowing_Candles"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Body_Weight_Squats/v_BodyWeightSquats_g14_c02.jpg",
+                "label": 14,
+                "classname": "Body_Weight_Squats"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Body_Weight_Squats/v_BodyWeightSquats_g11_c04.jpg",
+                "label": 14,
+                "classname": "Body_Weight_Squats"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Body_Weight_Squats/v_BodyWeightSquats_g24_c05.jpg",
+                "label": 14,
+                "classname": "Body_Weight_Squats"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Body_Weight_Squats/v_BodyWeightSquats_g09_c02.jpg",
+                "label": 14,
+                "classname": "Body_Weight_Squats"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Bowling/v_Bowling_g18_c01.jpg",
+                "label": 15,
+                "classname": "Bowling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Bowling/v_Bowling_g17_c01.jpg",
+                "label": 15,
+                "classname": "Bowling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Bowling/v_Bowling_g15_c05.jpg",
+                "label": 15,
+                "classname": "Bowling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Bowling/v_Bowling_g19_c03.jpg",
+                "label": 15,
+                "classname": "Bowling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Boxing_Punching_Bag/v_BoxingPunchingBag_g22_c01.jpg",
+                "label": 16,
+                "classname": "Boxing_Punching_Bag"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Boxing_Punching_Bag/v_BoxingPunchingBag_g24_c03.jpg",
+                "label": 16,
+                "classname": "Boxing_Punching_Bag"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Boxing_Punching_Bag/v_BoxingPunchingBag_g25_c04.jpg",
+                "label": 16,
+                "classname": "Boxing_Punching_Bag"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Boxing_Punching_Bag/v_BoxingPunchingBag_g22_c07.jpg",
+                "label": 16,
+                "classname": "Boxing_Punching_Bag"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Boxing_Speed_Bag/v_BoxingSpeedBag_g11_c02.jpg",
+                "label": 17,
+                "classname": "Boxing_Speed_Bag"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Boxing_Speed_Bag/v_BoxingSpeedBag_g15_c04.jpg",
+                "label": 17,
+                "classname": "Boxing_Speed_Bag"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Boxing_Speed_Bag/v_BoxingSpeedBag_g16_c05.jpg",
+                "label": 17,
+                "classname": "Boxing_Speed_Bag"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Boxing_Speed_Bag/v_BoxingSpeedBag_g08_c05.jpg",
+                "label": 17,
+                "classname": "Boxing_Speed_Bag"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Breast_Stroke/v_BreastStroke_g21_c02.jpg",
+                "label": 18,
+                "classname": "Breast_Stroke"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Breast_Stroke/v_BreastStroke_g18_c05.jpg",
+                "label": 18,
+                "classname": "Breast_Stroke"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Breast_Stroke/v_BreastStroke_g20_c03.jpg",
+                "label": 18,
+                "classname": "Breast_Stroke"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Breast_Stroke/v_BreastStroke_g11_c02.jpg",
+                "label": 18,
+                "classname": "Breast_Stroke"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Brushing_Teeth/v_BrushingTeeth_g16_c04.jpg",
+                "label": 19,
+                "classname": "Brushing_Teeth"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Brushing_Teeth/v_BrushingTeeth_g15_c01.jpg",
+                "label": 19,
+                "classname": "Brushing_Teeth"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Brushing_Teeth/v_BrushingTeeth_g22_c04.jpg",
+                "label": 19,
+                "classname": "Brushing_Teeth"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Brushing_Teeth/v_BrushingTeeth_g17_c02.jpg",
+                "label": 19,
+                "classname": "Brushing_Teeth"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Clean_And_Jerk/v_CleanAndJerk_g19_c01.jpg",
+                "label": 20,
+                "classname": "Clean_And_Jerk"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Clean_And_Jerk/v_CleanAndJerk_g19_c03.jpg",
+                "label": 20,
+                "classname": "Clean_And_Jerk"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Clean_And_Jerk/v_CleanAndJerk_g11_c01.jpg",
+                "label": 20,
+                "classname": "Clean_And_Jerk"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Clean_And_Jerk/v_CleanAndJerk_g21_c02.jpg",
+                "label": 20,
+                "classname": "Clean_And_Jerk"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cliff_Diving/v_CliffDiving_g18_c01.jpg",
+                "label": 21,
+                "classname": "Cliff_Diving"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cliff_Diving/v_CliffDiving_g16_c01.jpg",
+                "label": 21,
+                "classname": "Cliff_Diving"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cliff_Diving/v_CliffDiving_g10_c02.jpg",
+                "label": 21,
+                "classname": "Cliff_Diving"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cliff_Diving/v_CliffDiving_g22_c02.jpg",
+                "label": 21,
+                "classname": "Cliff_Diving"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cricket_Bowling/v_CricketBowling_g22_c01.jpg",
+                "label": 22,
+                "classname": "Cricket_Bowling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cricket_Bowling/v_CricketBowling_g08_c04.jpg",
+                "label": 22,
+                "classname": "Cricket_Bowling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cricket_Bowling/v_CricketBowling_g13_c05.jpg",
+                "label": 22,
+                "classname": "Cricket_Bowling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cricket_Bowling/v_CricketBowling_g16_c05.jpg",
+                "label": 22,
+                "classname": "Cricket_Bowling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cricket_Shot/v_CricketShot_g24_c03.jpg",
+                "label": 23,
+                "classname": "Cricket_Shot"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cricket_Shot/v_CricketShot_g08_c03.jpg",
+                "label": 23,
+                "classname": "Cricket_Shot"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cricket_Shot/v_CricketShot_g12_c01.jpg",
+                "label": 23,
+                "classname": "Cricket_Shot"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cricket_Shot/v_CricketShot_g12_c03.jpg",
+                "label": 23,
+                "classname": "Cricket_Shot"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cutting_In_Kitchen/v_CuttingInKitchen_g19_c02.jpg",
+                "label": 24,
+                "classname": "Cutting_In_Kitchen"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cutting_In_Kitchen/v_CuttingInKitchen_g21_c01.jpg",
+                "label": 24,
+                "classname": "Cutting_In_Kitchen"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cutting_In_Kitchen/v_CuttingInKitchen_g10_c07.jpg",
+                "label": 24,
+                "classname": "Cutting_In_Kitchen"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cutting_In_Kitchen/v_CuttingInKitchen_g24_c02.jpg",
+                "label": 24,
+                "classname": "Cutting_In_Kitchen"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Diving/v_Diving_g09_c01.jpg",
+                "label": 25,
+                "classname": "Diving"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Diving/v_Diving_g12_c07.jpg",
+                "label": 25,
+                "classname": "Diving"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Diving/v_Diving_g19_c02.jpg",
+                "label": 25,
+                "classname": "Diving"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Diving/v_Diving_g09_c02.jpg",
+                "label": 25,
+                "classname": "Diving"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Drumming/v_Drumming_g18_c05.jpg",
+                "label": 26,
+                "classname": "Drumming"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Drumming/v_Drumming_g13_c01.jpg",
+                "label": 26,
+                "classname": "Drumming"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Drumming/v_Drumming_g13_c07.jpg",
+                "label": 26,
+                "classname": "Drumming"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Drumming/v_Drumming_g08_c03.jpg",
+                "label": 26,
+                "classname": "Drumming"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Fencing/v_Fencing_g10_c02.jpg",
+                "label": 27,
+                "classname": "Fencing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Fencing/v_Fencing_g19_c02.jpg",
+                "label": 27,
+                "classname": "Fencing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Fencing/v_Fencing_g25_c04.jpg",
+                "label": 27,
+                "classname": "Fencing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Fencing/v_Fencing_g12_c04.jpg",
+                "label": 27,
+                "classname": "Fencing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Field_Hockey_Penalty/v_FieldHockeyPenalty_g22_c03.jpg",
+                "label": 28,
+                "classname": "Field_Hockey_Penalty"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Field_Hockey_Penalty/v_FieldHockeyPenalty_g12_c06.jpg",
+                "label": 28,
+                "classname": "Field_Hockey_Penalty"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Field_Hockey_Penalty/v_FieldHockeyPenalty_g10_c03.jpg",
+                "label": 28,
+                "classname": "Field_Hockey_Penalty"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Field_Hockey_Penalty/v_FieldHockeyPenalty_g12_c02.jpg",
+                "label": 28,
+                "classname": "Field_Hockey_Penalty"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Floor_Gymnastics/v_FloorGymnastics_g18_c06.jpg",
+                "label": 29,
+                "classname": "Floor_Gymnastics"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Floor_Gymnastics/v_FloorGymnastics_g20_c05.jpg",
+                "label": 29,
+                "classname": "Floor_Gymnastics"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Floor_Gymnastics/v_FloorGymnastics_g24_c01.jpg",
+                "label": 29,
+                "classname": "Floor_Gymnastics"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Floor_Gymnastics/v_FloorGymnastics_g17_c05.jpg",
+                "label": 29,
+                "classname": "Floor_Gymnastics"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Frisbee_Catch/v_FrisbeeCatch_g09_c03.jpg",
+                "label": 30,
+                "classname": "Frisbee_Catch"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Frisbee_Catch/v_FrisbeeCatch_g12_c05.jpg",
+                "label": 30,
+                "classname": "Frisbee_Catch"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Frisbee_Catch/v_FrisbeeCatch_g22_c06.jpg",
+                "label": 30,
+                "classname": "Frisbee_Catch"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Frisbee_Catch/v_FrisbeeCatch_g09_c02.jpg",
+                "label": 30,
+                "classname": "Frisbee_Catch"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Front_Crawl/v_FrontCrawl_g21_c05.jpg",
+                "label": 31,
+                "classname": "Front_Crawl"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Front_Crawl/v_FrontCrawl_g08_c01.jpg",
+                "label": 31,
+                "classname": "Front_Crawl"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Front_Crawl/v_FrontCrawl_g13_c04.jpg",
+                "label": 31,
+                "classname": "Front_Crawl"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Front_Crawl/v_FrontCrawl_g20_c01.jpg",
+                "label": 31,
+                "classname": "Front_Crawl"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Golf_Swing/v_GolfSwing_g23_c01.jpg",
+                "label": 32,
+                "classname": "Golf_Swing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Golf_Swing/v_GolfSwing_g15_c03.jpg",
+                "label": 32,
+                "classname": "Golf_Swing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Golf_Swing/v_GolfSwing_g10_c03.jpg",
+                "label": 32,
+                "classname": "Golf_Swing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Golf_Swing/v_GolfSwing_g19_c05.jpg",
+                "label": 32,
+                "classname": "Golf_Swing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Haircut/v_Haircut_g21_c04.jpg",
+                "label": 33,
+                "classname": "Haircut"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Haircut/v_Haircut_g18_c01.jpg",
+                "label": 33,
+                "classname": "Haircut"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Haircut/v_Haircut_g18_c04.jpg",
+                "label": 33,
+                "classname": "Haircut"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Haircut/v_Haircut_g11_c03.jpg",
+                "label": 33,
+                "classname": "Haircut"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Hammering/v_Hammering_g13_c04.jpg",
+                "label": 34,
+                "classname": "Hammering"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Hammering/v_Hammering_g12_c03.jpg",
+                "label": 34,
+                "classname": "Hammering"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Hammering/v_Hammering_g21_c03.jpg",
+                "label": 34,
+                "classname": "Hammering"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Hammering/v_Hammering_g09_c06.jpg",
+                "label": 34,
+                "classname": "Hammering"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Hammer_Throw/v_HammerThrow_g09_c04.jpg",
+                "label": 35,
+                "classname": "Hammer_Throw"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Hammer_Throw/v_HammerThrow_g13_c01.jpg",
+                "label": 35,
+                "classname": "Hammer_Throw"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Hammer_Throw/v_HammerThrow_g16_c02.jpg",
+                "label": 35,
+                "classname": "Hammer_Throw"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Hammer_Throw/v_HammerThrow_g16_c04.jpg",
+                "label": 35,
+                "classname": "Hammer_Throw"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Handstand_Pushups/v_HandStandPushups_g15_c04.jpg",
+                "label": 36,
+                "classname": "Handstand_Pushups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Handstand_Pushups/v_HandStandPushups_g22_c04.jpg",
+                "label": 36,
+                "classname": "Handstand_Pushups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Handstand_Pushups/v_HandStandPushups_g13_c02.jpg",
+                "label": 36,
+                "classname": "Handstand_Pushups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Handstand_Pushups/v_HandStandPushups_g23_c02.jpg",
+                "label": 36,
+                "classname": "Handstand_Pushups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Handstand_Walking/v_HandstandWalking_g11_c04.jpg",
+                "label": 37,
+                "classname": "Handstand_Walking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Handstand_Walking/v_HandstandWalking_g14_c02.jpg",
+                "label": 37,
+                "classname": "Handstand_Walking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Handstand_Walking/v_HandstandWalking_g09_c03.jpg",
+                "label": 37,
+                "classname": "Handstand_Walking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Handstand_Walking/v_HandstandWalking_g12_c04.jpg",
+                "label": 37,
+                "classname": "Handstand_Walking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Head_Massage/v_HeadMassage_g22_c07.jpg",
+                "label": 38,
+                "classname": "Head_Massage"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Head_Massage/v_HeadMassage_g17_c03.jpg",
+                "label": 38,
+                "classname": "Head_Massage"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Head_Massage/v_HeadMassage_g15_c06.jpg",
+                "label": 38,
+                "classname": "Head_Massage"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Head_Massage/v_HeadMassage_g20_c05.jpg",
+                "label": 38,
+                "classname": "Head_Massage"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/High_Jump/v_HighJump_g11_c06.jpg",
+                "label": 39,
+                "classname": "High_Jump"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/High_Jump/v_HighJump_g09_c05.jpg",
+                "label": 39,
+                "classname": "High_Jump"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/High_Jump/v_HighJump_g23_c02.jpg",
+                "label": 39,
+                "classname": "High_Jump"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/High_Jump/v_HighJump_g24_c05.jpg",
+                "label": 39,
+                "classname": "High_Jump"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Horse_Race/v_HorseRace_g15_c03.jpg",
+                "label": 40,
+                "classname": "Horse_Race"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Horse_Race/v_HorseRace_g09_c03.jpg",
+                "label": 40,
+                "classname": "Horse_Race"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Horse_Race/v_HorseRace_g10_c03.jpg",
+                "label": 40,
+                "classname": "Horse_Race"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Horse_Race/v_HorseRace_g24_c04.jpg",
+                "label": 40,
+                "classname": "Horse_Race"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Horse_Riding/v_HorseRiding_g18_c01.jpg",
+                "label": 41,
+                "classname": "Horse_Riding"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Horse_Riding/v_HorseRiding_g18_c06.jpg",
+                "label": 41,
+                "classname": "Horse_Riding"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Horse_Riding/v_HorseRiding_g22_c02.jpg",
+                "label": 41,
+                "classname": "Horse_Riding"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Horse_Riding/v_HorseRiding_g16_c05.jpg",
+                "label": 41,
+                "classname": "Horse_Riding"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Hula_Hoop/v_HulaHoop_g16_c04.jpg",
+                "label": 42,
+                "classname": "Hula_Hoop"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Hula_Hoop/v_HulaHoop_g18_c03.jpg",
+                "label": 42,
+                "classname": "Hula_Hoop"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Hula_Hoop/v_HulaHoop_g17_c02.jpg",
+                "label": 42,
+                "classname": "Hula_Hoop"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Hula_Hoop/v_HulaHoop_g10_c02.jpg",
+                "label": 42,
+                "classname": "Hula_Hoop"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Ice_Dancing/v_IceDancing_g21_c04.jpg",
+                "label": 43,
+                "classname": "Ice_Dancing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Ice_Dancing/v_IceDancing_g23_c02.jpg",
+                "label": 43,
+                "classname": "Ice_Dancing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Ice_Dancing/v_IceDancing_g15_c04.jpg",
+                "label": 43,
+                "classname": "Ice_Dancing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Ice_Dancing/v_IceDancing_g22_c07.jpg",
+                "label": 43,
+                "classname": "Ice_Dancing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Javelin_Throw/v_JavelinThrow_g11_c04.jpg",
+                "label": 44,
+                "classname": "Javelin_Throw"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Javelin_Throw/v_JavelinThrow_g21_c04.jpg",
+                "label": 44,
+                "classname": "Javelin_Throw"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Javelin_Throw/v_JavelinThrow_g10_c04.jpg",
+                "label": 44,
+                "classname": "Javelin_Throw"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Javelin_Throw/v_JavelinThrow_g23_c01.jpg",
+                "label": 44,
+                "classname": "Javelin_Throw"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Juggling_Balls/v_JugglingBalls_g22_c05.jpg",
+                "label": 45,
+                "classname": "Juggling_Balls"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Juggling_Balls/v_JugglingBalls_g11_c03.jpg",
+                "label": 45,
+                "classname": "Juggling_Balls"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Juggling_Balls/v_JugglingBalls_g09_c04.jpg",
+                "label": 45,
+                "classname": "Juggling_Balls"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Juggling_Balls/v_JugglingBalls_g16_c04.jpg",
+                "label": 45,
+                "classname": "Juggling_Balls"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Jumping_Jack/v_JumpingJack_g11_c01.jpg",
+                "label": 46,
+                "classname": "Jumping_Jack"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Jumping_Jack/v_JumpingJack_g25_c02.jpg",
+                "label": 46,
+                "classname": "Jumping_Jack"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Jumping_Jack/v_JumpingJack_g11_c04.jpg",
+                "label": 46,
+                "classname": "Jumping_Jack"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Jumping_Jack/v_JumpingJack_g16_c01.jpg",
+                "label": 46,
+                "classname": "Jumping_Jack"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Jump_Rope/v_JumpRope_g12_c05.jpg",
+                "label": 47,
+                "classname": "Jump_Rope"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Jump_Rope/v_JumpRope_g11_c03.jpg",
+                "label": 47,
+                "classname": "Jump_Rope"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Jump_Rope/v_JumpRope_g25_c06.jpg",
+                "label": 47,
+                "classname": "Jump_Rope"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Jump_Rope/v_JumpRope_g15_c03.jpg",
+                "label": 47,
+                "classname": "Jump_Rope"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Kayaking/v_Kayaking_g08_c05.jpg",
+                "label": 48,
+                "classname": "Kayaking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Kayaking/v_Kayaking_g11_c07.jpg",
+                "label": 48,
+                "classname": "Kayaking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Kayaking/v_Kayaking_g09_c04.jpg",
+                "label": 48,
+                "classname": "Kayaking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Kayaking/v_Kayaking_g11_c06.jpg",
+                "label": 48,
+                "classname": "Kayaking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Knitting/v_Knitting_g15_c06.jpg",
+                "label": 49,
+                "classname": "Knitting"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Knitting/v_Knitting_g16_c03.jpg",
+                "label": 49,
+                "classname": "Knitting"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Knitting/v_Knitting_g15_c03.jpg",
+                "label": 49,
+                "classname": "Knitting"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Knitting/v_Knitting_g25_c04.jpg",
+                "label": 49,
+                "classname": "Knitting"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Long_Jump/v_LongJump_g24_c04.jpg",
+                "label": 50,
+                "classname": "Long_Jump"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Long_Jump/v_LongJump_g12_c04.jpg",
+                "label": 50,
+                "classname": "Long_Jump"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Long_Jump/v_LongJump_g11_c03.jpg",
+                "label": 50,
+                "classname": "Long_Jump"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Long_Jump/v_LongJump_g21_c01.jpg",
+                "label": 50,
+                "classname": "Long_Jump"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Lunges/v_Lunges_g10_c03.jpg",
+                "label": 51,
+                "classname": "Lunges"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Lunges/v_Lunges_g11_c02.jpg",
+                "label": 51,
+                "classname": "Lunges"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Lunges/v_Lunges_g21_c02.jpg",
+                "label": 51,
+                "classname": "Lunges"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Lunges/v_Lunges_g24_c04.jpg",
+                "label": 51,
+                "classname": "Lunges"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Military_Parade/v_MilitaryParade_g25_c07.jpg",
+                "label": 52,
+                "classname": "Military_Parade"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Military_Parade/v_MilitaryParade_g14_c01.jpg",
+                "label": 52,
+                "classname": "Military_Parade"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Military_Parade/v_MilitaryParade_g11_c01.jpg",
+                "label": 52,
+                "classname": "Military_Parade"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Military_Parade/v_MilitaryParade_g25_c01.jpg",
+                "label": 52,
+                "classname": "Military_Parade"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Mixing/v_Mixing_g18_c03.jpg",
+                "label": 53,
+                "classname": "Mixing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Mixing/v_Mixing_g13_c05.jpg",
+                "label": 53,
+                "classname": "Mixing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Mixing/v_Mixing_g20_c02.jpg",
+                "label": 53,
+                "classname": "Mixing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Mixing/v_Mixing_g14_c06.jpg",
+                "label": 53,
+                "classname": "Mixing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Mopping_Floor/v_MoppingFloor_g21_c04.jpg",
+                "label": 54,
+                "classname": "Mopping_Floor"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Mopping_Floor/v_MoppingFloor_g09_c03.jpg",
+                "label": 54,
+                "classname": "Mopping_Floor"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Mopping_Floor/v_MoppingFloor_g08_c03.jpg",
+                "label": 54,
+                "classname": "Mopping_Floor"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Mopping_Floor/v_MoppingFloor_g25_c02.jpg",
+                "label": 54,
+                "classname": "Mopping_Floor"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Nunchucks/v_Nunchucks_g11_c02.jpg",
+                "label": 55,
+                "classname": "Nunchucks"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Nunchucks/v_Nunchucks_g23_c03.jpg",
+                "label": 55,
+                "classname": "Nunchucks"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Nunchucks/v_Nunchucks_g12_c04.jpg",
+                "label": 55,
+                "classname": "Nunchucks"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Nunchucks/v_Nunchucks_g25_c06.jpg",
+                "label": 55,
+                "classname": "Nunchucks"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Parallel_Bars/v_ParallelBars_g22_c02.jpg",
+                "label": 56,
+                "classname": "Parallel_Bars"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Parallel_Bars/v_ParallelBars_g22_c03.jpg",
+                "label": 56,
+                "classname": "Parallel_Bars"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Parallel_Bars/v_ParallelBars_g11_c05.jpg",
+                "label": 56,
+                "classname": "Parallel_Bars"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Parallel_Bars/v_ParallelBars_g13_c03.jpg",
+                "label": 56,
+                "classname": "Parallel_Bars"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pizza_Tossing/v_PizzaTossing_g23_c05.jpg",
+                "label": 57,
+                "classname": "Pizza_Tossing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pizza_Tossing/v_PizzaTossing_g18_c04.jpg",
+                "label": 57,
+                "classname": "Pizza_Tossing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pizza_Tossing/v_PizzaTossing_g13_c01.jpg",
+                "label": 57,
+                "classname": "Pizza_Tossing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pizza_Tossing/v_PizzaTossing_g10_c02.jpg",
+                "label": 57,
+                "classname": "Pizza_Tossing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Cello/v_PlayingCello_g10_c03.jpg",
+                "label": 58,
+                "classname": "Playing_Cello"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Cello/v_PlayingCello_g12_c03.jpg",
+                "label": 58,
+                "classname": "Playing_Cello"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Cello/v_PlayingCello_g24_c05.jpg",
+                "label": 58,
+                "classname": "Playing_Cello"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Cello/v_PlayingCello_g13_c02.jpg",
+                "label": 58,
+                "classname": "Playing_Cello"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Daf/v_PlayingDaf_g17_c01.jpg",
+                "label": 59,
+                "classname": "Playing_Daf"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Daf/v_PlayingDaf_g19_c03.jpg",
+                "label": 59,
+                "classname": "Playing_Daf"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Daf/v_PlayingDaf_g22_c07.jpg",
+                "label": 59,
+                "classname": "Playing_Daf"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Daf/v_PlayingDaf_g20_c04.jpg",
+                "label": 59,
+                "classname": "Playing_Daf"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Dhol/v_PlayingDhol_g15_c01.jpg",
+                "label": 60,
+                "classname": "Playing_Dhol"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Dhol/v_PlayingDhol_g12_c01.jpg",
+                "label": 60,
+                "classname": "Playing_Dhol"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Dhol/v_PlayingDhol_g20_c03.jpg",
+                "label": 60,
+                "classname": "Playing_Dhol"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Dhol/v_PlayingDhol_g14_c01.jpg",
+                "label": 60,
+                "classname": "Playing_Dhol"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Flute/v_PlayingFlute_g16_c01.jpg",
+                "label": 61,
+                "classname": "Playing_Flute"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Flute/v_PlayingFlute_g08_c01.jpg",
+                "label": 61,
+                "classname": "Playing_Flute"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Flute/v_PlayingFlute_g23_c03.jpg",
+                "label": 61,
+                "classname": "Playing_Flute"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Flute/v_PlayingFlute_g21_c04.jpg",
+                "label": 61,
+                "classname": "Playing_Flute"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Guitar/v_PlayingGuitar_g23_c02.jpg",
+                "label": 62,
+                "classname": "Playing_Guitar"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Guitar/v_PlayingGuitar_g20_c03.jpg",
+                "label": 62,
+                "classname": "Playing_Guitar"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Guitar/v_PlayingGuitar_g14_c07.jpg",
+                "label": 62,
+                "classname": "Playing_Guitar"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Guitar/v_PlayingGuitar_g21_c06.jpg",
+                "label": 62,
+                "classname": "Playing_Guitar"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Piano/v_PlayingPiano_g12_c03.jpg",
+                "label": 63,
+                "classname": "Playing_Piano"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Piano/v_PlayingPiano_g17_c03.jpg",
+                "label": 63,
+                "classname": "Playing_Piano"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Piano/v_PlayingPiano_g10_c01.jpg",
+                "label": 63,
+                "classname": "Playing_Piano"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Piano/v_PlayingPiano_g15_c03.jpg",
+                "label": 63,
+                "classname": "Playing_Piano"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Sitar/v_PlayingSitar_g18_c06.jpg",
+                "label": 64,
+                "classname": "Playing_Sitar"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Sitar/v_PlayingSitar_g10_c03.jpg",
+                "label": 64,
+                "classname": "Playing_Sitar"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Sitar/v_PlayingSitar_g10_c04.jpg",
+                "label": 64,
+                "classname": "Playing_Sitar"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Sitar/v_PlayingSitar_g22_c06.jpg",
+                "label": 64,
+                "classname": "Playing_Sitar"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Tabla/v_PlayingTabla_g24_c02.jpg",
+                "label": 65,
+                "classname": "Playing_Tabla"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Tabla/v_PlayingTabla_g08_c04.jpg",
+                "label": 65,
+                "classname": "Playing_Tabla"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Tabla/v_PlayingTabla_g19_c02.jpg",
+                "label": 65,
+                "classname": "Playing_Tabla"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Tabla/v_PlayingTabla_g13_c02.jpg",
+                "label": 65,
+                "classname": "Playing_Tabla"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Violin/v_PlayingViolin_g14_c03.jpg",
+                "label": 66,
+                "classname": "Playing_Violin"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Violin/v_PlayingViolin_g21_c03.jpg",
+                "label": 66,
+                "classname": "Playing_Violin"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Violin/v_PlayingViolin_g20_c01.jpg",
+                "label": 66,
+                "classname": "Playing_Violin"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Violin/v_PlayingViolin_g25_c01.jpg",
+                "label": 66,
+                "classname": "Playing_Violin"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pole_Vault/v_PoleVault_g16_c01.jpg",
+                "label": 67,
+                "classname": "Pole_Vault"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pole_Vault/v_PoleVault_g16_c04.jpg",
+                "label": 67,
+                "classname": "Pole_Vault"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pole_Vault/v_PoleVault_g24_c05.jpg",
+                "label": 67,
+                "classname": "Pole_Vault"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pole_Vault/v_PoleVault_g08_c03.jpg",
+                "label": 67,
+                "classname": "Pole_Vault"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pommel_Horse/v_PommelHorse_g13_c07.jpg",
+                "label": 68,
+                "classname": "Pommel_Horse"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pommel_Horse/v_PommelHorse_g15_c02.jpg",
+                "label": 68,
+                "classname": "Pommel_Horse"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pommel_Horse/v_PommelHorse_g22_c04.jpg",
+                "label": 68,
+                "classname": "Pommel_Horse"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pommel_Horse/v_PommelHorse_g22_c06.jpg",
+                "label": 68,
+                "classname": "Pommel_Horse"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pull_Ups/v_PullUps_g25_c01.jpg",
+                "label": 69,
+                "classname": "Pull_Ups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pull_Ups/v_PullUps_g12_c02.jpg",
+                "label": 69,
+                "classname": "Pull_Ups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pull_Ups/v_PullUps_g09_c01.jpg",
+                "label": 69,
+                "classname": "Pull_Ups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pull_Ups/v_PullUps_g22_c02.jpg",
+                "label": 69,
+                "classname": "Pull_Ups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Punch/v_Punch_g21_c06.jpg",
+                "label": 70,
+                "classname": "Punch"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Punch/v_Punch_g21_c01.jpg",
+                "label": 70,
+                "classname": "Punch"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Punch/v_Punch_g16_c04.jpg",
+                "label": 70,
+                "classname": "Punch"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Punch/v_Punch_g24_c04.jpg",
+                "label": 70,
+                "classname": "Punch"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Push_Ups/v_PushUps_g20_c02.jpg",
+                "label": 71,
+                "classname": "Push_Ups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Push_Ups/v_PushUps_g10_c01.jpg",
+                "label": 71,
+                "classname": "Push_Ups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Push_Ups/v_PushUps_g17_c02.jpg",
+                "label": 71,
+                "classname": "Push_Ups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Push_Ups/v_PushUps_g15_c02.jpg",
+                "label": 71,
+                "classname": "Push_Ups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rafting/v_Rafting_g16_c01.jpg",
+                "label": 72,
+                "classname": "Rafting"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rafting/v_Rafting_g20_c02.jpg",
+                "label": 72,
+                "classname": "Rafting"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rafting/v_Rafting_g14_c03.jpg",
+                "label": 72,
+                "classname": "Rafting"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rafting/v_Rafting_g19_c05.jpg",
+                "label": 72,
+                "classname": "Rafting"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rock_Climbing_Indoor/v_RockClimbingIndoor_g20_c06.jpg",
+                "label": 73,
+                "classname": "Rock_Climbing_Indoor"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rock_Climbing_Indoor/v_RockClimbingIndoor_g14_c04.jpg",
+                "label": 73,
+                "classname": "Rock_Climbing_Indoor"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rock_Climbing_Indoor/v_RockClimbingIndoor_g09_c04.jpg",
+                "label": 73,
+                "classname": "Rock_Climbing_Indoor"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rock_Climbing_Indoor/v_RockClimbingIndoor_g17_c07.jpg",
+                "label": 73,
+                "classname": "Rock_Climbing_Indoor"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rope_Climbing/v_RopeClimbing_g24_c03.jpg",
+                "label": 74,
+                "classname": "Rope_Climbing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rope_Climbing/v_RopeClimbing_g24_c01.jpg",
+                "label": 74,
+                "classname": "Rope_Climbing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rope_Climbing/v_RopeClimbing_g19_c06.jpg",
+                "label": 74,
+                "classname": "Rope_Climbing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rope_Climbing/v_RopeClimbing_g13_c04.jpg",
+                "label": 74,
+                "classname": "Rope_Climbing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rowing/v_Rowing_g18_c04.jpg",
+                "label": 75,
+                "classname": "Rowing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rowing/v_Rowing_g11_c03.jpg",
+                "label": 75,
+                "classname": "Rowing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rowing/v_Rowing_g19_c05.jpg",
+                "label": 75,
+                "classname": "Rowing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rowing/v_Rowing_g15_c06.jpg",
+                "label": 75,
+                "classname": "Rowing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Salsa_Spin/v_SalsaSpin_g15_c01.jpg",
+                "label": 76,
+                "classname": "Salsa_Spin"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Salsa_Spin/v_SalsaSpin_g10_c06.jpg",
+                "label": 76,
+                "classname": "Salsa_Spin"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Salsa_Spin/v_SalsaSpin_g09_c03.jpg",
+                "label": 76,
+                "classname": "Salsa_Spin"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Salsa_Spin/v_SalsaSpin_g15_c06.jpg",
+                "label": 76,
+                "classname": "Salsa_Spin"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Shaving_Beard/v_ShavingBeard_g13_c02.jpg",
+                "label": 77,
+                "classname": "Shaving_Beard"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Shaving_Beard/v_ShavingBeard_g22_c01.jpg",
+                "label": 77,
+                "classname": "Shaving_Beard"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Shaving_Beard/v_ShavingBeard_g20_c03.jpg",
+                "label": 77,
+                "classname": "Shaving_Beard"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Shaving_Beard/v_ShavingBeard_g08_c07.jpg",
+                "label": 77,
+                "classname": "Shaving_Beard"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Shotput/v_Shotput_g15_c07.jpg",
+                "label": 78,
+                "classname": "Shotput"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Shotput/v_Shotput_g18_c02.jpg",
+                "label": 78,
+                "classname": "Shotput"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Shotput/v_Shotput_g08_c06.jpg",
+                "label": 78,
+                "classname": "Shotput"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Shotput/v_Shotput_g24_c04.jpg",
+                "label": 78,
+                "classname": "Shotput"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Skate_Boarding/v_SkateBoarding_g25_c03.jpg",
+                "label": 79,
+                "classname": "Skate_Boarding"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Skate_Boarding/v_SkateBoarding_g18_c02.jpg",
+                "label": 79,
+                "classname": "Skate_Boarding"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Skate_Boarding/v_SkateBoarding_g13_c01.jpg",
+                "label": 79,
+                "classname": "Skate_Boarding"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Skate_Boarding/v_SkateBoarding_g11_c05.jpg",
+                "label": 79,
+                "classname": "Skate_Boarding"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Skiing/v_Skiing_g13_c03.jpg",
+                "label": 80,
+                "classname": "Skiing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Skiing/v_Skiing_g20_c04.jpg",
+                "label": 80,
+                "classname": "Skiing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Skiing/v_Skiing_g12_c03.jpg",
+                "label": 80,
+                "classname": "Skiing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Skiing/v_Skiing_g15_c04.jpg",
+                "label": 80,
+                "classname": "Skiing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Skijet/v_Skijet_g20_c02.jpg",
+                "label": 81,
+                "classname": "Skijet"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Skijet/v_Skijet_g14_c01.jpg",
+                "label": 81,
+                "classname": "Skijet"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Skijet/v_Skijet_g24_c03.jpg",
+                "label": 81,
+                "classname": "Skijet"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Skijet/v_Skijet_g10_c03.jpg",
+                "label": 81,
+                "classname": "Skijet"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Sky_Diving/v_SkyDiving_g18_c06.jpg",
+                "label": 82,
+                "classname": "Sky_Diving"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Sky_Diving/v_SkyDiving_g18_c03.jpg",
+                "label": 82,
+                "classname": "Sky_Diving"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Sky_Diving/v_SkyDiving_g09_c04.jpg",
+                "label": 82,
+                "classname": "Sky_Diving"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Sky_Diving/v_SkyDiving_g25_c01.jpg",
+                "label": 82,
+                "classname": "Sky_Diving"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Soccer_Juggling/v_SoccerJuggling_g12_c05.jpg",
+                "label": 83,
+                "classname": "Soccer_Juggling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Soccer_Juggling/v_SoccerJuggling_g11_c02.jpg",
+                "label": 83,
+                "classname": "Soccer_Juggling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Soccer_Juggling/v_SoccerJuggling_g12_c06.jpg",
+                "label": 83,
+                "classname": "Soccer_Juggling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Soccer_Juggling/v_SoccerJuggling_g15_c01.jpg",
+                "label": 83,
+                "classname": "Soccer_Juggling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Soccer_Penalty/v_SoccerPenalty_g18_c04.jpg",
+                "label": 84,
+                "classname": "Soccer_Penalty"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Soccer_Penalty/v_SoccerPenalty_g08_c01.jpg",
+                "label": 84,
+                "classname": "Soccer_Penalty"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Soccer_Penalty/v_SoccerPenalty_g08_c05.jpg",
+                "label": 84,
+                "classname": "Soccer_Penalty"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Soccer_Penalty/v_SoccerPenalty_g24_c04.jpg",
+                "label": 84,
+                "classname": "Soccer_Penalty"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Still_Rings/v_StillRings_g23_c02.jpg",
+                "label": 85,
+                "classname": "Still_Rings"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Still_Rings/v_StillRings_g08_c03.jpg",
+                "label": 85,
+                "classname": "Still_Rings"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Still_Rings/v_StillRings_g12_c02.jpg",
+                "label": 85,
+                "classname": "Still_Rings"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Still_Rings/v_StillRings_g12_c03.jpg",
+                "label": 85,
+                "classname": "Still_Rings"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Sumo_Wrestling/v_SumoWrestling_g17_c01.jpg",
+                "label": 86,
+                "classname": "Sumo_Wrestling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Sumo_Wrestling/v_SumoWrestling_g19_c04.jpg",
+                "label": 86,
+                "classname": "Sumo_Wrestling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Sumo_Wrestling/v_SumoWrestling_g25_c02.jpg",
+                "label": 86,
+                "classname": "Sumo_Wrestling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Sumo_Wrestling/v_SumoWrestling_g18_c02.jpg",
+                "label": 86,
+                "classname": "Sumo_Wrestling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Surfing/v_Surfing_g18_c02.jpg",
+                "label": 87,
+                "classname": "Surfing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Surfing/v_Surfing_g08_c04.jpg",
+                "label": 87,
+                "classname": "Surfing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Surfing/v_Surfing_g10_c05.jpg",
+                "label": 87,
+                "classname": "Surfing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Surfing/v_Surfing_g17_c01.jpg",
+                "label": 87,
+                "classname": "Surfing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Swing/v_Swing_g11_c05.jpg",
+                "label": 88,
+                "classname": "Swing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Swing/v_Swing_g20_c03.jpg",
+                "label": 88,
+                "classname": "Swing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Swing/v_Swing_g15_c01.jpg",
+                "label": 88,
+                "classname": "Swing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Swing/v_Swing_g12_c02.jpg",
+                "label": 88,
+                "classname": "Swing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Table_Tennis_Shot/v_TableTennisShot_g23_c01.jpg",
+                "label": 89,
+                "classname": "Table_Tennis_Shot"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Table_Tennis_Shot/v_TableTennisShot_g11_c01.jpg",
+                "label": 89,
+                "classname": "Table_Tennis_Shot"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Table_Tennis_Shot/v_TableTennisShot_g14_c04.jpg",
+                "label": 89,
+                "classname": "Table_Tennis_Shot"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Table_Tennis_Shot/v_TableTennisShot_g09_c06.jpg",
+                "label": 89,
+                "classname": "Table_Tennis_Shot"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Tai_Chi/v_TaiChi_g24_c04.jpg",
+                "label": 90,
+                "classname": "Tai_Chi"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Tai_Chi/v_TaiChi_g23_c04.jpg",
+                "label": 90,
+                "classname": "Tai_Chi"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Tai_Chi/v_TaiChi_g17_c02.jpg",
+                "label": 90,
+                "classname": "Tai_Chi"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Tai_Chi/v_TaiChi_g21_c03.jpg",
+                "label": 90,
+                "classname": "Tai_Chi"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Tennis_Swing/v_TennisSwing_g13_c04.jpg",
+                "label": 91,
+                "classname": "Tennis_Swing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Tennis_Swing/v_TennisSwing_g25_c02.jpg",
+                "label": 91,
+                "classname": "Tennis_Swing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Tennis_Swing/v_TennisSwing_g18_c01.jpg",
+                "label": 91,
+                "classname": "Tennis_Swing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Tennis_Swing/v_TennisSwing_g16_c06.jpg",
+                "label": 91,
+                "classname": "Tennis_Swing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Throw_Discus/v_ThrowDiscus_g10_c01.jpg",
+                "label": 92,
+                "classname": "Throw_Discus"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Throw_Discus/v_ThrowDiscus_g18_c02.jpg",
+                "label": 92,
+                "classname": "Throw_Discus"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Throw_Discus/v_ThrowDiscus_g24_c02.jpg",
+                "label": 92,
+                "classname": "Throw_Discus"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Throw_Discus/v_ThrowDiscus_g21_c07.jpg",
+                "label": 92,
+                "classname": "Throw_Discus"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Trampoline_Jumping/v_TrampolineJumping_g09_c05.jpg",
+                "label": 93,
+                "classname": "Trampoline_Jumping"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Trampoline_Jumping/v_TrampolineJumping_g13_c04.jpg",
+                "label": 93,
+                "classname": "Trampoline_Jumping"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Trampoline_Jumping/v_TrampolineJumping_g11_c01.jpg",
+                "label": 93,
+                "classname": "Trampoline_Jumping"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Trampoline_Jumping/v_TrampolineJumping_g15_c01.jpg",
+                "label": 93,
+                "classname": "Trampoline_Jumping"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Typing/v_Typing_g25_c01.jpg",
+                "label": 94,
+                "classname": "Typing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Typing/v_Typing_g20_c04.jpg",
+                "label": 94,
+                "classname": "Typing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Typing/v_Typing_g14_c05.jpg",
+                "label": 94,
+                "classname": "Typing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Typing/v_Typing_g08_c04.jpg",
+                "label": 94,
+                "classname": "Typing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Uneven_Bars/v_UnevenBars_g08_c02.jpg",
+                "label": 95,
+                "classname": "Uneven_Bars"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Uneven_Bars/v_UnevenBars_g21_c01.jpg",
+                "label": 95,
+                "classname": "Uneven_Bars"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Uneven_Bars/v_UnevenBars_g17_c04.jpg",
+                "label": 95,
+                "classname": "Uneven_Bars"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Uneven_Bars/v_UnevenBars_g21_c04.jpg",
+                "label": 95,
+                "classname": "Uneven_Bars"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Volleyball_Spiking/v_VolleyballSpiking_g10_c03.jpg",
+                "label": 96,
+                "classname": "Volleyball_Spiking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Volleyball_Spiking/v_VolleyballSpiking_g24_c03.jpg",
+                "label": 96,
+                "classname": "Volleyball_Spiking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Volleyball_Spiking/v_VolleyballSpiking_g14_c03.jpg",
+                "label": 96,
+                "classname": "Volleyball_Spiking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Volleyball_Spiking/v_VolleyballSpiking_g15_c02.jpg",
+                "label": 96,
+                "classname": "Volleyball_Spiking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Walking_With_Dog/v_WalkingWithDog_g10_c02.jpg",
+                "label": 97,
+                "classname": "Walking_With_Dog"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Walking_With_Dog/v_WalkingWithDog_g19_c05.jpg",
+                "label": 97,
+                "classname": "Walking_With_Dog"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Walking_With_Dog/v_WalkingWithDog_g20_c05.jpg",
+                "label": 97,
+                "classname": "Walking_With_Dog"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Walking_With_Dog/v_WalkingWithDog_g20_c07.jpg",
+                "label": 97,
+                "classname": "Walking_With_Dog"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Wall_Pushups/v_WallPushups_g15_c03.jpg",
+                "label": 98,
+                "classname": "Wall_Pushups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Wall_Pushups/v_WallPushups_g21_c02.jpg",
+                "label": 98,
+                "classname": "Wall_Pushups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Wall_Pushups/v_WallPushups_g23_c04.jpg",
+                "label": 98,
+                "classname": "Wall_Pushups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Wall_Pushups/v_WallPushups_g25_c01.jpg",
+                "label": 98,
+                "classname": "Wall_Pushups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Writing_On_Board/v_WritingOnBoard_g18_c01.jpg",
+                "label": 99,
+                "classname": "Writing_On_Board"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Writing_On_Board/v_WritingOnBoard_g09_c03.jpg",
+                "label": 99,
+                "classname": "Writing_On_Board"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Writing_On_Board/v_WritingOnBoard_g16_c04.jpg",
+                "label": 99,
+                "classname": "Writing_On_Board"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Writing_On_Board/v_WritingOnBoard_g23_c04.jpg",
+                "label": 99,
+                "classname": "Writing_On_Board"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Yo_Yo/v_YoYo_g12_c01.jpg",
+                "label": 100,
+                "classname": "Yo_Yo"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Yo_Yo/v_YoYo_g08_c04.jpg",
+                "label": 100,
+                "classname": "Yo_Yo"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Yo_Yo/v_YoYo_g18_c01.jpg",
+                "label": 100,
+                "classname": "Yo_Yo"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Yo_Yo/v_YoYo_g18_c02.jpg",
+                "label": 100,
+                "classname": "Yo_Yo"
+            }
+        ],
+        "indices": [
+            79,
+            32,
+            45,
+            67,
+            84,
+            140,
+            112,
+            87,
+            167,
+            161,
+            194,
+            207,
+            261,
+            278,
+            299,
+            243,
+            344,
+            323,
+            308,
+            354,
+            397,
+            422,
+            405,
+            393,
+            509,
+            480,
+            469,
+            477,
+            602,
+            562,
+            546,
+            572,
+            652,
+            646,
+            662,
+            665,
+            725,
+            769,
+            786,
+            780,
+            816,
+            813,
+            815,
+            839,
+            905,
+            869,
+            913,
+            920,
+            976,
+            973,
+            988,
+            963,
+            1050,
+            1048,
+            1081,
+            1067,
+            1090,
+            1133,
+            1098,
+            1129,
+            1201,
+            1195,
+            1217,
+            1245,
+            1286,
+            1269,
+            1307,
+            1306,
+            1359,
+            1344,
+            1369,
+            1339,
+            1462,
+            1437,
+            1469,
+            1440,
+            1475,
+            1543,
+            1526,
+            1519,
+            1573,
+            1586,
+            1602,
+            1549,
+            1669,
+            1617,
+            1635,
+            1637,
+            1706,
+            1722,
+            1750,
+            1735,
+            1838,
+            1818,
+            1840,
+            1805,
+            1916,
+            1896,
+            1873,
+            1904,
+            1976,
+            1966,
+            1933,
+            1984,
+            2024,
+            2039,
+            2056,
+            2078,
+            2145,
+            2129,
+            2164,
+            2115,
+            2211,
+            2203,
+            2179,
+            2207,
+            2277,
+            2276,
+            2259,
+            2247,
+            2327,
+            2347,
+            2369,
+            2328,
+            2385,
+            2389,
+            2455,
+            2447,
+            2510,
+            2463,
+            2489,
+            2535,
+            2583,
+            2571,
+            2597,
+            2592,
+            2635,
+            2624,
+            2698,
+            2621,
+            2766,
+            2745,
+            2729,
+            2719,
+            2859,
+            2803,
+            2839,
+            2800,
+            2877,
+            2894,
+            2890,
+            2876,
+            2936,
+            2982,
+            2966,
+            2947,
+            3072,
+            3035,
+            3080,
+            3076,
+            3123,
+            3144,
+            3118,
+            3120,
+            3214,
+            3205,
+            3172,
+            3168,
+            3294,
+            3314,
+            3268,
+            3309,
+            3362,
+            3342,
+            3330,
+            3381,
+            3443,
+            3474,
+            3473,
+            3455,
+            3486,
+            3523,
+            3482,
+            3517,
+            3589,
+            3578,
+            3605,
+            3576,
+            3649,
+            3655,
+            3695,
+            3634,
+            3771,
+            3698,
+            3757,
+            3767,
+            3813,
+            3822,
+            3816,
+            3840,
+            3888,
+            3916,
+            3897,
+            3896,
+            3961,
+            3970,
+            3978,
+            3948,
+            4055,
+            4044,
+            4040,
+            4064,
+            4090,
+            4139,
+            4093,
+            4097,
+            4198,
+            4168,
+            4204,
+            4199,
+            4267,
+            4242,
+            4216,
+            4259,
+            4294,
+            4323,
+            4333,
+            4343,
+            4399,
+            4384,
+            4380,
+            4349,
+            4435,
+            4430,
+            4485,
+            4466,
+            4585,
+            4589,
+            4529,
+            4534,
+            4681,
+            4617,
+            4674,
+            4685,
+            4691,
+            4746,
+            4714,
+            4707,
+            4778,
+            4789,
+            4786,
+            4812,
+            4927,
+            4877,
+            4896,
+            4878,
+            4998,
+            4932,
+            4981,
+            4987,
+            5062,
+            5066,
+            5027,
+            5044,
+            5097,
+            5127,
+            5139,
+            5105,
+            5140,
+            5184,
+            5191,
+            5175,
+            5279,
+            5241,
+            5274,
+            5231,
+            5332,
+            5336,
+            5316,
+            5303,
+            5392,
+            5424,
+            5420,
+            5398,
+            5489,
+            5470,
+            5474,
+            5504,
+            5526,
+            5563,
+            5562,
+            5557,
+            5635,
+            5594,
+            5596,
+            5652,
+            5706,
+            5719,
+            5683,
+            5675,
+            5803,
+            5737,
+            5770,
+            5726,
+            5855,
+            5820,
+            5848,
+            5876,
+            5897,
+            5920,
+            5959,
+            5951,
+            6021,
+            6027,
+            6028,
+            6001,
+            6114,
+            6088,
+            6112,
+            6099,
+            6170,
+            6141,
+            6154,
+            6159,
+            6228,
+            6213,
+            6223,
+            6198,
+            6275,
+            6315,
+            6317,
+            6274,
+            6380,
+            6354,
+            6336,
+            6379,
+            6407,
+            6419,
+            6460,
+            6435,
+            6518,
+            6486,
+            6498,
+            6531,
+            6546,
+            6606,
+            6580,
+            6576,
+            6671,
+            6615,
+            6642,
+            6673,
+            6719,
+            6704,
+            6721,
+            6722,
+            6819,
+            6833,
+            6816,
+            6822,
+            6878,
+            6892,
+            6875,
+            6893,
+            6910,
+            6897,
+            6911,
+            6933,
+            7025,
+            7057,
+            7032,
+            7026,
+            7130,
+            7066,
+            7122,
+            7107,
+            7179,
+            7149,
+            7137,
+            7133,
+            7223,
+            7242,
+            7236,
+            7250,
+            7281,
+            7292,
+            7269,
+            7322,
+            7387,
+            7394,
+            7382,
+            7393,
+            7453,
+            7428,
+            7440,
+            7462,
+            7487,
+            7517,
+            7479,
+            7534,
+            7601,
+            7625,
+            7604,
+            7583
+        ]
+    },
+    "val": {
+        "data": [
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Apply_Eye_Makeup/v_ApplyEyeMakeup_g11_c04.jpg",
+                "label": 0,
+                "classname": "Apply_Eye_Makeup"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Apply_Eye_Makeup/v_ApplyEyeMakeup_g23_c01.jpg",
+                "label": 0,
+                "classname": "Apply_Eye_Makeup"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Apply_Eye_Makeup/v_ApplyEyeMakeup_g10_c05.jpg",
+                "label": 0,
+                "classname": "Apply_Eye_Makeup"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Apply_Eye_Makeup/v_ApplyEyeMakeup_g18_c04.jpg",
+                "label": 0,
+                "classname": "Apply_Eye_Makeup"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Apply_Lipstick/v_ApplyLipstick_g11_c02.jpg",
+                "label": 1,
+                "classname": "Apply_Lipstick"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Apply_Lipstick/v_ApplyLipstick_g15_c05.jpg",
+                "label": 1,
+                "classname": "Apply_Lipstick"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Apply_Lipstick/v_ApplyLipstick_g22_c05.jpg",
+                "label": 1,
+                "classname": "Apply_Lipstick"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Apply_Lipstick/v_ApplyLipstick_g12_c03.jpg",
+                "label": 1,
+                "classname": "Apply_Lipstick"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Archery/v_Archery_g23_c03.jpg",
+                "label": 2,
+                "classname": "Archery"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Archery/v_Archery_g23_c02.jpg",
+                "label": 2,
+                "classname": "Archery"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Archery/v_Archery_g10_c03.jpg",
+                "label": 2,
+                "classname": "Archery"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Archery/v_Archery_g15_c02.jpg",
+                "label": 2,
+                "classname": "Archery"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Baby_Crawling/v_BabyCrawling_g12_c04.jpg",
+                "label": 3,
+                "classname": "Baby_Crawling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Baby_Crawling/v_BabyCrawling_g18_c02.jpg",
+                "label": 3,
+                "classname": "Baby_Crawling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Baby_Crawling/v_BabyCrawling_g12_c02.jpg",
+                "label": 3,
+                "classname": "Baby_Crawling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Baby_Crawling/v_BabyCrawling_g12_c01.jpg",
+                "label": 3,
+                "classname": "Baby_Crawling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Balance_Beam/v_BalanceBeam_g23_c05.jpg",
+                "label": 4,
+                "classname": "Balance_Beam"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Balance_Beam/v_BalanceBeam_g16_c03.jpg",
+                "label": 4,
+                "classname": "Balance_Beam"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Balance_Beam/v_BalanceBeam_g13_c03.jpg",
+                "label": 4,
+                "classname": "Balance_Beam"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Balance_Beam/v_BalanceBeam_g25_c03.jpg",
+                "label": 4,
+                "classname": "Balance_Beam"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Band_Marching/v_BandMarching_g25_c07.jpg",
+                "label": 5,
+                "classname": "Band_Marching"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Band_Marching/v_BandMarching_g14_c06.jpg",
+                "label": 5,
+                "classname": "Band_Marching"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Band_Marching/v_BandMarching_g16_c01.jpg",
+                "label": 5,
+                "classname": "Band_Marching"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Band_Marching/v_BandMarching_g09_c06.jpg",
+                "label": 5,
+                "classname": "Band_Marching"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Baseball_Pitch/v_BaseballPitch_g24_c05.jpg",
+                "label": 6,
+                "classname": "Baseball_Pitch"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Baseball_Pitch/v_BaseballPitch_g21_c02.jpg",
+                "label": 6,
+                "classname": "Baseball_Pitch"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Baseball_Pitch/v_BaseballPitch_g16_c02.jpg",
+                "label": 6,
+                "classname": "Baseball_Pitch"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Baseball_Pitch/v_BaseballPitch_g20_c01.jpg",
+                "label": 6,
+                "classname": "Baseball_Pitch"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Basketball/v_Basketball_g17_c03.jpg",
+                "label": 7,
+                "classname": "Basketball"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Basketball/v_Basketball_g16_c05.jpg",
+                "label": 7,
+                "classname": "Basketball"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Basketball/v_Basketball_g23_c03.jpg",
+                "label": 7,
+                "classname": "Basketball"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Basketball/v_Basketball_g23_c04.jpg",
+                "label": 7,
+                "classname": "Basketball"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Basketball_Dunk/v_BasketballDunk_g18_c04.jpg",
+                "label": 8,
+                "classname": "Basketball_Dunk"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Basketball_Dunk/v_BasketballDunk_g14_c07.jpg",
+                "label": 8,
+                "classname": "Basketball_Dunk"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Basketball_Dunk/v_BasketballDunk_g11_c02.jpg",
+                "label": 8,
+                "classname": "Basketball_Dunk"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Basketball_Dunk/v_BasketballDunk_g21_c01.jpg",
+                "label": 8,
+                "classname": "Basketball_Dunk"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Bench_Press/v_BenchPress_g25_c02.jpg",
+                "label": 9,
+                "classname": "Bench_Press"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Bench_Press/v_BenchPress_g10_c01.jpg",
+                "label": 9,
+                "classname": "Bench_Press"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Bench_Press/v_BenchPress_g22_c05.jpg",
+                "label": 9,
+                "classname": "Bench_Press"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Bench_Press/v_BenchPress_g17_c04.jpg",
+                "label": 9,
+                "classname": "Bench_Press"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Biking/v_Biking_g21_c04.jpg",
+                "label": 10,
+                "classname": "Biking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Biking/v_Biking_g21_c01.jpg",
+                "label": 10,
+                "classname": "Biking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Biking/v_Biking_g16_c05.jpg",
+                "label": 10,
+                "classname": "Biking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Biking/v_Biking_g13_c02.jpg",
+                "label": 10,
+                "classname": "Biking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Billiards/v_Billiards_g08_c04.jpg",
+                "label": 11,
+                "classname": "Billiards"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Billiards/v_Billiards_g14_c04.jpg",
+                "label": 11,
+                "classname": "Billiards"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Billiards/v_Billiards_g21_c06.jpg",
+                "label": 11,
+                "classname": "Billiards"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Billiards/v_Billiards_g08_c06.jpg",
+                "label": 11,
+                "classname": "Billiards"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Blow_Dry_Hair/v_BlowDryHair_g10_c05.jpg",
+                "label": 12,
+                "classname": "Blow_Dry_Hair"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Blow_Dry_Hair/v_BlowDryHair_g21_c06.jpg",
+                "label": 12,
+                "classname": "Blow_Dry_Hair"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Blow_Dry_Hair/v_BlowDryHair_g12_c02.jpg",
+                "label": 12,
+                "classname": "Blow_Dry_Hair"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Blow_Dry_Hair/v_BlowDryHair_g20_c01.jpg",
+                "label": 12,
+                "classname": "Blow_Dry_Hair"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Blowing_Candles/v_BlowingCandles_g18_c03.jpg",
+                "label": 13,
+                "classname": "Blowing_Candles"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Blowing_Candles/v_BlowingCandles_g09_c01.jpg",
+                "label": 13,
+                "classname": "Blowing_Candles"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Blowing_Candles/v_BlowingCandles_g24_c02.jpg",
+                "label": 13,
+                "classname": "Blowing_Candles"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Blowing_Candles/v_BlowingCandles_g17_c01.jpg",
+                "label": 13,
+                "classname": "Blowing_Candles"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Body_Weight_Squats/v_BodyWeightSquats_g13_c04.jpg",
+                "label": 14,
+                "classname": "Body_Weight_Squats"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Body_Weight_Squats/v_BodyWeightSquats_g14_c04.jpg",
+                "label": 14,
+                "classname": "Body_Weight_Squats"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Body_Weight_Squats/v_BodyWeightSquats_g13_c03.jpg",
+                "label": 14,
+                "classname": "Body_Weight_Squats"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Body_Weight_Squats/v_BodyWeightSquats_g12_c01.jpg",
+                "label": 14,
+                "classname": "Body_Weight_Squats"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Bowling/v_Bowling_g17_c05.jpg",
+                "label": 15,
+                "classname": "Bowling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Bowling/v_Bowling_g22_c07.jpg",
+                "label": 15,
+                "classname": "Bowling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Bowling/v_Bowling_g22_c03.jpg",
+                "label": 15,
+                "classname": "Bowling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Bowling/v_Bowling_g08_c06.jpg",
+                "label": 15,
+                "classname": "Bowling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Boxing_Punching_Bag/v_BoxingPunchingBag_g24_c07.jpg",
+                "label": 16,
+                "classname": "Boxing_Punching_Bag"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Boxing_Punching_Bag/v_BoxingPunchingBag_g20_c02.jpg",
+                "label": 16,
+                "classname": "Boxing_Punching_Bag"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Boxing_Punching_Bag/v_BoxingPunchingBag_g25_c06.jpg",
+                "label": 16,
+                "classname": "Boxing_Punching_Bag"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Boxing_Punching_Bag/v_BoxingPunchingBag_g16_c04.jpg",
+                "label": 16,
+                "classname": "Boxing_Punching_Bag"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Boxing_Speed_Bag/v_BoxingSpeedBag_g23_c05.jpg",
+                "label": 17,
+                "classname": "Boxing_Speed_Bag"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Boxing_Speed_Bag/v_BoxingSpeedBag_g18_c04.jpg",
+                "label": 17,
+                "classname": "Boxing_Speed_Bag"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Boxing_Speed_Bag/v_BoxingSpeedBag_g21_c03.jpg",
+                "label": 17,
+                "classname": "Boxing_Speed_Bag"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Boxing_Speed_Bag/v_BoxingSpeedBag_g13_c07.jpg",
+                "label": 17,
+                "classname": "Boxing_Speed_Bag"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Breast_Stroke/v_BreastStroke_g11_c04.jpg",
+                "label": 18,
+                "classname": "Breast_Stroke"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Breast_Stroke/v_BreastStroke_g08_c03.jpg",
+                "label": 18,
+                "classname": "Breast_Stroke"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Breast_Stroke/v_BreastStroke_g25_c01.jpg",
+                "label": 18,
+                "classname": "Breast_Stroke"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Breast_Stroke/v_BreastStroke_g13_c02.jpg",
+                "label": 18,
+                "classname": "Breast_Stroke"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Brushing_Teeth/v_BrushingTeeth_g09_c01.jpg",
+                "label": 19,
+                "classname": "Brushing_Teeth"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Brushing_Teeth/v_BrushingTeeth_g23_c06.jpg",
+                "label": 19,
+                "classname": "Brushing_Teeth"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Brushing_Teeth/v_BrushingTeeth_g12_c02.jpg",
+                "label": 19,
+                "classname": "Brushing_Teeth"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Brushing_Teeth/v_BrushingTeeth_g25_c05.jpg",
+                "label": 19,
+                "classname": "Brushing_Teeth"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Clean_And_Jerk/v_CleanAndJerk_g25_c03.jpg",
+                "label": 20,
+                "classname": "Clean_And_Jerk"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Clean_And_Jerk/v_CleanAndJerk_g23_c04.jpg",
+                "label": 20,
+                "classname": "Clean_And_Jerk"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Clean_And_Jerk/v_CleanAndJerk_g16_c03.jpg",
+                "label": 20,
+                "classname": "Clean_And_Jerk"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Clean_And_Jerk/v_CleanAndJerk_g15_c03.jpg",
+                "label": 20,
+                "classname": "Clean_And_Jerk"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cliff_Diving/v_CliffDiving_g19_c02.jpg",
+                "label": 21,
+                "classname": "Cliff_Diving"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cliff_Diving/v_CliffDiving_g23_c01.jpg",
+                "label": 21,
+                "classname": "Cliff_Diving"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cliff_Diving/v_CliffDiving_g24_c02.jpg",
+                "label": 21,
+                "classname": "Cliff_Diving"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cliff_Diving/v_CliffDiving_g15_c01.jpg",
+                "label": 21,
+                "classname": "Cliff_Diving"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cricket_Bowling/v_CricketBowling_g22_c05.jpg",
+                "label": 22,
+                "classname": "Cricket_Bowling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cricket_Bowling/v_CricketBowling_g14_c02.jpg",
+                "label": 22,
+                "classname": "Cricket_Bowling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cricket_Bowling/v_CricketBowling_g10_c04.jpg",
+                "label": 22,
+                "classname": "Cricket_Bowling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cricket_Bowling/v_CricketBowling_g16_c02.jpg",
+                "label": 22,
+                "classname": "Cricket_Bowling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cricket_Shot/v_CricketShot_g10_c06.jpg",
+                "label": 23,
+                "classname": "Cricket_Shot"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cricket_Shot/v_CricketShot_g18_c05.jpg",
+                "label": 23,
+                "classname": "Cricket_Shot"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cricket_Shot/v_CricketShot_g11_c02.jpg",
+                "label": 23,
+                "classname": "Cricket_Shot"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cricket_Shot/v_CricketShot_g16_c04.jpg",
+                "label": 23,
+                "classname": "Cricket_Shot"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cutting_In_Kitchen/v_CuttingInKitchen_g10_c05.jpg",
+                "label": 24,
+                "classname": "Cutting_In_Kitchen"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cutting_In_Kitchen/v_CuttingInKitchen_g08_c01.jpg",
+                "label": 24,
+                "classname": "Cutting_In_Kitchen"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cutting_In_Kitchen/v_CuttingInKitchen_g20_c02.jpg",
+                "label": 24,
+                "classname": "Cutting_In_Kitchen"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Cutting_In_Kitchen/v_CuttingInKitchen_g10_c03.jpg",
+                "label": 24,
+                "classname": "Cutting_In_Kitchen"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Diving/v_Diving_g16_c05.jpg",
+                "label": 25,
+                "classname": "Diving"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Diving/v_Diving_g20_c03.jpg",
+                "label": 25,
+                "classname": "Diving"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Diving/v_Diving_g21_c03.jpg",
+                "label": 25,
+                "classname": "Diving"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Diving/v_Diving_g15_c07.jpg",
+                "label": 25,
+                "classname": "Diving"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Drumming/v_Drumming_g11_c06.jpg",
+                "label": 26,
+                "classname": "Drumming"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Drumming/v_Drumming_g10_c05.jpg",
+                "label": 26,
+                "classname": "Drumming"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Drumming/v_Drumming_g12_c07.jpg",
+                "label": 26,
+                "classname": "Drumming"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Drumming/v_Drumming_g11_c01.jpg",
+                "label": 26,
+                "classname": "Drumming"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Fencing/v_Fencing_g14_c02.jpg",
+                "label": 27,
+                "classname": "Fencing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Fencing/v_Fencing_g20_c03.jpg",
+                "label": 27,
+                "classname": "Fencing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Fencing/v_Fencing_g15_c02.jpg",
+                "label": 27,
+                "classname": "Fencing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Fencing/v_Fencing_g09_c01.jpg",
+                "label": 27,
+                "classname": "Fencing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Field_Hockey_Penalty/v_FieldHockeyPenalty_g21_c04.jpg",
+                "label": 28,
+                "classname": "Field_Hockey_Penalty"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Field_Hockey_Penalty/v_FieldHockeyPenalty_g18_c02.jpg",
+                "label": 28,
+                "classname": "Field_Hockey_Penalty"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Field_Hockey_Penalty/v_FieldHockeyPenalty_g08_c03.jpg",
+                "label": 28,
+                "classname": "Field_Hockey_Penalty"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Field_Hockey_Penalty/v_FieldHockeyPenalty_g16_c04.jpg",
+                "label": 28,
+                "classname": "Field_Hockey_Penalty"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Floor_Gymnastics/v_FloorGymnastics_g11_c04.jpg",
+                "label": 29,
+                "classname": "Floor_Gymnastics"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Floor_Gymnastics/v_FloorGymnastics_g08_c02.jpg",
+                "label": 29,
+                "classname": "Floor_Gymnastics"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Floor_Gymnastics/v_FloorGymnastics_g09_c06.jpg",
+                "label": 29,
+                "classname": "Floor_Gymnastics"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Floor_Gymnastics/v_FloorGymnastics_g25_c05.jpg",
+                "label": 29,
+                "classname": "Floor_Gymnastics"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Frisbee_Catch/v_FrisbeeCatch_g10_c05.jpg",
+                "label": 30,
+                "classname": "Frisbee_Catch"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Frisbee_Catch/v_FrisbeeCatch_g10_c01.jpg",
+                "label": 30,
+                "classname": "Frisbee_Catch"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Frisbee_Catch/v_FrisbeeCatch_g24_c04.jpg",
+                "label": 30,
+                "classname": "Frisbee_Catch"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Frisbee_Catch/v_FrisbeeCatch_g25_c01.jpg",
+                "label": 30,
+                "classname": "Frisbee_Catch"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Front_Crawl/v_FrontCrawl_g20_c05.jpg",
+                "label": 31,
+                "classname": "Front_Crawl"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Front_Crawl/v_FrontCrawl_g17_c06.jpg",
+                "label": 31,
+                "classname": "Front_Crawl"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Front_Crawl/v_FrontCrawl_g13_c01.jpg",
+                "label": 31,
+                "classname": "Front_Crawl"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Front_Crawl/v_FrontCrawl_g24_c04.jpg",
+                "label": 31,
+                "classname": "Front_Crawl"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Golf_Swing/v_GolfSwing_g11_c02.jpg",
+                "label": 32,
+                "classname": "Golf_Swing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Golf_Swing/v_GolfSwing_g22_c06.jpg",
+                "label": 32,
+                "classname": "Golf_Swing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Golf_Swing/v_GolfSwing_g10_c02.jpg",
+                "label": 32,
+                "classname": "Golf_Swing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Golf_Swing/v_GolfSwing_g25_c02.jpg",
+                "label": 32,
+                "classname": "Golf_Swing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Haircut/v_Haircut_g15_c01.jpg",
+                "label": 33,
+                "classname": "Haircut"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Haircut/v_Haircut_g08_c06.jpg",
+                "label": 33,
+                "classname": "Haircut"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Haircut/v_Haircut_g14_c03.jpg",
+                "label": 33,
+                "classname": "Haircut"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Haircut/v_Haircut_g23_c01.jpg",
+                "label": 33,
+                "classname": "Haircut"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Hammering/v_Hammering_g13_c01.jpg",
+                "label": 34,
+                "classname": "Hammering"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Hammering/v_Hammering_g15_c06.jpg",
+                "label": 34,
+                "classname": "Hammering"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Hammering/v_Hammering_g11_c04.jpg",
+                "label": 34,
+                "classname": "Hammering"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Hammering/v_Hammering_g15_c02.jpg",
+                "label": 34,
+                "classname": "Hammering"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Hammer_Throw/v_HammerThrow_g13_c02.jpg",
+                "label": 35,
+                "classname": "Hammer_Throw"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Hammer_Throw/v_HammerThrow_g13_c06.jpg",
+                "label": 35,
+                "classname": "Hammer_Throw"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Hammer_Throw/v_HammerThrow_g20_c04.jpg",
+                "label": 35,
+                "classname": "Hammer_Throw"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Hammer_Throw/v_HammerThrow_g11_c04.jpg",
+                "label": 35,
+                "classname": "Hammer_Throw"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Handstand_Pushups/v_HandStandPushups_g22_c02.jpg",
+                "label": 36,
+                "classname": "Handstand_Pushups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Handstand_Pushups/v_HandStandPushups_g11_c03.jpg",
+                "label": 36,
+                "classname": "Handstand_Pushups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Handstand_Pushups/v_HandStandPushups_g12_c04.jpg",
+                "label": 36,
+                "classname": "Handstand_Pushups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Handstand_Pushups/v_HandStandPushups_g18_c03.jpg",
+                "label": 36,
+                "classname": "Handstand_Pushups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Handstand_Walking/v_HandstandWalking_g11_c01.jpg",
+                "label": 37,
+                "classname": "Handstand_Walking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Handstand_Walking/v_HandstandWalking_g14_c01.jpg",
+                "label": 37,
+                "classname": "Handstand_Walking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Handstand_Walking/v_HandstandWalking_g24_c02.jpg",
+                "label": 37,
+                "classname": "Handstand_Walking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Handstand_Walking/v_HandstandWalking_g16_c03.jpg",
+                "label": 37,
+                "classname": "Handstand_Walking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Head_Massage/v_HeadMassage_g23_c06.jpg",
+                "label": 38,
+                "classname": "Head_Massage"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Head_Massage/v_HeadMassage_g11_c07.jpg",
+                "label": 38,
+                "classname": "Head_Massage"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Head_Massage/v_HeadMassage_g21_c06.jpg",
+                "label": 38,
+                "classname": "Head_Massage"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Head_Massage/v_HeadMassage_g20_c02.jpg",
+                "label": 38,
+                "classname": "Head_Massage"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/High_Jump/v_HighJump_g09_c03.jpg",
+                "label": 39,
+                "classname": "High_Jump"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/High_Jump/v_HighJump_g11_c03.jpg",
+                "label": 39,
+                "classname": "High_Jump"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/High_Jump/v_HighJump_g15_c04.jpg",
+                "label": 39,
+                "classname": "High_Jump"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/High_Jump/v_HighJump_g20_c04.jpg",
+                "label": 39,
+                "classname": "High_Jump"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Horse_Race/v_HorseRace_g14_c04.jpg",
+                "label": 40,
+                "classname": "Horse_Race"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Horse_Race/v_HorseRace_g24_c02.jpg",
+                "label": 40,
+                "classname": "Horse_Race"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Horse_Race/v_HorseRace_g11_c01.jpg",
+                "label": 40,
+                "classname": "Horse_Race"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Horse_Race/v_HorseRace_g21_c02.jpg",
+                "label": 40,
+                "classname": "Horse_Race"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Horse_Riding/v_HorseRiding_g22_c07.jpg",
+                "label": 41,
+                "classname": "Horse_Riding"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Horse_Riding/v_HorseRiding_g16_c06.jpg",
+                "label": 41,
+                "classname": "Horse_Riding"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Horse_Riding/v_HorseRiding_g24_c02.jpg",
+                "label": 41,
+                "classname": "Horse_Riding"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Horse_Riding/v_HorseRiding_g11_c07.jpg",
+                "label": 41,
+                "classname": "Horse_Riding"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Hula_Hoop/v_HulaHoop_g22_c04.jpg",
+                "label": 42,
+                "classname": "Hula_Hoop"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Hula_Hoop/v_HulaHoop_g19_c03.jpg",
+                "label": 42,
+                "classname": "Hula_Hoop"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Hula_Hoop/v_HulaHoop_g09_c01.jpg",
+                "label": 42,
+                "classname": "Hula_Hoop"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Hula_Hoop/v_HulaHoop_g25_c02.jpg",
+                "label": 42,
+                "classname": "Hula_Hoop"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Ice_Dancing/v_IceDancing_g24_c05.jpg",
+                "label": 43,
+                "classname": "Ice_Dancing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Ice_Dancing/v_IceDancing_g21_c05.jpg",
+                "label": 43,
+                "classname": "Ice_Dancing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Ice_Dancing/v_IceDancing_g20_c01.jpg",
+                "label": 43,
+                "classname": "Ice_Dancing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Ice_Dancing/v_IceDancing_g24_c01.jpg",
+                "label": 43,
+                "classname": "Ice_Dancing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Javelin_Throw/v_JavelinThrow_g25_c03.jpg",
+                "label": 44,
+                "classname": "Javelin_Throw"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Javelin_Throw/v_JavelinThrow_g09_c02.jpg",
+                "label": 44,
+                "classname": "Javelin_Throw"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Javelin_Throw/v_JavelinThrow_g21_c03.jpg",
+                "label": 44,
+                "classname": "Javelin_Throw"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Javelin_Throw/v_JavelinThrow_g11_c03.jpg",
+                "label": 44,
+                "classname": "Javelin_Throw"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Juggling_Balls/v_JugglingBalls_g23_c02.jpg",
+                "label": 45,
+                "classname": "Juggling_Balls"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Juggling_Balls/v_JugglingBalls_g08_c01.jpg",
+                "label": 45,
+                "classname": "Juggling_Balls"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Juggling_Balls/v_JugglingBalls_g09_c01.jpg",
+                "label": 45,
+                "classname": "Juggling_Balls"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Juggling_Balls/v_JugglingBalls_g08_c04.jpg",
+                "label": 45,
+                "classname": "Juggling_Balls"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Jumping_Jack/v_JumpingJack_g13_c07.jpg",
+                "label": 46,
+                "classname": "Jumping_Jack"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Jumping_Jack/v_JumpingJack_g19_c01.jpg",
+                "label": 46,
+                "classname": "Jumping_Jack"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Jumping_Jack/v_JumpingJack_g25_c05.jpg",
+                "label": 46,
+                "classname": "Jumping_Jack"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Jumping_Jack/v_JumpingJack_g17_c02.jpg",
+                "label": 46,
+                "classname": "Jumping_Jack"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Jump_Rope/v_JumpRope_g12_c01.jpg",
+                "label": 47,
+                "classname": "Jump_Rope"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Jump_Rope/v_JumpRope_g21_c03.jpg",
+                "label": 47,
+                "classname": "Jump_Rope"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Jump_Rope/v_JumpRope_g08_c05.jpg",
+                "label": 47,
+                "classname": "Jump_Rope"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Jump_Rope/v_JumpRope_g11_c04.jpg",
+                "label": 47,
+                "classname": "Jump_Rope"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Kayaking/v_Kayaking_g24_c03.jpg",
+                "label": 48,
+                "classname": "Kayaking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Kayaking/v_Kayaking_g23_c06.jpg",
+                "label": 48,
+                "classname": "Kayaking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Kayaking/v_Kayaking_g21_c02.jpg",
+                "label": 48,
+                "classname": "Kayaking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Kayaking/v_Kayaking_g20_c03.jpg",
+                "label": 48,
+                "classname": "Kayaking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Knitting/v_Knitting_g11_c05.jpg",
+                "label": 49,
+                "classname": "Knitting"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Knitting/v_Knitting_g24_c03.jpg",
+                "label": 49,
+                "classname": "Knitting"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Knitting/v_Knitting_g24_c02.jpg",
+                "label": 49,
+                "classname": "Knitting"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Knitting/v_Knitting_g13_c02.jpg",
+                "label": 49,
+                "classname": "Knitting"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Long_Jump/v_LongJump_g11_c01.jpg",
+                "label": 50,
+                "classname": "Long_Jump"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Long_Jump/v_LongJump_g23_c03.jpg",
+                "label": 50,
+                "classname": "Long_Jump"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Long_Jump/v_LongJump_g08_c03.jpg",
+                "label": 50,
+                "classname": "Long_Jump"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Long_Jump/v_LongJump_g10_c06.jpg",
+                "label": 50,
+                "classname": "Long_Jump"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Lunges/v_Lunges_g23_c01.jpg",
+                "label": 51,
+                "classname": "Lunges"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Lunges/v_Lunges_g12_c02.jpg",
+                "label": 51,
+                "classname": "Lunges"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Lunges/v_Lunges_g18_c02.jpg",
+                "label": 51,
+                "classname": "Lunges"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Lunges/v_Lunges_g21_c05.jpg",
+                "label": 51,
+                "classname": "Lunges"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Military_Parade/v_MilitaryParade_g18_c01.jpg",
+                "label": 52,
+                "classname": "Military_Parade"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Military_Parade/v_MilitaryParade_g11_c03.jpg",
+                "label": 52,
+                "classname": "Military_Parade"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Military_Parade/v_MilitaryParade_g13_c03.jpg",
+                "label": 52,
+                "classname": "Military_Parade"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Military_Parade/v_MilitaryParade_g15_c06.jpg",
+                "label": 52,
+                "classname": "Military_Parade"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Mixing/v_Mixing_g18_c02.jpg",
+                "label": 53,
+                "classname": "Mixing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Mixing/v_Mixing_g21_c01.jpg",
+                "label": 53,
+                "classname": "Mixing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Mixing/v_Mixing_g14_c07.jpg",
+                "label": 53,
+                "classname": "Mixing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Mixing/v_Mixing_g08_c05.jpg",
+                "label": 53,
+                "classname": "Mixing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Mopping_Floor/v_MoppingFloor_g15_c02.jpg",
+                "label": 54,
+                "classname": "Mopping_Floor"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Mopping_Floor/v_MoppingFloor_g18_c03.jpg",
+                "label": 54,
+                "classname": "Mopping_Floor"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Mopping_Floor/v_MoppingFloor_g12_c02.jpg",
+                "label": 54,
+                "classname": "Mopping_Floor"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Mopping_Floor/v_MoppingFloor_g10_c02.jpg",
+                "label": 54,
+                "classname": "Mopping_Floor"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Nunchucks/v_Nunchucks_g16_c02.jpg",
+                "label": 55,
+                "classname": "Nunchucks"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Nunchucks/v_Nunchucks_g25_c03.jpg",
+                "label": 55,
+                "classname": "Nunchucks"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Nunchucks/v_Nunchucks_g11_c06.jpg",
+                "label": 55,
+                "classname": "Nunchucks"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Nunchucks/v_Nunchucks_g22_c04.jpg",
+                "label": 55,
+                "classname": "Nunchucks"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Parallel_Bars/v_ParallelBars_g15_c02.jpg",
+                "label": 56,
+                "classname": "Parallel_Bars"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Parallel_Bars/v_ParallelBars_g12_c02.jpg",
+                "label": 56,
+                "classname": "Parallel_Bars"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Parallel_Bars/v_ParallelBars_g16_c04.jpg",
+                "label": 56,
+                "classname": "Parallel_Bars"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Parallel_Bars/v_ParallelBars_g19_c02.jpg",
+                "label": 56,
+                "classname": "Parallel_Bars"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pizza_Tossing/v_PizzaTossing_g25_c04.jpg",
+                "label": 57,
+                "classname": "Pizza_Tossing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pizza_Tossing/v_PizzaTossing_g24_c01.jpg",
+                "label": 57,
+                "classname": "Pizza_Tossing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pizza_Tossing/v_PizzaTossing_g23_c03.jpg",
+                "label": 57,
+                "classname": "Pizza_Tossing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pizza_Tossing/v_PizzaTossing_g20_c02.jpg",
+                "label": 57,
+                "classname": "Pizza_Tossing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Cello/v_PlayingCello_g08_c01.jpg",
+                "label": 58,
+                "classname": "Playing_Cello"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Cello/v_PlayingCello_g25_c01.jpg",
+                "label": 58,
+                "classname": "Playing_Cello"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Cello/v_PlayingCello_g17_c06.jpg",
+                "label": 58,
+                "classname": "Playing_Cello"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Cello/v_PlayingCello_g15_c06.jpg",
+                "label": 58,
+                "classname": "Playing_Cello"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Daf/v_PlayingDaf_g14_c02.jpg",
+                "label": 59,
+                "classname": "Playing_Daf"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Daf/v_PlayingDaf_g14_c04.jpg",
+                "label": 59,
+                "classname": "Playing_Daf"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Daf/v_PlayingDaf_g08_c07.jpg",
+                "label": 59,
+                "classname": "Playing_Daf"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Daf/v_PlayingDaf_g08_c01.jpg",
+                "label": 59,
+                "classname": "Playing_Daf"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Dhol/v_PlayingDhol_g18_c05.jpg",
+                "label": 60,
+                "classname": "Playing_Dhol"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Dhol/v_PlayingDhol_g17_c02.jpg",
+                "label": 60,
+                "classname": "Playing_Dhol"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Dhol/v_PlayingDhol_g19_c07.jpg",
+                "label": 60,
+                "classname": "Playing_Dhol"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Dhol/v_PlayingDhol_g23_c03.jpg",
+                "label": 60,
+                "classname": "Playing_Dhol"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Flute/v_PlayingFlute_g25_c04.jpg",
+                "label": 61,
+                "classname": "Playing_Flute"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Flute/v_PlayingFlute_g11_c03.jpg",
+                "label": 61,
+                "classname": "Playing_Flute"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Flute/v_PlayingFlute_g14_c02.jpg",
+                "label": 61,
+                "classname": "Playing_Flute"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Flute/v_PlayingFlute_g23_c01.jpg",
+                "label": 61,
+                "classname": "Playing_Flute"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Guitar/v_PlayingGuitar_g14_c05.jpg",
+                "label": 62,
+                "classname": "Playing_Guitar"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Guitar/v_PlayingGuitar_g21_c04.jpg",
+                "label": 62,
+                "classname": "Playing_Guitar"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Guitar/v_PlayingGuitar_g18_c07.jpg",
+                "label": 62,
+                "classname": "Playing_Guitar"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Guitar/v_PlayingGuitar_g17_c02.jpg",
+                "label": 62,
+                "classname": "Playing_Guitar"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Piano/v_PlayingPiano_g19_c01.jpg",
+                "label": 63,
+                "classname": "Playing_Piano"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Piano/v_PlayingPiano_g23_c04.jpg",
+                "label": 63,
+                "classname": "Playing_Piano"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Piano/v_PlayingPiano_g08_c03.jpg",
+                "label": 63,
+                "classname": "Playing_Piano"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Piano/v_PlayingPiano_g17_c02.jpg",
+                "label": 63,
+                "classname": "Playing_Piano"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Sitar/v_PlayingSitar_g12_c01.jpg",
+                "label": 64,
+                "classname": "Playing_Sitar"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Sitar/v_PlayingSitar_g08_c01.jpg",
+                "label": 64,
+                "classname": "Playing_Sitar"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Sitar/v_PlayingSitar_g19_c03.jpg",
+                "label": 64,
+                "classname": "Playing_Sitar"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Sitar/v_PlayingSitar_g25_c02.jpg",
+                "label": 64,
+                "classname": "Playing_Sitar"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Tabla/v_PlayingTabla_g21_c03.jpg",
+                "label": 65,
+                "classname": "Playing_Tabla"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Tabla/v_PlayingTabla_g08_c01.jpg",
+                "label": 65,
+                "classname": "Playing_Tabla"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Tabla/v_PlayingTabla_g19_c03.jpg",
+                "label": 65,
+                "classname": "Playing_Tabla"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Tabla/v_PlayingTabla_g15_c03.jpg",
+                "label": 65,
+                "classname": "Playing_Tabla"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Violin/v_PlayingViolin_g24_c03.jpg",
+                "label": 66,
+                "classname": "Playing_Violin"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Violin/v_PlayingViolin_g20_c03.jpg",
+                "label": 66,
+                "classname": "Playing_Violin"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Violin/v_PlayingViolin_g11_c01.jpg",
+                "label": 66,
+                "classname": "Playing_Violin"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Playing_Violin/v_PlayingViolin_g21_c04.jpg",
+                "label": 66,
+                "classname": "Playing_Violin"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pole_Vault/v_PoleVault_g19_c04.jpg",
+                "label": 67,
+                "classname": "Pole_Vault"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pole_Vault/v_PoleVault_g10_c05.jpg",
+                "label": 67,
+                "classname": "Pole_Vault"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pole_Vault/v_PoleVault_g19_c05.jpg",
+                "label": 67,
+                "classname": "Pole_Vault"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pole_Vault/v_PoleVault_g16_c07.jpg",
+                "label": 67,
+                "classname": "Pole_Vault"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pommel_Horse/v_PommelHorse_g19_c03.jpg",
+                "label": 68,
+                "classname": "Pommel_Horse"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pommel_Horse/v_PommelHorse_g20_c06.jpg",
+                "label": 68,
+                "classname": "Pommel_Horse"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pommel_Horse/v_PommelHorse_g11_c03.jpg",
+                "label": 68,
+                "classname": "Pommel_Horse"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pommel_Horse/v_PommelHorse_g19_c06.jpg",
+                "label": 68,
+                "classname": "Pommel_Horse"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pull_Ups/v_PullUps_g10_c04.jpg",
+                "label": 69,
+                "classname": "Pull_Ups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pull_Ups/v_PullUps_g12_c03.jpg",
+                "label": 69,
+                "classname": "Pull_Ups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pull_Ups/v_PullUps_g18_c02.jpg",
+                "label": 69,
+                "classname": "Pull_Ups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Pull_Ups/v_PullUps_g25_c03.jpg",
+                "label": 69,
+                "classname": "Pull_Ups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Punch/v_Punch_g08_c03.jpg",
+                "label": 70,
+                "classname": "Punch"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Punch/v_Punch_g17_c02.jpg",
+                "label": 70,
+                "classname": "Punch"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Punch/v_Punch_g16_c02.jpg",
+                "label": 70,
+                "classname": "Punch"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Punch/v_Punch_g25_c03.jpg",
+                "label": 70,
+                "classname": "Punch"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Push_Ups/v_PushUps_g23_c04.jpg",
+                "label": 71,
+                "classname": "Push_Ups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Push_Ups/v_PushUps_g18_c02.jpg",
+                "label": 71,
+                "classname": "Push_Ups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Push_Ups/v_PushUps_g14_c03.jpg",
+                "label": 71,
+                "classname": "Push_Ups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Push_Ups/v_PushUps_g22_c04.jpg",
+                "label": 71,
+                "classname": "Push_Ups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rafting/v_Rafting_g14_c05.jpg",
+                "label": 72,
+                "classname": "Rafting"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rafting/v_Rafting_g18_c02.jpg",
+                "label": 72,
+                "classname": "Rafting"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rafting/v_Rafting_g21_c01.jpg",
+                "label": 72,
+                "classname": "Rafting"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rafting/v_Rafting_g14_c01.jpg",
+                "label": 72,
+                "classname": "Rafting"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rock_Climbing_Indoor/v_RockClimbingIndoor_g08_c01.jpg",
+                "label": 73,
+                "classname": "Rock_Climbing_Indoor"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rock_Climbing_Indoor/v_RockClimbingIndoor_g12_c03.jpg",
+                "label": 73,
+                "classname": "Rock_Climbing_Indoor"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rock_Climbing_Indoor/v_RockClimbingIndoor_g25_c01.jpg",
+                "label": 73,
+                "classname": "Rock_Climbing_Indoor"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rock_Climbing_Indoor/v_RockClimbingIndoor_g17_c04.jpg",
+                "label": 73,
+                "classname": "Rock_Climbing_Indoor"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rope_Climbing/v_RopeClimbing_g11_c03.jpg",
+                "label": 74,
+                "classname": "Rope_Climbing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rope_Climbing/v_RopeClimbing_g25_c04.jpg",
+                "label": 74,
+                "classname": "Rope_Climbing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rope_Climbing/v_RopeClimbing_g10_c04.jpg",
+                "label": 74,
+                "classname": "Rope_Climbing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rope_Climbing/v_RopeClimbing_g16_c02.jpg",
+                "label": 74,
+                "classname": "Rope_Climbing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rowing/v_Rowing_g24_c02.jpg",
+                "label": 75,
+                "classname": "Rowing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rowing/v_Rowing_g12_c03.jpg",
+                "label": 75,
+                "classname": "Rowing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rowing/v_Rowing_g23_c01.jpg",
+                "label": 75,
+                "classname": "Rowing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Rowing/v_Rowing_g13_c04.jpg",
+                "label": 75,
+                "classname": "Rowing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Salsa_Spin/v_SalsaSpin_g24_c01.jpg",
+                "label": 76,
+                "classname": "Salsa_Spin"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Salsa_Spin/v_SalsaSpin_g17_c04.jpg",
+                "label": 76,
+                "classname": "Salsa_Spin"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Salsa_Spin/v_SalsaSpin_g20_c02.jpg",
+                "label": 76,
+                "classname": "Salsa_Spin"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Salsa_Spin/v_SalsaSpin_g25_c03.jpg",
+                "label": 76,
+                "classname": "Salsa_Spin"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Shaving_Beard/v_ShavingBeard_g14_c04.jpg",
+                "label": 77,
+                "classname": "Shaving_Beard"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Shaving_Beard/v_ShavingBeard_g16_c05.jpg",
+                "label": 77,
+                "classname": "Shaving_Beard"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Shaving_Beard/v_ShavingBeard_g14_c03.jpg",
+                "label": 77,
+                "classname": "Shaving_Beard"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Shaving_Beard/v_ShavingBeard_g19_c06.jpg",
+                "label": 77,
+                "classname": "Shaving_Beard"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Shotput/v_Shotput_g09_c05.jpg",
+                "label": 78,
+                "classname": "Shotput"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Shotput/v_Shotput_g19_c03.jpg",
+                "label": 78,
+                "classname": "Shotput"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Shotput/v_Shotput_g15_c01.jpg",
+                "label": 78,
+                "classname": "Shotput"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Shotput/v_Shotput_g15_c03.jpg",
+                "label": 78,
+                "classname": "Shotput"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Skate_Boarding/v_SkateBoarding_g09_c02.jpg",
+                "label": 79,
+                "classname": "Skate_Boarding"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Skate_Boarding/v_SkateBoarding_g08_c02.jpg",
+                "label": 79,
+                "classname": "Skate_Boarding"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Skate_Boarding/v_SkateBoarding_g20_c02.jpg",
+                "label": 79,
+                "classname": "Skate_Boarding"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Skate_Boarding/v_SkateBoarding_g20_c05.jpg",
+                "label": 79,
+                "classname": "Skate_Boarding"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Skiing/v_Skiing_g11_c01.jpg",
+                "label": 80,
+                "classname": "Skiing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Skiing/v_Skiing_g24_c05.jpg",
+                "label": 80,
+                "classname": "Skiing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Skiing/v_Skiing_g22_c05.jpg",
+                "label": 80,
+                "classname": "Skiing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Skiing/v_Skiing_g21_c04.jpg",
+                "label": 80,
+                "classname": "Skiing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Skijet/v_Skijet_g23_c01.jpg",
+                "label": 81,
+                "classname": "Skijet"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Skijet/v_Skijet_g20_c04.jpg",
+                "label": 81,
+                "classname": "Skijet"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Skijet/v_Skijet_g20_c01.jpg",
+                "label": 81,
+                "classname": "Skijet"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Skijet/v_Skijet_g19_c02.jpg",
+                "label": 81,
+                "classname": "Skijet"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Sky_Diving/v_SkyDiving_g08_c03.jpg",
+                "label": 82,
+                "classname": "Sky_Diving"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Sky_Diving/v_SkyDiving_g25_c04.jpg",
+                "label": 82,
+                "classname": "Sky_Diving"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Sky_Diving/v_SkyDiving_g16_c01.jpg",
+                "label": 82,
+                "classname": "Sky_Diving"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Sky_Diving/v_SkyDiving_g10_c02.jpg",
+                "label": 82,
+                "classname": "Sky_Diving"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Soccer_Juggling/v_SoccerJuggling_g19_c05.jpg",
+                "label": 83,
+                "classname": "Soccer_Juggling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Soccer_Juggling/v_SoccerJuggling_g22_c07.jpg",
+                "label": 83,
+                "classname": "Soccer_Juggling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Soccer_Juggling/v_SoccerJuggling_g25_c06.jpg",
+                "label": 83,
+                "classname": "Soccer_Juggling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Soccer_Juggling/v_SoccerJuggling_g09_c06.jpg",
+                "label": 83,
+                "classname": "Soccer_Juggling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Soccer_Penalty/v_SoccerPenalty_g22_c03.jpg",
+                "label": 84,
+                "classname": "Soccer_Penalty"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Soccer_Penalty/v_SoccerPenalty_g09_c03.jpg",
+                "label": 84,
+                "classname": "Soccer_Penalty"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Soccer_Penalty/v_SoccerPenalty_g24_c02.jpg",
+                "label": 84,
+                "classname": "Soccer_Penalty"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Soccer_Penalty/v_SoccerPenalty_g21_c05.jpg",
+                "label": 84,
+                "classname": "Soccer_Penalty"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Still_Rings/v_StillRings_g19_c03.jpg",
+                "label": 85,
+                "classname": "Still_Rings"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Still_Rings/v_StillRings_g23_c04.jpg",
+                "label": 85,
+                "classname": "Still_Rings"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Still_Rings/v_StillRings_g16_c01.jpg",
+                "label": 85,
+                "classname": "Still_Rings"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Still_Rings/v_StillRings_g09_c02.jpg",
+                "label": 85,
+                "classname": "Still_Rings"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Sumo_Wrestling/v_SumoWrestling_g21_c02.jpg",
+                "label": 86,
+                "classname": "Sumo_Wrestling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Sumo_Wrestling/v_SumoWrestling_g16_c03.jpg",
+                "label": 86,
+                "classname": "Sumo_Wrestling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Sumo_Wrestling/v_SumoWrestling_g08_c07.jpg",
+                "label": 86,
+                "classname": "Sumo_Wrestling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Sumo_Wrestling/v_SumoWrestling_g13_c02.jpg",
+                "label": 86,
+                "classname": "Sumo_Wrestling"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Surfing/v_Surfing_g19_c01.jpg",
+                "label": 87,
+                "classname": "Surfing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Surfing/v_Surfing_g23_c03.jpg",
+                "label": 87,
+                "classname": "Surfing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Surfing/v_Surfing_g08_c03.jpg",
+                "label": 87,
+                "classname": "Surfing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Surfing/v_Surfing_g20_c05.jpg",
+                "label": 87,
+                "classname": "Surfing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Swing/v_Swing_g14_c03.jpg",
+                "label": 88,
+                "classname": "Swing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Swing/v_Swing_g13_c01.jpg",
+                "label": 88,
+                "classname": "Swing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Swing/v_Swing_g21_c04.jpg",
+                "label": 88,
+                "classname": "Swing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Swing/v_Swing_g20_c01.jpg",
+                "label": 88,
+                "classname": "Swing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Table_Tennis_Shot/v_TableTennisShot_g15_c02.jpg",
+                "label": 89,
+                "classname": "Table_Tennis_Shot"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Table_Tennis_Shot/v_TableTennisShot_g18_c04.jpg",
+                "label": 89,
+                "classname": "Table_Tennis_Shot"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Table_Tennis_Shot/v_TableTennisShot_g10_c03.jpg",
+                "label": 89,
+                "classname": "Table_Tennis_Shot"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Table_Tennis_Shot/v_TableTennisShot_g23_c06.jpg",
+                "label": 89,
+                "classname": "Table_Tennis_Shot"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Tai_Chi/v_TaiChi_g10_c03.jpg",
+                "label": 90,
+                "classname": "Tai_Chi"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Tai_Chi/v_TaiChi_g16_c01.jpg",
+                "label": 90,
+                "classname": "Tai_Chi"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Tai_Chi/v_TaiChi_g21_c02.jpg",
+                "label": 90,
+                "classname": "Tai_Chi"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Tai_Chi/v_TaiChi_g10_c01.jpg",
+                "label": 90,
+                "classname": "Tai_Chi"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Tennis_Swing/v_TennisSwing_g22_c06.jpg",
+                "label": 91,
+                "classname": "Tennis_Swing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Tennis_Swing/v_TennisSwing_g21_c04.jpg",
+                "label": 91,
+                "classname": "Tennis_Swing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Tennis_Swing/v_TennisSwing_g22_c02.jpg",
+                "label": 91,
+                "classname": "Tennis_Swing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Tennis_Swing/v_TennisSwing_g12_c03.jpg",
+                "label": 91,
+                "classname": "Tennis_Swing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Throw_Discus/v_ThrowDiscus_g18_c01.jpg",
+                "label": 92,
+                "classname": "Throw_Discus"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Throw_Discus/v_ThrowDiscus_g25_c02.jpg",
+                "label": 92,
+                "classname": "Throw_Discus"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Throw_Discus/v_ThrowDiscus_g09_c04.jpg",
+                "label": 92,
+                "classname": "Throw_Discus"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Throw_Discus/v_ThrowDiscus_g15_c02.jpg",
+                "label": 92,
+                "classname": "Throw_Discus"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Trampoline_Jumping/v_TrampolineJumping_g18_c01.jpg",
+                "label": 93,
+                "classname": "Trampoline_Jumping"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Trampoline_Jumping/v_TrampolineJumping_g11_c02.jpg",
+                "label": 93,
+                "classname": "Trampoline_Jumping"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Trampoline_Jumping/v_TrampolineJumping_g19_c03.jpg",
+                "label": 93,
+                "classname": "Trampoline_Jumping"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Trampoline_Jumping/v_TrampolineJumping_g17_c03.jpg",
+                "label": 93,
+                "classname": "Trampoline_Jumping"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Typing/v_Typing_g09_c03.jpg",
+                "label": 94,
+                "classname": "Typing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Typing/v_Typing_g22_c03.jpg",
+                "label": 94,
+                "classname": "Typing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Typing/v_Typing_g23_c03.jpg",
+                "label": 94,
+                "classname": "Typing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Typing/v_Typing_g14_c02.jpg",
+                "label": 94,
+                "classname": "Typing"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Uneven_Bars/v_UnevenBars_g22_c01.jpg",
+                "label": 95,
+                "classname": "Uneven_Bars"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Uneven_Bars/v_UnevenBars_g08_c04.jpg",
+                "label": 95,
+                "classname": "Uneven_Bars"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Uneven_Bars/v_UnevenBars_g08_c01.jpg",
+                "label": 95,
+                "classname": "Uneven_Bars"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Uneven_Bars/v_UnevenBars_g13_c04.jpg",
+                "label": 95,
+                "classname": "Uneven_Bars"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Volleyball_Spiking/v_VolleyballSpiking_g09_c06.jpg",
+                "label": 96,
+                "classname": "Volleyball_Spiking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Volleyball_Spiking/v_VolleyballSpiking_g23_c03.jpg",
+                "label": 96,
+                "classname": "Volleyball_Spiking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Volleyball_Spiking/v_VolleyballSpiking_g21_c03.jpg",
+                "label": 96,
+                "classname": "Volleyball_Spiking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Volleyball_Spiking/v_VolleyballSpiking_g17_c04.jpg",
+                "label": 96,
+                "classname": "Volleyball_Spiking"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Walking_With_Dog/v_WalkingWithDog_g18_c04.jpg",
+                "label": 97,
+                "classname": "Walking_With_Dog"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Walking_With_Dog/v_WalkingWithDog_g18_c03.jpg",
+                "label": 97,
+                "classname": "Walking_With_Dog"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Walking_With_Dog/v_WalkingWithDog_g25_c01.jpg",
+                "label": 97,
+                "classname": "Walking_With_Dog"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Walking_With_Dog/v_WalkingWithDog_g25_c04.jpg",
+                "label": 97,
+                "classname": "Walking_With_Dog"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Wall_Pushups/v_WallPushups_g11_c03.jpg",
+                "label": 98,
+                "classname": "Wall_Pushups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Wall_Pushups/v_WallPushups_g20_c05.jpg",
+                "label": 98,
+                "classname": "Wall_Pushups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Wall_Pushups/v_WallPushups_g11_c06.jpg",
+                "label": 98,
+                "classname": "Wall_Pushups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Wall_Pushups/v_WallPushups_g22_c02.jpg",
+                "label": 98,
+                "classname": "Wall_Pushups"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Writing_On_Board/v_WritingOnBoard_g17_c01.jpg",
+                "label": 99,
+                "classname": "Writing_On_Board"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Writing_On_Board/v_WritingOnBoard_g18_c03.jpg",
+                "label": 99,
+                "classname": "Writing_On_Board"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Writing_On_Board/v_WritingOnBoard_g12_c04.jpg",
+                "label": 99,
+                "classname": "Writing_On_Board"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Writing_On_Board/v_WritingOnBoard_g10_c05.jpg",
+                "label": 99,
+                "classname": "Writing_On_Board"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Yo_Yo/v_YoYo_g25_c02.jpg",
+                "label": 100,
+                "classname": "Yo_Yo"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Yo_Yo/v_YoYo_g09_c01.jpg",
+                "label": 100,
+                "classname": "Yo_Yo"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Yo_Yo/v_YoYo_g11_c02.jpg",
+                "label": 100,
+                "classname": "Yo_Yo"
+            },
+            {
+                "impath": "data/CoOp/ucf101/UCF-101-midframes/Yo_Yo/v_YoYo_g09_c02.jpg",
+                "label": 100,
+                "classname": "Yo_Yo"
+            }
+        ],
+        "indices": [
+            5,
+            15,
+            17,
+            18,
+            30,
+            28,
+            22,
+            26,
+            54,
+            53,
+            37,
+            38,
+            64,
+            65,
+            59,
+            73,
+            86,
+            76,
+            81,
+            87,
+            104,
+            93,
+            103,
+            106,
+            114,
+            116,
+            132,
+            120,
+            153,
+            137,
+            138,
+            143,
+            168,
+            158,
+            159,
+            170,
+            186,
+            178,
+            175,
+            192,
+            201,
+            196,
+            198,
+            207,
+            216,
+            222,
+            215,
+            232,
+            254,
+            239,
+            248,
+            240,
+            255,
+            261,
+            256,
+            260,
+            285,
+            277,
+            275,
+            280,
+            297,
+            287,
+            290,
+            295,
+            312,
+            326,
+            328,
+            329,
+            347,
+            340,
+            338,
+            339,
+            351,
+            358,
+            353,
+            354,
+            374,
+            381,
+            369,
+            372,
+            395,
+            391,
+            399,
+            390,
+            405,
+            404,
+            400,
+            410,
+            422,
+            438,
+            421,
+            440,
+            444,
+            457,
+            460,
+            455,
+            468,
+            471,
+            472,
+            477,
+            490,
+            483,
+            496,
+            480,
+            518,
+            513,
+            502,
+            505,
+            530,
+            534,
+            536,
+            527,
+            542,
+            541,
+            553,
+            549,
+            571,
+            562,
+            560,
+            567,
+            586,
+            585,
+            581,
+            578,
+            602,
+            603,
+            604,
+            609,
+            616,
+            623,
+            621,
+            625,
+            643,
+            648,
+            633,
+            638,
+            656,
+            663,
+            653,
+            654,
+            673,
+            692,
+            677,
+            678,
+            699,
+            694,
+            708,
+            710,
+            723,
+            725,
+            718,
+            713,
+            741,
+            743,
+            737,
+            748,
+            759,
+            763,
+            756,
+            750,
+            772,
+            770,
+            771,
+            767,
+            795,
+            796,
+            799,
+            788,
+            824,
+            815,
+            810,
+            811,
+            830,
+            834,
+            846,
+            832,
+            848,
+            862,
+            861,
+            847,
+            875,
+            878,
+            876,
+            869,
+            890,
+            881,
+            891,
+            880,
+            911,
+            912,
+            901,
+            900,
+            928,
+            927,
+            932,
+            925,
+            944,
+            940,
+            945,
+            950,
+            957,
+            964,
+            959,
+            966,
+            987,
+            986,
+            984,
+            977,
+            1007,
+            1004,
+            1002,
+            994,
+            1025,
+            1016,
+            1018,
+            1013,
+            1039,
+            1032,
+            1029,
+            1043,
+            1057,
+            1052,
+            1044,
+            1058,
+            1063,
+            1070,
+            1075,
+            1073,
+            1091,
+            1080,
+            1078,
+            1093,
+            1111,
+            1110,
+            1112,
+            1105,
+            1121,
+            1120,
+            1125,
+            1133,
+            1142,
+            1155,
+            1141,
+            1161,
+            1170,
+            1164,
+            1178,
+            1175,
+            1185,
+            1192,
+            1197,
+            1198,
+            1211,
+            1217,
+            1207,
+            1219,
+            1228,
+            1227,
+            1244,
+            1238,
+            1257,
+            1248,
+            1253,
+            1259,
+            1262,
+            1266,
+            1274,
+            1272,
+            1292,
+            1280,
+            1294,
+            1277,
+            1303,
+            1297,
+            1311,
+            1305,
+            1320,
+            1322,
+            1321,
+            1324,
+            1341,
+            1345,
+            1349,
+            1333,
+            1364,
+            1353,
+            1357,
+            1360,
+            1374,
+            1370,
+            1369,
+            1371,
+            1399,
+            1386,
+            1392,
+            1396,
+            1415,
+            1409,
+            1407,
+            1413,
+            1424,
+            1437,
+            1429,
+            1441,
+            1455,
+            1449,
+            1450,
+            1442,
+            1475,
+            1482,
+            1467,
+            1461,
+            1490,
+            1493,
+            1495,
+            1487,
+            1506,
+            1517,
+            1514,
+            1510,
+            1539,
+            1522,
+            1531,
+            1526,
+            1550,
+            1541,
+            1548,
+            1543,
+            1555,
+            1566,
+            1570,
+            1569,
+            1584,
+            1579,
+            1574,
+            1583,
+            1610,
+            1597,
+            1603,
+            1595,
+            1621,
+            1614,
+            1626,
+            1616,
+            1643,
+            1638,
+            1633,
+            1632,
+            1645,
+            1646,
+            1644,
+            1660,
+            1666,
+            1664,
+            1667,
+            1676,
+            1692,
+            1694,
+            1689,
+            1681,
+            1704,
+            1709,
+            1707,
+            1703,
+            1726,
+            1721,
+            1725,
+            1715,
+            1743,
+            1755,
+            1741,
+            1742,
+            1772,
+            1761,
+            1766,
+            1767,
+            1777,
+            1787,
+            1786,
+            1789,
+            1793,
+            1797,
+            1805,
+            1799,
+            1814,
+            1822,
+            1816,
+            1813,
+            1828,
+            1837,
+            1823,
+            1835,
+            1845,
+            1857,
+            1855,
+            1856,
+            1878,
+            1859,
+            1862,
+            1863,
+            1893,
+            1881,
+            1886,
+            1880
+        ]
+    }
+}

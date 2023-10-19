@@ -1,0 +1,2414 @@
+{
+    "train": {
+        "data": [
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0950991.jpg",
+                "label": 0,
+                "classname": "707-320"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0864665.jpg",
+                "label": 0,
+                "classname": "707-320"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0065840.jpg",
+                "label": 1,
+                "classname": "727-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1059846.jpg",
+                "label": 1,
+                "classname": "727-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0592977.jpg",
+                "label": 2,
+                "classname": "737-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0438655.jpg",
+                "label": 2,
+                "classname": "737-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1323729.jpg",
+                "label": 3,
+                "classname": "737-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0830001.jpg",
+                "label": 3,
+                "classname": "737-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1906287.jpg",
+                "label": 4,
+                "classname": "737-400"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0122393.jpg",
+                "label": 4,
+                "classname": "737-400"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1053446.jpg",
+                "label": 5,
+                "classname": "737-500"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0457865.jpg",
+                "label": 5,
+                "classname": "737-500"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0842381.jpg",
+                "label": 6,
+                "classname": "737-600"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1759296.jpg",
+                "label": 6,
+                "classname": "737-600"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1846150.jpg",
+                "label": 7,
+                "classname": "737-700"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0067036.jpg",
+                "label": 7,
+                "classname": "737-700"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1043795.jpg",
+                "label": 8,
+                "classname": "737-800"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0706175.jpg",
+                "label": 8,
+                "classname": "737-800"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0641165.jpg",
+                "label": 9,
+                "classname": "737-900"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1001620.jpg",
+                "label": 9,
+                "classname": "737-900"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1008872.jpg",
+                "label": 10,
+                "classname": "747-100"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1251094.jpg",
+                "label": 10,
+                "classname": "747-100"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1200648.jpg",
+                "label": 11,
+                "classname": "747-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1037501.jpg",
+                "label": 11,
+                "classname": "747-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0487374.jpg",
+                "label": 12,
+                "classname": "747-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0983542.jpg",
+                "label": 12,
+                "classname": "747-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1514578.jpg",
+                "label": 13,
+                "classname": "747-400"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0367973.jpg",
+                "label": 13,
+                "classname": "747-400"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0275117.jpg",
+                "label": 14,
+                "classname": "757-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0056297.jpg",
+                "label": 14,
+                "classname": "757-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0662343.jpg",
+                "label": 15,
+                "classname": "757-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0361100.jpg",
+                "label": 15,
+                "classname": "757-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0188143.jpg",
+                "label": 16,
+                "classname": "767-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2004902.jpg",
+                "label": 16,
+                "classname": "767-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0716370.jpg",
+                "label": 17,
+                "classname": "767-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1901133.jpg",
+                "label": 17,
+                "classname": "767-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0835837.jpg",
+                "label": 18,
+                "classname": "767-400"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1165767.jpg",
+                "label": 18,
+                "classname": "767-400"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2172265.jpg",
+                "label": 19,
+                "classname": "777-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0487358.jpg",
+                "label": 19,
+                "classname": "777-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1627991.jpg",
+                "label": 20,
+                "classname": "777-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0123344.jpg",
+                "label": 20,
+                "classname": "777-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0523221.jpg",
+                "label": 21,
+                "classname": "A300B4"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0361112.jpg",
+                "label": 21,
+                "classname": "A300B4"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0923502.jpg",
+                "label": 22,
+                "classname": "A310"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1027362.jpg",
+                "label": 22,
+                "classname": "A310"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1296212.jpg",
+                "label": 23,
+                "classname": "A318"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1376172.jpg",
+                "label": 23,
+                "classname": "A318"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1917860.jpg",
+                "label": 24,
+                "classname": "A319"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0709185.jpg",
+                "label": 24,
+                "classname": "A319"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1008426.jpg",
+                "label": 25,
+                "classname": "A320"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0829997.jpg",
+                "label": 25,
+                "classname": "A320"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0367993.jpg",
+                "label": 26,
+                "classname": "A321"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2206288.jpg",
+                "label": 26,
+                "classname": "A321"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1461298.jpg",
+                "label": 27,
+                "classname": "A330-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1539325.jpg",
+                "label": 27,
+                "classname": "A330-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0714155.jpg",
+                "label": 28,
+                "classname": "A330-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1939758.jpg",
+                "label": 28,
+                "classname": "A330-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0066533.jpg",
+                "label": 29,
+                "classname": "A340-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0072870.jpg",
+                "label": 29,
+                "classname": "A340-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0681536.jpg",
+                "label": 30,
+                "classname": "A340-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1335195.jpg",
+                "label": 30,
+                "classname": "A340-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0807870.jpg",
+                "label": 31,
+                "classname": "A340-500"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1830876.jpg",
+                "label": 31,
+                "classname": "A340-500"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1390327.jpg",
+                "label": 32,
+                "classname": "A340-600"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1567292.jpg",
+                "label": 32,
+                "classname": "A340-600"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1855197.jpg",
+                "label": 33,
+                "classname": "A380"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1687332.jpg",
+                "label": 33,
+                "classname": "A380"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1890576.jpg",
+                "label": 34,
+                "classname": "ATR-42"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0967830.jpg",
+                "label": 34,
+                "classname": "ATR-42"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1336451.jpg",
+                "label": 35,
+                "classname": "ATR-72"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1838529.jpg",
+                "label": 35,
+                "classname": "ATR-72"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1376795.jpg",
+                "label": 36,
+                "classname": "An-12"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1184706.jpg",
+                "label": 36,
+                "classname": "An-12"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0923708.jpg",
+                "label": 37,
+                "classname": "BAE 146-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1133135.jpg",
+                "label": 37,
+                "classname": "BAE 146-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0758359.jpg",
+                "label": 38,
+                "classname": "BAE 146-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0077518.jpg",
+                "label": 38,
+                "classname": "BAE 146-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1070335.jpg",
+                "label": 39,
+                "classname": "BAE-125"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1662815.jpg",
+                "label": 39,
+                "classname": "BAE-125"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1772155.jpg",
+                "label": 40,
+                "classname": "Beechcraft 1900"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0063286.jpg",
+                "label": 40,
+                "classname": "Beechcraft 1900"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1351195.jpg",
+                "label": 41,
+                "classname": "Boeing 717"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0302019.jpg",
+                "label": 41,
+                "classname": "Boeing 717"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1364712.jpg",
+                "label": 42,
+                "classname": "C-130"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0573367.jpg",
+                "label": 42,
+                "classname": "C-130"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0704643.jpg",
+                "label": 43,
+                "classname": "C-47"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0336316.jpg",
+                "label": 43,
+                "classname": "C-47"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1355445.jpg",
+                "label": 44,
+                "classname": "CRJ-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0362859.jpg",
+                "label": 44,
+                "classname": "CRJ-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1498555.jpg",
+                "label": 45,
+                "classname": "CRJ-700"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1186595.jpg",
+                "label": 45,
+                "classname": "CRJ-700"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1558772.jpg",
+                "label": 46,
+                "classname": "CRJ-900"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2193787.jpg",
+                "label": 46,
+                "classname": "CRJ-900"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1709268.jpg",
+                "label": 47,
+                "classname": "Cessna 172"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1647142.jpg",
+                "label": 47,
+                "classname": "Cessna 172"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1769168.jpg",
+                "label": 48,
+                "classname": "Cessna 208"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0979649.jpg",
+                "label": 48,
+                "classname": "Cessna 208"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1818166.jpg",
+                "label": 49,
+                "classname": "Cessna 525"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1921500.jpg",
+                "label": 49,
+                "classname": "Cessna 525"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1239645.jpg",
+                "label": 50,
+                "classname": "Cessna 560"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1468804.jpg",
+                "label": 50,
+                "classname": "Cessna 560"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1387066.jpg",
+                "label": 51,
+                "classname": "Challenger 600"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0043892.jpg",
+                "label": 51,
+                "classname": "Challenger 600"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1523369.jpg",
+                "label": 52,
+                "classname": "DC-10"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0985789.jpg",
+                "label": 52,
+                "classname": "DC-10"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1543036.jpg",
+                "label": 53,
+                "classname": "DC-3"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2178266.jpg",
+                "label": 53,
+                "classname": "DC-3"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1601486.jpg",
+                "label": 54,
+                "classname": "DC-6"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1335215.jpg",
+                "label": 54,
+                "classname": "DC-6"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0901460.jpg",
+                "label": 55,
+                "classname": "DC-8"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1927216.jpg",
+                "label": 55,
+                "classname": "DC-8"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0685372.jpg",
+                "label": 56,
+                "classname": "DC-9-30"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0523118.jpg",
+                "label": 56,
+                "classname": "DC-9-30"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2211337.jpg",
+                "label": 57,
+                "classname": "DH-82"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1914385.jpg",
+                "label": 57,
+                "classname": "DH-82"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1940512.jpg",
+                "label": 58,
+                "classname": "DHC-1"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0653292.jpg",
+                "label": 58,
+                "classname": "DHC-1"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2003456.jpg",
+                "label": 59,
+                "classname": "DHC-6"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0735020.jpg",
+                "label": 59,
+                "classname": "DHC-6"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0907363.jpg",
+                "label": 60,
+                "classname": "DHC-8-100"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1097300.jpg",
+                "label": 60,
+                "classname": "DHC-8-100"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0835324.jpg",
+                "label": 61,
+                "classname": "DHC-8-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1714818.jpg",
+                "label": 61,
+                "classname": "DHC-8-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1366121.jpg",
+                "label": 62,
+                "classname": "DR-400"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1513134.jpg",
+                "label": 62,
+                "classname": "DR-400"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0923562.jpg",
+                "label": 63,
+                "classname": "Dornier 328"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2101956.jpg",
+                "label": 63,
+                "classname": "Dornier 328"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1913803.jpg",
+                "label": 64,
+                "classname": "E-170"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2213540.jpg",
+                "label": 64,
+                "classname": "E-170"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2251900.jpg",
+                "label": 65,
+                "classname": "E-190"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1334213.jpg",
+                "label": 65,
+                "classname": "E-190"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2222240.jpg",
+                "label": 66,
+                "classname": "E-195"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2227561.jpg",
+                "label": 66,
+                "classname": "E-195"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0457890.jpg",
+                "label": 67,
+                "classname": "EMB-120"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1390673.jpg",
+                "label": 67,
+                "classname": "EMB-120"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1129151.jpg",
+                "label": 68,
+                "classname": "ERJ 135"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0909665.jpg",
+                "label": 68,
+                "classname": "ERJ 135"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1782070.jpg",
+                "label": 69,
+                "classname": "ERJ 145"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0800636.jpg",
+                "label": 69,
+                "classname": "ERJ 145"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0794898.jpg",
+                "label": 70,
+                "classname": "Embraer Legacy 600"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1602123.jpg",
+                "label": 70,
+                "classname": "Embraer Legacy 600"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1443070.jpg",
+                "label": 71,
+                "classname": "Eurofighter Typhoon"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1946038.jpg",
+                "label": 71,
+                "classname": "Eurofighter Typhoon"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1552593.jpg",
+                "label": 72,
+                "classname": "F-16A/B"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1596393.jpg",
+                "label": 72,
+                "classname": "F-16A/B"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1987891.jpg",
+                "label": 73,
+                "classname": "F/A-18"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2132115.jpg",
+                "label": 73,
+                "classname": "F/A-18"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2036174.jpg",
+                "label": 74,
+                "classname": "Falcon 2000"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1795170.jpg",
+                "label": 74,
+                "classname": "Falcon 2000"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1395373.jpg",
+                "label": 75,
+                "classname": "Falcon 900"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1154960.jpg",
+                "label": 75,
+                "classname": "Falcon 900"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0958618.jpg",
+                "label": 76,
+                "classname": "Fokker 100"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0182735.jpg",
+                "label": 76,
+                "classname": "Fokker 100"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1958825.jpg",
+                "label": 77,
+                "classname": "Fokker 50"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1260869.jpg",
+                "label": 77,
+                "classname": "Fokker 50"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1540816.jpg",
+                "label": 78,
+                "classname": "Fokker 70"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1299601.jpg",
+                "label": 78,
+                "classname": "Fokker 70"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1233588.jpg",
+                "label": 79,
+                "classname": "Global Express"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0782933.jpg",
+                "label": 79,
+                "classname": "Global Express"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0514738.jpg",
+                "label": 80,
+                "classname": "Gulfstream IV"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1276727.jpg",
+                "label": 80,
+                "classname": "Gulfstream IV"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1311419.jpg",
+                "label": 81,
+                "classname": "Gulfstream V"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2041416.jpg",
+                "label": 81,
+                "classname": "Gulfstream V"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2223255.jpg",
+                "label": 82,
+                "classname": "Hawk T1"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1472586.jpg",
+                "label": 82,
+                "classname": "Hawk T1"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1033762.jpg",
+                "label": 83,
+                "classname": "Il-76"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0434362.jpg",
+                "label": 83,
+                "classname": "Il-76"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0063277.jpg",
+                "label": 84,
+                "classname": "L-1011"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0218848.jpg",
+                "label": 84,
+                "classname": "L-1011"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1554795.jpg",
+                "label": 85,
+                "classname": "MD-11"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0980092.jpg",
+                "label": 85,
+                "classname": "MD-11"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0704265.jpg",
+                "label": 86,
+                "classname": "MD-80"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1875195.jpg",
+                "label": 86,
+                "classname": "MD-80"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1772017.jpg",
+                "label": 87,
+                "classname": "MD-87"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1004662.jpg",
+                "label": 87,
+                "classname": "MD-87"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2244549.jpg",
+                "label": 88,
+                "classname": "MD-90"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2247794.jpg",
+                "label": 88,
+                "classname": "MD-90"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0975826.jpg",
+                "label": 89,
+                "classname": "Metroliner"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0063920.jpg",
+                "label": 89,
+                "classname": "Metroliner"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1461716.jpg",
+                "label": 90,
+                "classname": "Model B200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1088416.jpg",
+                "label": 90,
+                "classname": "Model B200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0793692.jpg",
+                "label": 91,
+                "classname": "PA-28"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1798545.jpg",
+                "label": 91,
+                "classname": "PA-28"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1281757.jpg",
+                "label": 92,
+                "classname": "SR-20"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1605921.jpg",
+                "label": 92,
+                "classname": "SR-20"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1389715.jpg",
+                "label": 93,
+                "classname": "Saab 2000"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2127989.jpg",
+                "label": 93,
+                "classname": "Saab 2000"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0435273.jpg",
+                "label": 94,
+                "classname": "Saab 340"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1054267.jpg",
+                "label": 94,
+                "classname": "Saab 340"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0876577.jpg",
+                "label": 95,
+                "classname": "Spitfire"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0713693.jpg",
+                "label": 95,
+                "classname": "Spitfire"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0607518.jpg",
+                "label": 96,
+                "classname": "Tornado"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2136392.jpg",
+                "label": 96,
+                "classname": "Tornado"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0988536.jpg",
+                "label": 97,
+                "classname": "Tu-134"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0525710.jpg",
+                "label": 97,
+                "classname": "Tu-134"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0944240.jpg",
+                "label": 98,
+                "classname": "Tu-154"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1230394.jpg",
+                "label": 98,
+                "classname": "Tu-154"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0394095.jpg",
+                "label": 99,
+                "classname": "Yak-42"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1696014.jpg",
+                "label": 99,
+                "classname": "Yak-42"
+            }
+        ],
+        "indices": [
+            15,
+            19,
+            40,
+            59,
+            97,
+            76,
+            105,
+            104,
+            135,
+            159,
+            185,
+            170,
+            214,
+            233,
+            257,
+            251,
+            278,
+            273,
+            316,
+            313,
+            335,
+            350,
+            384,
+            379,
+            410,
+            419,
+            452,
+            457,
+            472,
+            488,
+            524,
+            532,
+            549,
+            545,
+            582,
+            597,
+            617,
+            605,
+            653,
+            634,
+            685,
+            686,
+            732,
+            712,
+            760,
+            761,
+            785,
+            794,
+            828,
+            810,
+            848,
+            853,
+            883,
+            869,
+            905,
+            902,
+            963,
+            951,
+            997,
+            988,
+            1009,
+            1012,
+            1038,
+            1060,
+            1079,
+            1095,
+            1117,
+            1111,
+            1156,
+            1161,
+            1187,
+            1179,
+            1220,
+            1206,
+            1237,
+            1248,
+            1284,
+            1282,
+            1307,
+            1321,
+            1345,
+            1352,
+            1396,
+            1368,
+            1402,
+            1422,
+            1439,
+            1452,
+            1487,
+            1468,
+            1520,
+            1518,
+            1554,
+            1543,
+            1593,
+            1571,
+            1618,
+            1612,
+            1662,
+            1652,
+            1675,
+            1683,
+            1724,
+            1710,
+            1755,
+            1734,
+            1790,
+            1769,
+            1829,
+            1810,
+            1857,
+            1852,
+            1873,
+            1895,
+            1913,
+            1927,
+            1947,
+            1941,
+            1970,
+            1977,
+            2009,
+            2002,
+            2065,
+            2049,
+            2087,
+            2069,
+            2107,
+            2133,
+            2152,
+            2160,
+            2179,
+            2197,
+            2212,
+            2215,
+            2262,
+            2260,
+            2298,
+            2269,
+            2314,
+            2326,
+            2362,
+            2349,
+            2394,
+            2380,
+            2431,
+            2412,
+            2436,
+            2450,
+            2483,
+            2482,
+            2533,
+            2513,
+            2548,
+            2560,
+            2583,
+            2576,
+            2620,
+            2603,
+            2654,
+            2641,
+            2692,
+            2669,
+            2731,
+            2724,
+            2739,
+            2761,
+            2780,
+            2777,
+            2821,
+            2818,
+            2864,
+            2854,
+            2893,
+            2880,
+            2917,
+            2921,
+            2959,
+            2965,
+            2971,
+            2984,
+            3012,
+            3002,
+            3059,
+            3042,
+            3084,
+            3070,
+            3110,
+            3129,
+            3164,
+            3159,
+            3191,
+            3180,
+            3200,
+            3213,
+            3244,
+            3234,
+            3283,
+            3274,
+            3325,
+            3324
+        ]
+    },
+    "val": {
+        "data": [
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0536511.jpg",
+                "label": 0,
+                "classname": "707-320"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0887066.jpg",
+                "label": 0,
+                "classname": "707-320"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0582367.jpg",
+                "label": 1,
+                "classname": "727-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1691787.jpg",
+                "label": 1,
+                "classname": "727-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1869877.jpg",
+                "label": 2,
+                "classname": "737-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0109632.jpg",
+                "label": 2,
+                "classname": "737-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1118224.jpg",
+                "label": 3,
+                "classname": "737-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2227920.jpg",
+                "label": 3,
+                "classname": "737-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1245559.jpg",
+                "label": 4,
+                "classname": "737-400"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0939537.jpg",
+                "label": 4,
+                "classname": "737-400"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1272643.jpg",
+                "label": 5,
+                "classname": "737-500"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0434358.jpg",
+                "label": 5,
+                "classname": "737-500"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1229599.jpg",
+                "label": 6,
+                "classname": "737-600"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1908628.jpg",
+                "label": 6,
+                "classname": "737-600"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1358662.jpg",
+                "label": 7,
+                "classname": "737-700"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0229722.jpg",
+                "label": 7,
+                "classname": "737-700"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1244287.jpg",
+                "label": 8,
+                "classname": "737-800"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1594736.jpg",
+                "label": 8,
+                "classname": "737-800"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0311908.jpg",
+                "label": 9,
+                "classname": "737-900"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1106339.jpg",
+                "label": 9,
+                "classname": "737-900"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0275116.jpg",
+                "label": 10,
+                "classname": "747-100"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0713645.jpg",
+                "label": 10,
+                "classname": "747-100"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0097750.jpg",
+                "label": 11,
+                "classname": "747-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0993945.jpg",
+                "label": 11,
+                "classname": "747-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1544177.jpg",
+                "label": 12,
+                "classname": "747-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0980191.jpg",
+                "label": 12,
+                "classname": "747-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0678979.jpg",
+                "label": 13,
+                "classname": "747-400"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1204178.jpg",
+                "label": 13,
+                "classname": "747-400"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1723911.jpg",
+                "label": 14,
+                "classname": "757-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0684607.jpg",
+                "label": 14,
+                "classname": "757-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0924405.jpg",
+                "label": 15,
+                "classname": "757-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2147405.jpg",
+                "label": 15,
+                "classname": "757-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0713467.jpg",
+                "label": 16,
+                "classname": "767-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1004743.jpg",
+                "label": 16,
+                "classname": "767-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1966248.jpg",
+                "label": 17,
+                "classname": "767-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0988938.jpg",
+                "label": 17,
+                "classname": "767-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1138890.jpg",
+                "label": 18,
+                "classname": "767-400"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2220738.jpg",
+                "label": 18,
+                "classname": "767-400"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1823703.jpg",
+                "label": 19,
+                "classname": "777-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0065436.jpg",
+                "label": 19,
+                "classname": "777-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1091648.jpg",
+                "label": 20,
+                "classname": "777-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2234654.jpg",
+                "label": 20,
+                "classname": "777-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0901516.jpg",
+                "label": 21,
+                "classname": "A300B4"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0123339.jpg",
+                "label": 21,
+                "classname": "A300B4"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1514483.jpg",
+                "label": 22,
+                "classname": "A310"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0870866.jpg",
+                "label": 22,
+                "classname": "A310"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1503763.jpg",
+                "label": 23,
+                "classname": "A318"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1375490.jpg",
+                "label": 23,
+                "classname": "A318"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2241501.jpg",
+                "label": 24,
+                "classname": "A319"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1671731.jpg",
+                "label": 24,
+                "classname": "A319"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2213523.jpg",
+                "label": 25,
+                "classname": "A320"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1267078.jpg",
+                "label": 25,
+                "classname": "A320"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1510899.jpg",
+                "label": 26,
+                "classname": "A321"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2239626.jpg",
+                "label": 26,
+                "classname": "A321"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1917497.jpg",
+                "label": 27,
+                "classname": "A330-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0846826.jpg",
+                "label": 27,
+                "classname": "A330-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0744232.jpg",
+                "label": 28,
+                "classname": "A330-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2120026.jpg",
+                "label": 28,
+                "classname": "A330-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0298309.jpg",
+                "label": 29,
+                "classname": "A340-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0799600.jpg",
+                "label": 29,
+                "classname": "A340-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0174852.jpg",
+                "label": 30,
+                "classname": "A340-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1365711.jpg",
+                "label": 30,
+                "classname": "A340-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1206539.jpg",
+                "label": 31,
+                "classname": "A340-500"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2243783.jpg",
+                "label": 31,
+                "classname": "A340-500"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1567838.jpg",
+                "label": 32,
+                "classname": "A340-600"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0566293.jpg",
+                "label": 32,
+                "classname": "A340-600"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2169490.jpg",
+                "label": 33,
+                "classname": "A380"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2210237.jpg",
+                "label": 33,
+                "classname": "A380"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1095701.jpg",
+                "label": 34,
+                "classname": "ATR-42"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0447941.jpg",
+                "label": 34,
+                "classname": "ATR-42"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1459119.jpg",
+                "label": 35,
+                "classname": "ATR-72"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1941841.jpg",
+                "label": 35,
+                "classname": "ATR-72"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0735977.jpg",
+                "label": 36,
+                "classname": "An-12"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2120028.jpg",
+                "label": 36,
+                "classname": "An-12"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0201665.jpg",
+                "label": 37,
+                "classname": "BAE 146-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1212178.jpg",
+                "label": 37,
+                "classname": "BAE 146-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1288665.jpg",
+                "label": 38,
+                "classname": "BAE 146-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1210459.jpg",
+                "label": 38,
+                "classname": "BAE 146-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1369269.jpg",
+                "label": 39,
+                "classname": "BAE-125"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1186987.jpg",
+                "label": 39,
+                "classname": "BAE-125"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0454535.jpg",
+                "label": 40,
+                "classname": "Beechcraft 1900"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0066979.jpg",
+                "label": 40,
+                "classname": "Beechcraft 1900"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0708618.jpg",
+                "label": 41,
+                "classname": "Boeing 717"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1367495.jpg",
+                "label": 41,
+                "classname": "Boeing 717"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1768029.jpg",
+                "label": 42,
+                "classname": "C-130"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1152062.jpg",
+                "label": 42,
+                "classname": "C-130"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1115302.jpg",
+                "label": 43,
+                "classname": "C-47"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0800914.jpg",
+                "label": 43,
+                "classname": "C-47"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0483585.jpg",
+                "label": 44,
+                "classname": "CRJ-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0488515.jpg",
+                "label": 44,
+                "classname": "CRJ-200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0303915.jpg",
+                "label": 45,
+                "classname": "CRJ-700"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0775040.jpg",
+                "label": 45,
+                "classname": "CRJ-700"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1500383.jpg",
+                "label": 46,
+                "classname": "CRJ-900"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1284367.jpg",
+                "label": 46,
+                "classname": "CRJ-900"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2105993.jpg",
+                "label": 47,
+                "classname": "Cessna 172"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0974653.jpg",
+                "label": 47,
+                "classname": "Cessna 172"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1344064.jpg",
+                "label": 48,
+                "classname": "Cessna 208"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1036820.jpg",
+                "label": 48,
+                "classname": "Cessna 208"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1964097.jpg",
+                "label": 49,
+                "classname": "Cessna 525"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1148185.jpg",
+                "label": 49,
+                "classname": "Cessna 525"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1017974.jpg",
+                "label": 50,
+                "classname": "Cessna 560"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1465214.jpg",
+                "label": 50,
+                "classname": "Cessna 560"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1693795.jpg",
+                "label": 51,
+                "classname": "Challenger 600"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1523342.jpg",
+                "label": 51,
+                "classname": "Challenger 600"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1133613.jpg",
+                "label": 52,
+                "classname": "DC-10"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0331432.jpg",
+                "label": 52,
+                "classname": "DC-10"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0807951.jpg",
+                "label": 53,
+                "classname": "DC-3"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1817298.jpg",
+                "label": 53,
+                "classname": "DC-3"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1308267.jpg",
+                "label": 54,
+                "classname": "DC-6"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1443542.jpg",
+                "label": 54,
+                "classname": "DC-6"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0592981.jpg",
+                "label": 55,
+                "classname": "DC-8"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0921023.jpg",
+                "label": 55,
+                "classname": "DC-8"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1376992.jpg",
+                "label": 56,
+                "classname": "DC-9-30"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0457857.jpg",
+                "label": 56,
+                "classname": "DC-9-30"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0730326.jpg",
+                "label": 57,
+                "classname": "DH-82"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0818052.jpg",
+                "label": 57,
+                "classname": "DH-82"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0877062.jpg",
+                "label": 58,
+                "classname": "DHC-1"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2178959.jpg",
+                "label": 58,
+                "classname": "DHC-1"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2107240.jpg",
+                "label": 59,
+                "classname": "DHC-6"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0879889.jpg",
+                "label": 59,
+                "classname": "DHC-6"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1240265.jpg",
+                "label": 60,
+                "classname": "DHC-8-100"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0154348.jpg",
+                "label": 60,
+                "classname": "DHC-8-100"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1714824.jpg",
+                "label": 61,
+                "classname": "DHC-8-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1902313.jpg",
+                "label": 61,
+                "classname": "DHC-8-300"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1602738.jpg",
+                "label": 62,
+                "classname": "DR-400"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1775161.jpg",
+                "label": 62,
+                "classname": "DR-400"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0454765.jpg",
+                "label": 63,
+                "classname": "Dornier 328"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1000026.jpg",
+                "label": 63,
+                "classname": "Dornier 328"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1181138.jpg",
+                "label": 64,
+                "classname": "E-170"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1699128.jpg",
+                "label": 64,
+                "classname": "E-170"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1527509.jpg",
+                "label": 65,
+                "classname": "E-190"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2069478.jpg",
+                "label": 65,
+                "classname": "E-190"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2117422.jpg",
+                "label": 66,
+                "classname": "E-195"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1841545.jpg",
+                "label": 66,
+                "classname": "E-195"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0447772.jpg",
+                "label": 67,
+                "classname": "EMB-120"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2160660.jpg",
+                "label": 67,
+                "classname": "EMB-120"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1255033.jpg",
+                "label": 68,
+                "classname": "ERJ 135"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1596583.jpg",
+                "label": 68,
+                "classname": "ERJ 135"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0174943.jpg",
+                "label": 69,
+                "classname": "ERJ 145"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0225213.jpg",
+                "label": 69,
+                "classname": "ERJ 145"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1714814.jpg",
+                "label": 70,
+                "classname": "Embraer Legacy 600"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1177223.jpg",
+                "label": 70,
+                "classname": "Embraer Legacy 600"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1715545.jpg",
+                "label": 71,
+                "classname": "Eurofighter Typhoon"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1465191.jpg",
+                "label": 71,
+                "classname": "Eurofighter Typhoon"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1279747.jpg",
+                "label": 72,
+                "classname": "F-16A/B"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1592497.jpg",
+                "label": 72,
+                "classname": "F-16A/B"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2123736.jpg",
+                "label": 73,
+                "classname": "F/A-18"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2132449.jpg",
+                "label": 73,
+                "classname": "F/A-18"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0550495.jpg",
+                "label": 74,
+                "classname": "Falcon 2000"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1216468.jpg",
+                "label": 74,
+                "classname": "Falcon 2000"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1543493.jpg",
+                "label": 75,
+                "classname": "Falcon 900"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1213100.jpg",
+                "label": 75,
+                "classname": "Falcon 900"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0066424.jpg",
+                "label": 76,
+                "classname": "Fokker 100"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2213538.jpg",
+                "label": 76,
+                "classname": "Fokker 100"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1252081.jpg",
+                "label": 77,
+                "classname": "Fokker 50"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1266357.jpg",
+                "label": 77,
+                "classname": "Fokker 50"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1674735.jpg",
+                "label": 78,
+                "classname": "Fokker 70"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0167063.jpg",
+                "label": 78,
+                "classname": "Fokker 70"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1332208.jpg",
+                "label": 79,
+                "classname": "Global Express"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2094893.jpg",
+                "label": 79,
+                "classname": "Global Express"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0696943.jpg",
+                "label": 80,
+                "classname": "Gulfstream IV"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1162893.jpg",
+                "label": 80,
+                "classname": "Gulfstream IV"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1141657.jpg",
+                "label": 81,
+                "classname": "Gulfstream V"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1256465.jpg",
+                "label": 81,
+                "classname": "Gulfstream V"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1683147.jpg",
+                "label": 82,
+                "classname": "Hawk T1"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0935015.jpg",
+                "label": 82,
+                "classname": "Hawk T1"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1451659.jpg",
+                "label": 83,
+                "classname": "Il-76"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1398963.jpg",
+                "label": 83,
+                "classname": "Il-76"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0536722.jpg",
+                "label": 84,
+                "classname": "L-1011"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0985788.jpg",
+                "label": 84,
+                "classname": "L-1011"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0063288.jpg",
+                "label": 85,
+                "classname": "MD-11"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0169997.jpg",
+                "label": 85,
+                "classname": "MD-11"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1603265.jpg",
+                "label": 86,
+                "classname": "MD-80"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0521359.jpg",
+                "label": 86,
+                "classname": "MD-80"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0257369.jpg",
+                "label": 87,
+                "classname": "MD-87"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2021865.jpg",
+                "label": 87,
+                "classname": "MD-87"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0065125.jpg",
+                "label": 88,
+                "classname": "MD-90"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0547148.jpg",
+                "label": 88,
+                "classname": "MD-90"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0356151.jpg",
+                "label": 89,
+                "classname": "Metroliner"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0572854.jpg",
+                "label": 89,
+                "classname": "Metroliner"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1616724.jpg",
+                "label": 90,
+                "classname": "Model B200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1037168.jpg",
+                "label": 90,
+                "classname": "Model B200"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1913914.jpg",
+                "label": 91,
+                "classname": "PA-28"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1170309.jpg",
+                "label": 91,
+                "classname": "PA-28"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2038561.jpg",
+                "label": 92,
+                "classname": "SR-20"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1306689.jpg",
+                "label": 92,
+                "classname": "SR-20"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1313682.jpg",
+                "label": 93,
+                "classname": "Saab 2000"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1047792.jpg",
+                "label": 93,
+                "classname": "Saab 2000"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0410634.jpg",
+                "label": 94,
+                "classname": "Saab 340"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1330701.jpg",
+                "label": 94,
+                "classname": "Saab 340"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/2118977.jpg",
+                "label": 95,
+                "classname": "Spitfire"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1570137.jpg",
+                "label": 95,
+                "classname": "Spitfire"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0586258.jpg",
+                "label": 96,
+                "classname": "Tornado"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1408735.jpg",
+                "label": 96,
+                "classname": "Tornado"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1594716.jpg",
+                "label": 97,
+                "classname": "Tu-134"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0062709.jpg",
+                "label": 97,
+                "classname": "Tu-134"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0543872.jpg",
+                "label": 98,
+                "classname": "Tu-154"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/1113089.jpg",
+                "label": 98,
+                "classname": "Tu-154"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0523140.jpg",
+                "label": 99,
+                "classname": "Yak-42"
+            },
+            {
+                "impath": "data/CoOp/fgvc_aircraft/images/0907402.jpg",
+                "label": 99,
+                "classname": "Yak-42"
+            }
+        ],
+        "indices": [
+            14,
+            3,
+            45,
+            43,
+            88,
+            97,
+            128,
+            101,
+            138,
+            135,
+            174,
+            198,
+            216,
+            208,
+            235,
+            256,
+            272,
+            267,
+            319,
+            322,
+            337,
+            338,
+            396,
+            391,
+            413,
+            419,
+            457,
+            447,
+            498,
+            492,
+            506,
+            504,
+            540,
+            556,
+            599,
+            594,
+            626,
+            628,
+            637,
+            645,
+            686,
+            697,
+            727,
+            707,
+            743,
+            756,
+            777,
+            778,
+            809,
+            820,
+            864,
+            854,
+            883,
+            867,
+            910,
+            900,
+            952,
+            940,
+            974,
+            998,
+            1030,
+            1004,
+            1066,
+            1048,
+            1093,
+            1085,
+            1122,
+            1114,
+            1144,
+            1133,
+            1170,
+            1187,
+            1229,
+            1219,
+            1265,
+            1261,
+            1295,
+            1292,
+            1309,
+            1316,
+            1356,
+            1354,
+            1375,
+            1394,
+            1405,
+            1409,
+            1444,
+            1451,
+            1490,
+            1479,
+            1522,
+            1505,
+            1537,
+            1558,
+            1578,
+            1588,
+            1623,
+            1620,
+            1644,
+            1652,
+            1668,
+            1672,
+            1722,
+            1706,
+            1743,
+            1744,
+            1798,
+            1771,
+            1807,
+            1811,
+            1863,
+            1847,
+            1886,
+            1892,
+            1915,
+            1931,
+            1947,
+            1952,
+            1990,
+            1981,
+            2020,
+            2028,
+            2058,
+            2065,
+            2092,
+            2087,
+            2118,
+            2128,
+            2159,
+            2133,
+            2183,
+            2178,
+            2229,
+            2223,
+            2258,
+            2257,
+            2268,
+            2276,
+            2332,
+            2304,
+            2362,
+            2355,
+            2386,
+            2372,
+            2416,
+            2430,
+            2447,
+            2463,
+            2471,
+            2476,
+            2515,
+            2504,
+            2552,
+            2541,
+            2570,
+            2577,
+            2625,
+            2616,
+            2634,
+            2666,
+            2682,
+            2677,
+            2706,
+            2713,
+            2735,
+            2753,
+            2772,
+            2774,
+            2817,
+            2803,
+            2851,
+            2844,
+            2876,
+            2893,
+            2908,
+            2905,
+            2956,
+            2933,
+            2976,
+            2999,
+            3026,
+            3009,
+            3046,
+            3052,
+            3097,
+            3099,
+            3104,
+            3124,
+            3143,
+            3149,
+            3199,
+            3192,
+            3219,
+            3225,
+            3254,
+            3243,
+            3291,
+            3270,
+            3327,
+            3301
+        ]
+    }
+}
